@@ -10,29 +10,28 @@ module top_tb
     /* Define params for modules */
     localparam DATA_WIDTH = 8;
     localparam DEPTH = 4;
+    localparam PARITY_MODE = EVEN;
+    localparam PARITY_BIT_CHOICE = MSB;
     localparam period = 10ns;
     localparam half_period = 5ns;
     `timescale 10ns/1ns;
 
     /* Define testbench variables */
     integer cycle_ctr;
+    integer expected_grant_cycle;
 
-    /* Define push transaction */
+    /* Define a full push to pop transaction */
     typedef struct {
-        logic [DATA_WIDTH-1:0] data;
-        integer data_cycle;
-        integer valid_cycle;
-    } push_transaction;
+        integer push_data_cycle;
+        integer push_valid_cycle;
+        integer push_grant_cycle;
+        logic   [DATA_WIDTH-1:0] data;
+        integer pop_valid_cycle;
+        integer pop_grant_cycle;
+    } push_pop_transaction;
 
-    /* Define pop transaction */
-    typedef struct {
-        logic [DATA_WIDTH-1:0] data;
-        integer valid_cycle;
-        integer grant_cycle;
-    } pop_transaction;
+    push_pop_transaction transactions[];
 
-    push_transaction push_transactions[];
-    pop_transaction  pop_transactions[];
 
     /** Define DUT's top signals **/
     reg                     clk;
@@ -44,22 +43,24 @@ module top_tb
     wire  [DATA_WIDTH-1:0]  pop_data_o;
     reg                     pop_grant_i;
 
+
     /* Instanciate DUT */
-    fifo #(
+    top #(
         .DATA_WIDTH(DATA_WIDTH),
-        .DEPTH(DEPTH)
+        .DEPTH(DEPTH),
+        .PARITY_MODE(PARITY_MODE),
+        .PARITY_BIT_CHOICE(PARITY_BIT_CHOICE)
     ) DUT (
         .clk(clk),
         .reset_n(reset_n),
-        // Push interface
         .push_valid_i(push_valid_i),
         .push_data_i(push_data_i),
         .push_grant_o(push_grant_o),
-        // Pop interface
-        .pop_valid_o(pop_valid_o),
-        .pop_data_o(pop_data_o),
-        .pop_grant_i(pop_grant_i)
+        .valid_o(pop_valid_o),
+        .data_o(pop_data_o),
+        .grant_i(pop_grant_i)
     );
+
 
     /* Manage clk and reset */
     always 
@@ -77,39 +78,29 @@ module top_tb
         reset_n = 'b1;
     end
 
+
     /* Read input transactions files */
     initial 
     begin
         int file_inputs;
-        int tmp_data_cycle;
-        int tmp_valid_cycle;
-        int tmp_data;
-        push_transactions = new [0];
+        int tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle;
+        string tmp;
+        // Initialize a dynamic array for transactions
+        transactions = new [0];
+        // Open file
         file_inputs = $fopen(`TRANSACTIONS_INPUT_PATH, "r");
         if (!file_inputs) $fatal("File input %s couldn't be opened.\n", `TRANSACTIONS_INPUT_PATH);
-        while ($fscanf (file_inputs, "%d : %d : %b", tmp_data_cycle, tmp_valid_cycle, tmp_data) == 3) begin
-            push_transactions = new [push_transactions.size()+1] (push_transactions);
-            push_transactions[push_transactions.size()-1] = '{tmp_data, tmp_data_cycle, tmp_valid_cycle};
+        // Remove first comments
+        while ($fscanf (file_inputs, "#%s", tmp) == 1) begin end
+        // Scan following lines
+        while ($fscanf (file_inputs, "%d : %d : %d : %b : %d : %d", tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle) == 6) begin
+            // Add new transaction to the array
+            transactions = new [transactions.size()+1] (transactions);
+            transactions[transactions.size()-1] = '{tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle};
         end
         $fclose(file_inputs);
     end
 
-    /* Read output transactions files */
-    initial 
-    begin
-        int file_outputs;
-        int tmp_valid_cycle;
-        int tmp_grant_cycle;
-        int tmp_data;
-        pop_transactions = new [0];
-        file_outputs = $fopen(`TRANSACTIONS_OUTPUT_PATH, "r");
-        if (!file_outputs) $fatal("File output %s couldn't be opened.\n", `TRANSACTIONS_OUTPUT_PATH);
-        while ($fscanf (file_outputs, "%d : %d : %b", tmp_valid_cycle, tmp_grant_cycle, tmp_data) == 3) begin
-            pop_transactions = new [pop_transactions.size()+1] (pop_transactions);
-            pop_transactions[pop_transactions.size()-1] = '{tmp_data, tmp_valid_cycle, tmp_grant_cycle};
-        end
-        $fclose(file_outputs);
-    end
 
     /* Update testbench cycle counter */
     always @(negedge clk, negedge reset_n)
@@ -130,35 +121,42 @@ module top_tb
     
         push_valid_i = 1'b0;
 
-        foreach(push_transactions[i])
+        foreach(transactions[i])
         begin
-            if(push_transactions[i].data_cycle == cycle_ctr)
-                push_data_i = push_transactions[i].data;
-            if(push_transactions[i].valid_cycle == cycle_ctr)
+            // Present data on a push data cycle
+            if(transactions[i].push_data_cycle == cycle_ctr)
+                push_data_i = transactions[i].data;
+            // Valid data on a push valid cycle
+            if(transactions[i].push_valid_cycle == cycle_ctr)
+            begin
                 push_valid_i = 1'b1;
+                expected_grant_cycle = transactions[i].push_grant_cycle;
+            end
+            if(expected_grant_cycle == cycle_ctr)
+                if(~push_grant_o)
+                    $error("[Cycle %0d] Expected (push_grant_o) = (%u) but got (%u)", cycle_ctr, 1, push_grant_o);
         end
     end
 
 
-    /* Request and verify outupt transactions */
+    /* Request and verify pop transactions */
     always @(cycle_ctr) begin
         pop_grant_i = 1'b0;
 
-        foreach(pop_transactions[i])
+        foreach(transactions[i])
         begin
-            if(pop_transactions[i].valid_cycle == cycle_ctr)
-                if(~pop_valid_o || (pop_data_o != pop_transactions[i].data))
-                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, pop_transactions[i].data, pop_valid_o, pop_data_o);
-            if(pop_transactions[i].grant_cycle == cycle_ctr)
+            if(transactions[i].pop_valid_cycle == cycle_ctr)
+                if(~pop_valid_o || (pop_data_o != transactions[i].data))
+                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, transactions[i].data, pop_valid_o, pop_data_o);
+            if(transactions[i].pop_grant_cycle == cycle_ctr)
             begin
                 pop_grant_i = 1'b1;
-                if(~pop_valid_o || pop_data_o != pop_transactions[i].data)
-                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, pop_transactions[i].data, pop_valid_o, pop_data_o);
+                if(~pop_valid_o || pop_data_o != transactions[i].data)
+                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, transactions[i].data, pop_valid_o, pop_data_o);
         
             end
         end
     end
-
 
   
 endmodule

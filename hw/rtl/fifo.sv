@@ -17,40 +17,105 @@ module fifo
     input   wire                     pop_grant_i        // 1 when the FIFO accepts the pop
 );
     localparam ADDRESS_WIDTH = $clog2(DEPTH);
-    reg [ADDRESS_WIDTH-1:0] read_ctr, write_ctr;
-    reg is_empty;
-    wire is_full;
 
-    assign is_full = (read_ctr == write_ctr) & ~is_empty;
-    assign push_grant_o = ~is_full;
-    assign pop_valid_o  = ~is_empty;
+    // Registers for counters
+    logic [ADDRESS_WIDTH-1:0] read_ctr, write_ctr;
+    // Signals for next counters values
+    logic [ADDRESS_WIDTH-1:0] next_read_ctr, next_write_ctr;
+    // Signals for temporary outputs
+    logic push_grant_o_tmp, pop_valid_o_tmp;
+    // State of the FIFO
+    enum logic[1:0] {EMPTY, NORMAL, FULL} current_state, next_state;
 
+
+    /* Update state and counters with pre-computed values */
     always_ff @(posedge clk, negedge reset_n) begin
         if (!reset_n) begin
             read_ctr  <= 'b0;
             write_ctr <= 'b0;
-            is_empty   <= 'b1;
+            current_state <= EMPTY;
         end
         else begin
-            // Update write counter at the beginning of a write cycle
-            if (push_valid_i & push_grant_o)
-            begin
-                write_ctr <= (write_ctr == DEPTH-1) ? 'b0 : write_ctr + 1;
-                if (is_empty) begin
-                    is_empty <= 'b0;
-                end
-            end
-            // Update read counter at the beginning of a read cycle
-            if (pop_grant_i & pop_valid_o)
-            begin
-                read_ctr <= (read_ctr == DEPTH-1) ? 'b0 : read_ctr + 1;
-                if (write_ctr == read_ctr) begin
-                    is_empty <= 'b1;
-                end
-            end
+            read_ctr <= next_read_ctr;
+            write_ctr <= next_write_ctr;
+            current_state <= next_state;
         end
     end
 
+    /* Compute next read_ctr value */
+    always @(*)
+    begin    
+        if(pop_valid_o_tmp & pop_grant_i)
+            next_read_ctr = (read_ctr == DEPTH-1) ? 'b0 : read_ctr + 1;
+        else
+            next_read_ctr = read_ctr;
+    end
+
+    /* Compute next write_ctr value */
+    always @(*)
+    begin    
+        if(push_grant_o_tmp & push_valid_i)
+            next_write_ctr = (write_ctr == DEPTH-1) ? 'b0 : write_ctr + 1;
+        else
+            next_write_ctr = write_ctr;
+    end
+
+    /* Compute output signals */
+    always @(*)
+    begin
+        case(current_state)
+            FULL:
+            begin
+                push_grant_o_tmp = 1'b0;
+                pop_valid_o_tmp = 1'b1;
+            end
+            EMPTY:
+            begin
+                push_grant_o_tmp = 1'b1;
+                pop_valid_o_tmp = 1'b0;
+            end
+            NORMAL:
+            begin
+                push_grant_o_tmp = 1'b1;
+                pop_valid_o_tmp = 1'b1;
+            end
+        
+        endcase
+    end
+
+    /* Compute next state */
+    always @(*)
+    begin
+        next_state = current_state;
+        case(current_state)
+            FULL:
+            begin
+                if(pop_valid_o_tmp & pop_grant_i)
+                    next_state = NORMAL;
+            end
+            EMPTY:
+            begin
+                if(push_grant_o_tmp & push_valid_i)
+                    next_state = NORMAL;
+            end
+            NORMAL:
+            begin
+                if(next_read_ctr == next_write_ctr)
+                begin
+                    if(pop_grant_i & pop_valid_o_tmp)
+                        next_state = EMPTY;
+                    if(push_valid_i & push_grant_o_tmp)
+                        next_state = FULL;
+                end
+            end
+        endcase
+    end
+
+    /* Output signals */
+    assign push_grant_o = push_grant_o_tmp;
+    assign pop_valid_o = pop_valid_o_tmp;
+
+    /* Instanciate RAM */
     sr_sw_beh_ram #(
         .DATA_WIDTH(DATA_WIDTH),
         .DEPTH(DEPTH),
@@ -59,10 +124,10 @@ module fifo
         .clk(clk),
         .write_addr(write_ctr),
         .write_data(push_data_i),
-        .write_enable(push_grant_o & push_valid_i),
+        .write_enable(push_valid_i & push_grant_tmp),
         .read_addr(read_ctr),
         .read_data(pop_data_o),
-        .read_enable(pop_grant_i),
+        .read_enable(1'b1),
         .chip_select(1'b1)
     );
 
