@@ -4,13 +4,12 @@ import types_pkg::*;
 module top_tb
 ();
 
-    `define TRANSACTIONS_INPUT_PATH  "../tb/test_01/transactions_inputs.txt"
-    `define TRANSACTIONS_OUTPUT_PATH "../tb/test_01/transactions_outputs.txt"
+    `define TRANSACTIONS_INPUT_PATH  "../tb/test_02/transactions_inputs.txt"
 
     /* Define params for modules */
     localparam DATA_WIDTH = 8;
     localparam DEPTH = 4;
-    localparam PARITY_MODE = EVEN;
+    localparam PARITY_MODE = ODD;
     localparam PARITY_BIT_CHOICE = MSB;
     localparam period = 10ns;
     localparam half_period = 5ns;
@@ -116,10 +115,19 @@ module top_tb
 
     /* Present push transactions */
     always @(cycle_ctr) begin
+
+        logic keep_push_valid;
+        logic remove_push_valid;
+
+        keep_push_valid = 0;
+        remove_push_valid = 0;
+
         if (cycle_ctr == 0)
+        begin
             push_data_i = 0;
-    
-        push_valid_i = 1'b0;
+            push_valid_i = 1'b0;
+            // push_valid_i is turned on at push_data_cycle and turned_off at push_grant_cycle 
+        end
 
         foreach(transactions[i])
         begin
@@ -130,12 +138,20 @@ module top_tb
             if(transactions[i].push_valid_cycle == cycle_ctr)
             begin
                 push_valid_i = 1'b1;
+                keep_push_valid = 1;
                 expected_grant_cycle = transactions[i].push_grant_cycle;
             end
             if(expected_grant_cycle == cycle_ctr)
                 if(~push_grant_o)
-                    $error("[Cycle %0d] Expected (push_grant_o) = (%u) but got (%u)", cycle_ctr, 1, push_grant_o);
+                    $error("[Cycle %0d] [transaction %0d] (push_grant_cycle) Expected (push_grant_o) = (%u) but got (%u)", i, cycle_ctr, 1, push_grant_o);
+            if(expected_grant_cycle + 1 == cycle_ctr)
+                // We can remove a push valid after a grant 
+                remove_push_valid = 1;
         end
+
+        // Remove the push valid only if the next transaction doesn't request it
+        if(remove_push_valid & ~keep_push_valid)
+            push_valid_i = 1'b0;
     end
 
 
@@ -147,12 +163,12 @@ module top_tb
         begin
             if(transactions[i].pop_valid_cycle == cycle_ctr)
                 if(~pop_valid_o || (pop_data_o != transactions[i].data))
-                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, transactions[i].data, pop_valid_o, pop_data_o);
+                    $fatal("[Cycle %0d] [transaction %0d] (pop_valid_cycle) Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, i, 1, transactions[i].data, pop_valid_o, pop_data_o);
             if(transactions[i].pop_grant_cycle == cycle_ctr)
             begin
                 pop_grant_i = 1'b1;
                 if(~pop_valid_o || pop_data_o != transactions[i].data)
-                    $error("[Cycle %0d] Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, 1, transactions[i].data, pop_valid_o, pop_data_o);
+                    $error("[Cycle %0d] [transaction %0d] (pop_grant_cycle) Expected (pop_valid_o, pop_data_o) = (%u, %0b) but got (%u, %0b)", cycle_ctr, i, 1, transactions[i].data, pop_valid_o, pop_data_o);
         
             end
         end

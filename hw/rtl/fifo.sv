@@ -124,7 +124,7 @@ module fifo
         .clk(clk),
         .write_addr(write_ctr),
         .write_data(push_data_i),
-        .write_enable(push_valid_i & push_grant_tmp),
+        .write_enable(push_valid_i & push_grant_o_tmp),
         .read_addr(read_ctr),
         .read_data(pop_data_o),
         .read_enable(1'b1),

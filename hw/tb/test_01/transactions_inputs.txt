@@ -1,2 +1,7 @@
-2 : 3 : 4 : 11011 : 6 : 7
-2 : 3 : 4 : 11011 : 6 : 7
+# This transaction table is reproducing the fifo-push-pop example of the exercise
+# push_data_cycle : push_valid_cycle : push_grant_cycle : data : pop_valid_cycle : pop_grant_cycle
+2 : 2 : 2 : 100000 : 3 : 6
+3 : 3 : 3 : 010000 : 7 : 7
+4 : 4 : 4 : 001000 : 8 : 9
+5 : 5 : 5 : 000100 : 3 : 10
+6 : 6 : 7 : 000010 : 3 : 11
