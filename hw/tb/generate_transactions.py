@@ -38,7 +38,7 @@ class DUT():
         self.fifo_free_cycle = 0 # Next cycle when (size < DEPTH)
         self.fifo_empty_cycle = 0 # Next cycle when (size == 0)
         self.arrival_times = [] # Sampled times in memory (push_grant_cycle)
-        self.departure_times = [] # Evicted time from FIFO
+        self.departure_times = [] # Evicted time from FIFO (pop_grant_cycle)
     
     # Find the size of the FIFO based on the arrival and departure times
     def get_size(self, cycle):
@@ -79,9 +79,13 @@ class DUT():
         print("Unknown parity mode")
         sys.exit(1)
     
+    # Generate a valid or invalid data
     def gen_data(self, valid=True):
         data = random.randint(0, 2**(self.DATA_WIDTH-4))
         parity_bit = 1 if not self.check(data) else 0
+        # Flip bit if we don't want a valid one
+        if(not valid):
+            parity_bit = (parity_bit + 1) % 2
         if self.PARITY_BIT_CHOICE == "MSB":
             return str(parity_bit) + decimal_to_binary(data, self.DATA_WIDTH-1)
         else:
@@ -123,7 +127,7 @@ class DUT():
         # Return when the pop interface is free for new data
         return push_grant_cycle + 1
     
-    # Stringigy for csv like file
+    # Stringigy transaction table for csv like file
     def to_string(self):
         result = ""
         result += "# DATA_WIDTH="+str(self.DATA_WIDTH)+" DEPTH="+str(self.DEPTH)+" PARITY_MODE="+str(self.PARITY_MODE)+" PARITY_BIT_CHOICE="+str(self.PARITY_BIT_CHOICE)+'\n'
@@ -132,7 +136,7 @@ class DUT():
             result += transaction.to_string() + '\n'
         return result
     
-    # Log the complete behavior
+    # Log the complete behavior with transaction table
     def log(self, first_cycle, last_cycle):
         result = ""
         for cycle in range(first_cycle, last_cycle):
@@ -151,16 +155,33 @@ class DUT():
             result += begin_str+" End of cycle ["+str(cycle) +"] size is "+str(self.get_size(cycle+1))+'\n\n'
         return result
 
-# Simulation parameters
+# Default simulation parameters
 DATA_WIDTH = 8
 DEPTH = 4
 PARITY_MODE = "ODD"
 PARITY_BIT_CHOICE = "MSB"
 first_cycle = 2
-last_cycle = 100
+last_cycle = 10
 p_wait_push = 0.25
 p_wait_pop = 0.5
+p_error_bit = 0.1
 output_dir = "test_03"
+
+# Arguments parsing
+for arg in sys.argv[1:]:
+    if(len(arg.split('=')) == 2):
+        arg, value = arg.split('=')
+        if(arg == "DATA_WIDTH"): DATA_WIDTH = int(value)
+        if(arg == "DEPTH"): DEPTH = int(value)
+        if(arg == "PARITY_MODE"): PARITY_MODE = value
+        if(arg == "PARITY_BIT_CHOICE"): PARITY_BIT_CHOICE = value
+        if(arg == "first_cycle"): first_cycle = int(value)
+        if(arg == "last_cycle"): last_cycle = int(value)
+        if(arg == "output_dir"): output_dir = value
+        if(arg == "p_wait_push"): p_wait_push = float(value)
+        if(arg == "p_wait_pop"): p_wait_pop = float(value)
+        if(arg == "p_error_bit"): p_error_bit = float(value)
+        if(arg == "output_dir"): output_dir = value
 
 # Simulation 'engine'
 dut = DUT(DATA_WIDTH, DEPTH, PARITY_MODE, PARITY_BIT_CHOICE)
@@ -168,7 +189,8 @@ dut = DUT(DATA_WIDTH, DEPTH, PARITY_MODE, PARITY_BIT_CHOICE)
 # Simulation loop
 cycle = first_cycle
 while cycle < last_cycle:
-    data = dut.gen_data(valid=True)
+    valid = False if random.random() < p_error_bit else True
+    data = dut.gen_data(valid=valid)
     cycle = dut.add_transaction(cycle, data, p_wait_push=p_wait_push, p_wait_pop=p_wait_pop)
 
 # Log and output
@@ -189,6 +211,12 @@ print("DATA_WIDTH =", DATA_WIDTH)
 print("DEPTH =", DEPTH)
 print("PARITY_MODE =", PARITY_MODE)
 print("PARITY_BIT_CHOICE =", PARITY_BIT_CHOICE)
+print("p_wait_push =", p_wait_push)
+print("p_wait_pop =", p_wait_pop)
+print("p_error_bit =", p_error_bit)
+print("first_cycle =", first_cycle)
+print("last_cycle =", last_cycle)
+
 
 print("\nDone, files written :")
 print("- "+output_dir+"/transactions_log.txt")

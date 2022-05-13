@@ -4,11 +4,13 @@ import types_pkg::*;
 module top_tb
 ();
 
-    `define TRANSACTIONS_INPUT_PATH  "../tb/test_02/transactions_inputs.txt"
+    `ifndef TRANSACTIONS_INPUT_PATH
+    `define TRANSACTIONS_INPUT_PATH  "../tb/test_03/transactions_inputs.txt"
+    `endif
 
     /* Define params for modules */
-    localparam DATA_WIDTH = 8;
-    localparam DEPTH = 4;
+    localparam DATA_WIDTH = 10;
+    localparam DEPTH = 12;
     localparam PARITY_MODE = ODD;
     localparam PARITY_BIT_CHOICE = MSB;
     localparam period = 10ns;
@@ -89,13 +91,14 @@ module top_tb
         // Open file
         file_inputs = $fopen(`TRANSACTIONS_INPUT_PATH, "r");
         if (!file_inputs) $fatal("File input %s couldn't be opened.\n", `TRANSACTIONS_INPUT_PATH);
-        // Remove first comments
-        while ($fscanf (file_inputs, "#%s", tmp) == 1) begin end
-        // Scan following lines
-        while ($fscanf (file_inputs, "%d : %d : %d : %b : %d : %d", tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle) == 6) begin
-            // Add new transaction to the array
-            transactions = new [transactions.size()+1] (transactions);
-            transactions[transactions.size()-1] = '{tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle};
+        // Read all lines
+        while ($fgets(tmp,file_inputs) > 0) begin
+            // Accept only if matches the right pattern
+            if ($sscanf (tmp, "%d : %d : %d : %b : %d : %d", tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle) == 6) begin
+                // Add new transaction to the array
+                transactions = new [transactions.size()+1] (transactions);
+                transactions[transactions.size()-1] = '{tmp_push_data_cycle, tmp_push_valid_cycle, tmp_push_grant_cycle, tmp_data, tmp_pop_valid_cycle, tmp_pop_grant_cycle};
+            end
         end
         $fclose(file_inputs);
     end
