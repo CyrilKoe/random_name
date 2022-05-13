@@ -3,16 +3,29 @@ import types_pkg::*;
 
 module top_tb
 ();
-
+    /* Define default macros values */
     `ifndef TRANSACTIONS_INPUT_PATH
-    `define TRANSACTIONS_INPUT_PATH  "../tb/test_03/transactions_inputs.txt"
+    `define TRANSACTIONS_INPUT_PATH  "../tb/test_01/transactions_inputs.txt"
     `endif
+    `ifndef DATA_WIDTH
+    `define DATA_WIDTH 8
+    `endif
+    `ifndef DEPTH
+    `define DEPTH 4
+    `endif
+    `ifndef PARITY_MODE
+    `define PARITY_MODE ODD
+    `endif
+    `ifndef PARITY_BIT_CHOICE
+    `define PARITY_BIT_CHOICE MSB
+    `endif
+    
 
     /* Define params for modules */
-    localparam DATA_WIDTH = 10;
-    localparam DEPTH = 12;
-    localparam PARITY_MODE = ODD;
-    localparam PARITY_BIT_CHOICE = MSB;
+    localparam DATA_WIDTH = `DATA_WIDTH;
+    localparam DEPTH = `DEPTH;
+    localparam PARITY_MODE = `PARITY_MODE;
+    localparam PARITY_BIT_CHOICE = `PARITY_BIT_CHOICE;
     localparam period = 10ns;
     localparam half_period = 5ns;
     `timescale 10ns/1ns;

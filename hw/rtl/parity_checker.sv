@@ -1,4 +1,4 @@
-import all_types_pkg::*;
+import types_pkg::*;
 
 module parity_checker
 #(
