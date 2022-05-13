@@ -1,0 +1,6 @@
+# This transaction table is filling the FIFO and emptying it
+# push_data_cycle : push_valid_cycle : push_grant_cycle : data : pop_valid_cycle : pop_grant_cycle
+2 : 2 : 2 : 100000 : 3 : 7
+3 : 3 : 3 : 010000 : 8 : 8
+4 : 4 : 4 : 001000 : 9 : 9
+5 : 5 : 5 : 000100 : 10 : 10

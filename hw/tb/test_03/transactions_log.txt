@@ -1,0 +1,5603 @@
+[2] (00000000) arrived at the push interface
+[2] (00000000) ready to be pushed
+[2] (00000000) will be pushed
+[2] (00001110) End of cycle [2] size is 1
+
+[3] (00000000) ready to be popped
+[3] (00000000) will be popped
+[3] (00010000) arrived at the push interface
+[3] (00001110) End of cycle [3] size is 0
+
+[4] (00010000) ready to be pushed
+[4] (00010000) will be pushed
+[4] (00001110) End of cycle [4] size is 1
+
+[5] (00010000) ready to be popped
+[5] (00001110) arrived at the push interface
+[5] (00001110) ready to be pushed
+[5] (00001110) will be pushed
+[5] (00001110) End of cycle [5] size is 2
+
+[6] (00010000) will be popped
+[6] (10000011) arrived at the push interface
+[6] (10000011) ready to be pushed
+[6] (10000011) will be pushed
+[6] (00001110) End of cycle [6] size is 2
+
+[7] (00001110) ready to be popped
+[7] (00001110) will be popped
+[7] (10001001) arrived at the push interface
+[7] (10001001) ready to be pushed
+[7] (10001001) will be pushed
+[7] (00001110) End of cycle [7] size is 2
+
+[8] (10000011) ready to be popped
+[8] (10000011) will be popped
+[8] (00000111) arrived at the push interface
+[8] (00000111) ready to be pushed
+[8] (00000111) will be pushed
+[8] (00001110) End of cycle [8] size is 2
+
+[9] (10001001) ready to be popped
+[9] (00000010) arrived at the push interface
+[9] (00000010) ready to be pushed
+[9] (00000010) will be pushed
+[9] (00001110) End of cycle [9] size is 3
+
+[10] (10001001) will be popped
+[10] (10000011) arrived at the push interface
+[10] (10000011) ready to be pushed
+[10] (10000011) will be pushed
+[10] (00001110) End of cycle [10] size is 3
+
+[11] (00000111) ready to be popped
+[11] (00000111) will be popped
+[11] (00000010) arrived at the push interface
+[11] (00000010) ready to be pushed
+[11] (00000010) will be pushed
+[11] (00001110) End of cycle [11] size is 3
+
+[12] (00000010) ready to be popped
+[12] (00010000) arrived at the push interface
+[12] (00010000) ready to be pushed
+[12] (00010000) will be pushed
+[12] (00001110) End of cycle [12] size is 4
+
+[13] (00000010) will be popped
+[13] (10000101) arrived at the push interface
+[13] (10000101) ready to be pushed
+[13] (00001110) End of cycle [13] size is 3
+
+[14] (10000011) ready to be popped
+[14] (10000011) will be popped
+[14] (10000101) will be pushed
+[14] (00001110) End of cycle [14] size is 3
+
+[15] (00000010) ready to be popped
+[15] (00000010) will be popped
+[15] (00001000) arrived at the push interface
+[15] (00001110) End of cycle [15] size is 2
+
+[16] (00010000) ready to be popped
+[16] (00001000) ready to be pushed
+[16] (00001000) will be pushed
+[16] (00001110) End of cycle [16] size is 3
+
+[17] (00010000) will be popped
+[17] (00000111) arrived at the push interface
+[17] (00001110) End of cycle [17] size is 2
+
+[18] (10000101) ready to be popped
+[18] (00000111) ready to be pushed
+[18] (00000111) will be pushed
+[18] (00001110) End of cycle [18] size is 3
+
+[19] (10000101) will be popped
+[19] (00000111) arrived at the push interface
+[19] (00000111) ready to be pushed
+[19] (00000111) will be pushed
+[19] (00001110) End of cycle [19] size is 3
+
+[20] (00001000) ready to be popped
+[20] (00001000) will be popped
+[20] (10000101) arrived at the push interface
+[20] (00001110) End of cycle [20] size is 2
+
+[21] (00000111) ready to be popped
+[21] (00000111) will be popped
+[21] (10000101) ready to be pushed
+[21] (10000101) will be pushed
+[21] (00001110) End of cycle [21] size is 2
+
+[22] (00000111) ready to be popped
+[22] (00001011) arrived at the push interface
+[22] (00001011) ready to be pushed
+[22] (00001011) will be pushed
+[22] (00001110) End of cycle [22] size is 3
+
+[23] (00000111) will be popped
+[23] (10000101) arrived at the push interface
+[23] (10000101) ready to be pushed
+[23] (10000101) will be pushed
+[23] (00001110) End of cycle [23] size is 3
+
+[24] (10000101) ready to be popped
+[24] (10000101) will be popped
+[24] (00001010) arrived at the push interface
+[24] (00001010) ready to be pushed
+[24] (00001010) will be pushed
+[24] (00001110) End of cycle [24] size is 3
+
+[25] (00001011) ready to be popped
+[25] (00001011) will be popped
+[25] (10001100) arrived at the push interface
+[25] (10001100) ready to be pushed
+[25] (10001100) will be pushed
+[25] (00001110) End of cycle [25] size is 3
+
+[26] (10000101) ready to be popped
+[26] (10000100) arrived at the push interface
+[26] (10000100) ready to be pushed
+[26] (10000100) will be pushed
+[26] (00001110) End of cycle [26] size is 4
+
+[27] (10000101) will be popped
+[27] (00000111) arrived at the push interface
+[27] (00000111) ready to be pushed
+[27] (00001110) End of cycle [27] size is 3
+
+[28] (00001010) ready to be popped
+[28] (00001010) will be popped
+[28] (00000111) will be pushed
+[28] (00001110) End of cycle [28] size is 3
+
+[29] (10001100) ready to be popped
+[29] (10001100) will be popped
+[29] (10000101) arrived at the push interface
+[29] (10000101) ready to be pushed
+[29] (10000101) will be pushed
+[29] (00001110) End of cycle [29] size is 3
+
+[30] (10000100) ready to be popped
+[30] (10000100) will be popped
+[30] (00001110) arrived at the push interface
+[30] (00001110) ready to be pushed
+[30] (00001110) will be pushed
+[30] (00001110) End of cycle [30] size is 3
+
+[31] (00000111) ready to be popped
+[31] (00000111) will be popped
+[31] (10000011) arrived at the push interface
+[31] (10000011) ready to be pushed
+[31] (10000011) will be pushed
+[31] (00001110) End of cycle [31] size is 3
+
+[32] (10000101) ready to be popped
+[32] (10000101) will be popped
+[32] (10000101) arrived at the push interface
+[32] (00001110) End of cycle [32] size is 2
+
+[33] (00001110) ready to be popped
+[33] (00001110) will be popped
+[33] (10000101) ready to be pushed
+[33] (10000101) will be pushed
+[33] (00001110) End of cycle [33] size is 2
+
+[34] (10000011) ready to be popped
+[34] (10000011) will be popped
+[34] (00000001) arrived at the push interface
+[34] (00000001) ready to be pushed
+[34] (00000001) will be pushed
+[34] (00001110) End of cycle [34] size is 2
+
+[35] (10000101) ready to be popped
+[35] (10000110) arrived at the push interface
+[35] (10000110) ready to be pushed
+[35] (10000110) will be pushed
+[35] (00001110) End of cycle [35] size is 3
+
+[36] (10000101) will be popped
+[36] (00000100) arrived at the push interface
+[36] (00000100) ready to be pushed
+[36] (00000100) will be pushed
+[36] (00001110) End of cycle [36] size is 3
+
+[37] (00000001) ready to be popped
+[37] (00010000) arrived at the push interface
+[37] (00010000) ready to be pushed
+[37] (00010000) will be pushed
+[37] (00001110) End of cycle [37] size is 4
+
+[38] (00000001) will be popped
+[38] (10000000) arrived at the push interface
+[38] (10000000) ready to be pushed
+[38] (00001110) End of cycle [38] size is 3
+
+[39] (10000110) ready to be popped
+[39] (10000110) will be popped
+[39] (10000000) will be pushed
+[39] (00001110) End of cycle [39] size is 3
+
+[40] (00000100) ready to be popped
+[40] (00000001) arrived at the push interface
+[40] (00000001) ready to be pushed
+[40] (00000001) will be pushed
+[40] (00001110) End of cycle [40] size is 4
+
+[41] (00000010) arrived at the push interface
+[41] (00000010) ready to be pushed
+[41] (00001110) End of cycle [41] size is 4
+
+[42] (00001110) End of cycle [42] size is 4
+
+[43] (00000100) will be popped
+[43] (00001110) End of cycle [43] size is 3
+
+[44] (00010000) ready to be popped
+[44] (00010000) will be popped
+[44] (00000010) will be pushed
+[44] (00001110) End of cycle [44] size is 3
+
+[45] (10000000) ready to be popped
+[45] (10000000) will be popped
+[45] (00001000) arrived at the push interface
+[45] (00001000) ready to be pushed
+[45] (00001000) will be pushed
+[45] (00001110) End of cycle [45] size is 3
+
+[46] (00000001) ready to be popped
+[46] (00000010) arrived at the push interface
+[46] (00000010) ready to be pushed
+[46] (00000010) will be pushed
+[46] (00001110) End of cycle [46] size is 4
+
+[47] (00000001) arrived at the push interface
+[47] (00000001) ready to be pushed
+[47] (00001110) End of cycle [47] size is 4
+
+[48] (00000001) will be popped
+[48] (00001110) End of cycle [48] size is 3
+
+[49] (00000010) ready to be popped
+[49] (00000010) will be popped
+[49] (00000001) will be pushed
+[49] (00001110) End of cycle [49] size is 3
+
+[50] (00001000) ready to be popped
+[50] (00001000) will be popped
+[50] (10001010) arrived at the push interface
+[50] (10001010) ready to be pushed
+[50] (10001010) will be pushed
+[50] (00001110) End of cycle [50] size is 3
+
+[51] (00000010) ready to be popped
+[51] (00000010) will be popped
+[51] (10000101) arrived at the push interface
+[51] (10000101) ready to be pushed
+[51] (10000101) will be pushed
+[51] (00001110) End of cycle [51] size is 3
+
+[52] (00000001) ready to be popped
+[52] (10001010) arrived at the push interface
+[52] (10001010) ready to be pushed
+[52] (10001010) will be pushed
+[52] (00001110) End of cycle [52] size is 4
+
+[53] (00000001) will be popped
+[53] (00001110) arrived at the push interface
+[53] (00001110) ready to be pushed
+[53] (00001110) End of cycle [53] size is 3
+
+[54] (10001010) ready to be popped
+[54] (10001010) will be popped
+[54] (00001110) will be pushed
+[54] (00001110) End of cycle [54] size is 3
+
+[55] (10000101) ready to be popped
+[55] (10000101) will be popped
+[55] (10001100) arrived at the push interface
+[55] (10001100) ready to be pushed
+[55] (10001100) will be pushed
+[55] (00001110) End of cycle [55] size is 3
+
+[56] (10001010) ready to be popped
+[56] (10001010) will be popped
+[56] (10000011) arrived at the push interface
+[56] (00001110) End of cycle [56] size is 2
+
+[57] (00001110) ready to be popped
+[57] (10000011) ready to be pushed
+[57] (10000011) will be pushed
+[57] (00001110) End of cycle [57] size is 3
+
+[58] (00001110) will be popped
+[58] (00000100) arrived at the push interface
+[58] (00000100) ready to be pushed
+[58] (00000100) will be pushed
+[58] (00001110) End of cycle [58] size is 3
+
+[59] (10001100) ready to be popped
+[59] (10001100) will be popped
+[59] (10001001) arrived at the push interface
+[59] (00001110) End of cycle [59] size is 2
+
+[60] (10000011) ready to be popped
+[60] (10000011) will be popped
+[60] (00001110) End of cycle [60] size is 1
+
+[61] (00000100) ready to be popped
+[61] (00000100) will be popped
+[61] (10001001) ready to be pushed
+[61] (10001001) will be pushed
+[61] (00001110) End of cycle [61] size is 1
+
+[62] (10001001) ready to be popped
+[62] (10000011) arrived at the push interface
+[62] (10000011) ready to be pushed
+[62] (10000011) will be pushed
+[62] (00001110) End of cycle [62] size is 2
+
+[63] (10001001) will be popped
+[63] (00001101) arrived at the push interface
+[63] (00001101) ready to be pushed
+[63] (00001101) will be pushed
+[63] (00001110) End of cycle [63] size is 2
+
+[64] (10000011) ready to be popped
+[64] (10000011) will be popped
+[64] (00010000) arrived at the push interface
+[64] (00010000) ready to be pushed
+[64] (00010000) will be pushed
+[64] (00001110) End of cycle [64] size is 2
+
+[65] (00001101) ready to be popped
+[65] (00010000) arrived at the push interface
+[65] (00010000) ready to be pushed
+[65] (00010000) will be pushed
+[65] (00001110) End of cycle [65] size is 3
+
+[66] (00001101) will be popped
+[66] (10001001) arrived at the push interface
+[66] (00001110) End of cycle [66] size is 2
+
+[67] (00010000) ready to be popped
+[67] (00010000) will be popped
+[67] (00001110) End of cycle [67] size is 1
+
+[68] (00010000) ready to be popped
+[68] (10001001) ready to be pushed
+[68] (10001001) will be pushed
+[68] (00001110) End of cycle [68] size is 2
+
+[69] (00010000) will be popped
+[69] (00001101) arrived at the push interface
+[69] (00001101) ready to be pushed
+[69] (00001101) will be pushed
+[69] (00001110) End of cycle [69] size is 2
+
+[70] (10001001) ready to be popped
+[70] (10001001) will be popped
+[70] (10000000) arrived at the push interface
+[70] (10000000) ready to be pushed
+[70] (10000000) will be pushed
+[70] (00001110) End of cycle [70] size is 2
+
+[71] (00001101) ready to be popped
+[71] (00001100) arrived at the push interface
+[71] (00001100) ready to be pushed
+[71] (00001100) will be pushed
+[71] (00001110) End of cycle [71] size is 3
+
+[72] (00001101) will be popped
+[72] (00000010) arrived at the push interface
+[72] (00000010) ready to be pushed
+[72] (00000010) will be pushed
+[72] (00001110) End of cycle [72] size is 3
+
+[73] (10000000) ready to be popped
+[73] (10000000) will be popped
+[73] (10000110) arrived at the push interface
+[73] (10000110) ready to be pushed
+[73] (10000110) will be pushed
+[73] (00001110) End of cycle [73] size is 3
+
+[74] (00001100) ready to be popped
+[74] (00001100) will be popped
+[74] (10000101) arrived at the push interface
+[74] (00001110) End of cycle [74] size is 2
+
+[75] (00000010) ready to be popped
+[75] (00000010) will be popped
+[75] (10000101) ready to be pushed
+[75] (10000101) will be pushed
+[75] (00001110) End of cycle [75] size is 2
+
+[76] (10000110) ready to be popped
+[76] (10000110) will be popped
+[76] (00001110) arrived at the push interface
+[76] (00001110) End of cycle [76] size is 1
+
+[77] (10000101) ready to be popped
+[77] (10000101) will be popped
+[77] (00001110) ready to be pushed
+[77] (00001110) will be pushed
+[77] (00001110) End of cycle [77] size is 1
+
+[78] (00001110) ready to be popped
+[78] (10001100) arrived at the push interface
+[78] (00001110) End of cycle [78] size is 1
+
+[79] (00001110) will be popped
+[79] (10001100) ready to be pushed
+[79] (10001100) will be pushed
+[79] (00001110) End of cycle [79] size is 1
+
+[80] (10001100) ready to be popped
+[80] (00000100) arrived at the push interface
+[80] (00000100) ready to be pushed
+[80] (00000100) will be pushed
+[80] (00001110) End of cycle [80] size is 2
+
+[81] (10001100) will be popped
+[81] (10001101) arrived at the push interface
+[81] (00001110) End of cycle [81] size is 1
+
+[82] (00000100) ready to be popped
+[82] (00000100) will be popped
+[82] (10001101) ready to be pushed
+[82] (10001101) will be pushed
+[82] (00001110) End of cycle [82] size is 1
+
+[83] (10001101) ready to be popped
+[83] (10001101) will be popped
+[83] (00000010) arrived at the push interface
+[83] (00001110) End of cycle [83] size is 0
+
+[84] (00000010) ready to be pushed
+[84] (00000010) will be pushed
+[84] (00001110) End of cycle [84] size is 1
+
+[85] (00000010) ready to be popped
+[85] (00000010) will be popped
+[85] (10000101) arrived at the push interface
+[85] (10000101) ready to be pushed
+[85] (10000101) will be pushed
+[85] (00001110) End of cycle [85] size is 1
+
+[86] (10000101) ready to be popped
+[86] (10000101) will be popped
+[86] (10000111) arrived at the push interface
+[86] (10000111) ready to be pushed
+[86] (10000111) will be pushed
+[86] (00001110) End of cycle [86] size is 1
+
+[87] (10000111) ready to be popped
+[87] (10000111) will be popped
+[87] (10001100) arrived at the push interface
+[87] (10001100) ready to be pushed
+[87] (10001100) will be pushed
+[87] (00001110) End of cycle [87] size is 1
+
+[88] (10001100) ready to be popped
+[88] (10001100) will be popped
+[88] (10001100) arrived at the push interface
+[88] (10001100) ready to be pushed
+[88] (10001100) will be pushed
+[88] (00001110) End of cycle [88] size is 1
+
+[89] (10001100) ready to be popped
+[89] (10001100) will be popped
+[89] (10001001) arrived at the push interface
+[89] (10001001) ready to be pushed
+[89] (10001001) will be pushed
+[89] (00001110) End of cycle [89] size is 1
+
+[90] (10001001) ready to be popped
+[90] (10000000) arrived at the push interface
+[90] (10000000) ready to be pushed
+[90] (10000000) will be pushed
+[90] (00001110) End of cycle [90] size is 2
+
+[91] (10001001) will be popped
+[91] (10000101) arrived at the push interface
+[91] (10000101) ready to be pushed
+[91] (10000101) will be pushed
+[91] (00001110) End of cycle [91] size is 2
+
+[92] (10000000) ready to be popped
+[92] (10000000) will be popped
+[92] (10001001) arrived at the push interface
+[92] (00001110) End of cycle [92] size is 1
+
+[93] (10000101) ready to be popped
+[93] (10000101) will be popped
+[93] (10001001) ready to be pushed
+[93] (10001001) will be pushed
+[93] (00001110) End of cycle [93] size is 1
+
+[94] (10001001) ready to be popped
+[94] (10001001) will be popped
+[94] (10000110) arrived at the push interface
+[94] (10000110) ready to be pushed
+[94] (10000110) will be pushed
+[94] (00001110) End of cycle [94] size is 1
+
+[95] (10000110) ready to be popped
+[95] (10000110) will be popped
+[95] (10000110) arrived at the push interface
+[95] (10000110) ready to be pushed
+[95] (10000110) will be pushed
+[95] (00001110) End of cycle [95] size is 1
+
+[96] (10000110) ready to be popped
+[96] (10001100) arrived at the push interface
+[96] (00001110) End of cycle [96] size is 1
+
+[97] (10000110) will be popped
+[97] (10001100) ready to be pushed
+[97] (10001100) will be pushed
+[97] (00001110) End of cycle [97] size is 1
+
+[98] (10001100) ready to be popped
+[98] (10001100) will be popped
+[98] (00001011) arrived at the push interface
+[98] (00001110) End of cycle [98] size is 0
+
+[99] (00001011) ready to be pushed
+[99] (00001011) will be pushed
+[99] (00001110) End of cycle [99] size is 1
+
+[100] (00001011) ready to be popped
+[100] (00001011) arrived at the push interface
+[100] (00001011) ready to be pushed
+[100] (00001011) will be pushed
+[100] (00001110) End of cycle [100] size is 2
+
+[101] (00001011) will be popped
+[101] (10000011) arrived at the push interface
+[101] (00001110) End of cycle [101] size is 1
+
+[102] (00001011) ready to be popped
+[102] (00001011) will be popped
+[102] (00001110) End of cycle [102] size is 0
+
+[103] (00001110) End of cycle [103] size is 0
+
+[104] (10000011) ready to be pushed
+[104] (10000011) will be pushed
+[104] (00001110) End of cycle [104] size is 1
+
+[105] (10000011) ready to be popped
+[105] (10000011) will be popped
+[105] (10001010) arrived at the push interface
+[105] (10001010) ready to be pushed
+[105] (10001010) will be pushed
+[105] (00001110) End of cycle [105] size is 1
+
+[106] (10001010) ready to be popped
+[106] (10001100) arrived at the push interface
+[106] (00001110) End of cycle [106] size is 1
+
+[107] (10001010) will be popped
+[107] (10001100) ready to be pushed
+[107] (10001100) will be pushed
+[107] (00001110) End of cycle [107] size is 1
+
+[108] (10001100) ready to be popped
+[108] (10001100) will be popped
+[108] (00000110) arrived at the push interface
+[108] (00000110) ready to be pushed
+[108] (00000110) will be pushed
+[108] (00001110) End of cycle [108] size is 1
+
+[109] (00000110) ready to be popped
+[109] (00000110) will be popped
+[109] (10000000) arrived at the push interface
+[109] (10000000) ready to be pushed
+[109] (10000000) will be pushed
+[109] (00001110) End of cycle [109] size is 1
+
+[110] (10000000) ready to be popped
+[110] (00001000) arrived at the push interface
+[110] (00001000) ready to be pushed
+[110] (00001000) will be pushed
+[110] (00001110) End of cycle [110] size is 2
+
+[111] (10000000) will be popped
+[111] (10000101) arrived at the push interface
+[111] (10000101) ready to be pushed
+[111] (10000101) will be pushed
+[111] (00001110) End of cycle [111] size is 2
+
+[112] (00001000) ready to be popped
+[112] (00001000) will be popped
+[112] (10000011) arrived at the push interface
+[112] (10000011) ready to be pushed
+[112] (10000011) will be pushed
+[112] (00001110) End of cycle [112] size is 2
+
+[113] (10000101) ready to be popped
+[113] (10001111) arrived at the push interface
+[113] (00001110) End of cycle [113] size is 2
+
+[114] (10001111) ready to be pushed
+[114] (10001111) will be pushed
+[114] (00001110) End of cycle [114] size is 3
+
+[115] (10000101) will be popped
+[115] (10000000) arrived at the push interface
+[115] (00001110) End of cycle [115] size is 2
+
+[116] (10000011) ready to be popped
+[116] (10000011) will be popped
+[116] (10000000) ready to be pushed
+[116] (10000000) will be pushed
+[116] (00001110) End of cycle [116] size is 2
+
+[117] (10001111) ready to be popped
+[117] (10001111) will be popped
+[117] (10000111) arrived at the push interface
+[117] (10000111) ready to be pushed
+[117] (10000111) will be pushed
+[117] (00001110) End of cycle [117] size is 2
+
+[118] (10000000) ready to be popped
+[118] (10000000) will be popped
+[118] (10000010) arrived at the push interface
+[118] (10000010) ready to be pushed
+[118] (10000010) will be pushed
+[118] (00001110) End of cycle [118] size is 2
+
+[119] (10000111) ready to be popped
+[119] (10000111) will be popped
+[119] (00000100) arrived at the push interface
+[119] (00000100) ready to be pushed
+[119] (00000100) will be pushed
+[119] (00001110) End of cycle [119] size is 2
+
+[120] (10000010) ready to be popped
+[120] (10000010) will be popped
+[120] (00001000) arrived at the push interface
+[120] (00001000) ready to be pushed
+[120] (00001000) will be pushed
+[120] (00001110) End of cycle [120] size is 2
+
+[121] (00000100) ready to be popped
+[121] (00000100) will be popped
+[121] (00000100) arrived at the push interface
+[121] (00001110) End of cycle [121] size is 1
+
+[122] (00001000) ready to be popped
+[122] (00001110) End of cycle [122] size is 1
+
+[123] (00001000) will be popped
+[123] (00001110) End of cycle [123] size is 0
+
+[124] (00000100) ready to be pushed
+[124] (00000100) will be pushed
+[124] (00001110) End of cycle [124] size is 1
+
+[125] (00000100) ready to be popped
+[125] (00000100) will be popped
+[125] (10001001) arrived at the push interface
+[125] (10001001) ready to be pushed
+[125] (10001001) will be pushed
+[125] (00001110) End of cycle [125] size is 1
+
+[126] (10001001) ready to be popped
+[126] (10001001) will be popped
+[126] (10000110) arrived at the push interface
+[126] (10000110) ready to be pushed
+[126] (10000110) will be pushed
+[126] (00001110) End of cycle [126] size is 1
+
+[127] (10000110) ready to be popped
+[127] (10000110) will be popped
+[127] (10001100) arrived at the push interface
+[127] (10001100) ready to be pushed
+[127] (10001100) will be pushed
+[127] (00001110) End of cycle [127] size is 1
+
+[128] (10001100) ready to be popped
+[128] (10001100) will be popped
+[128] (00001011) arrived at the push interface
+[128] (00001011) ready to be pushed
+[128] (00001011) will be pushed
+[128] (00001110) End of cycle [128] size is 1
+
+[129] (00001011) ready to be popped
+[129] (00001011) will be popped
+[129] (00000001) arrived at the push interface
+[129] (00000001) ready to be pushed
+[129] (00000001) will be pushed
+[129] (00001110) End of cycle [129] size is 1
+
+[130] (00000001) ready to be popped
+[130] (10001010) arrived at the push interface
+[130] (10001010) ready to be pushed
+[130] (10001010) will be pushed
+[130] (00001110) End of cycle [130] size is 2
+
+[131] (00000001) will be popped
+[131] (00000001) arrived at the push interface
+[131] (00000001) ready to be pushed
+[131] (00000001) will be pushed
+[131] (00001110) End of cycle [131] size is 2
+
+[132] (10001010) ready to be popped
+[132] (10001010) will be popped
+[132] (10001100) arrived at the push interface
+[132] (10001100) ready to be pushed
+[132] (10001100) will be pushed
+[132] (00001110) End of cycle [132] size is 2
+
+[133] (00000001) ready to be popped
+[133] (00000001) will be popped
+[133] (10001101) arrived at the push interface
+[133] (10001101) ready to be pushed
+[133] (10001101) will be pushed
+[133] (00001110) End of cycle [133] size is 2
+
+[134] (10001100) ready to be popped
+[134] (10001100) will be popped
+[134] (10001011) arrived at the push interface
+[134] (00001110) End of cycle [134] size is 1
+
+[135] (10001101) ready to be popped
+[135] (10001101) will be popped
+[135] (10001011) ready to be pushed
+[135] (10001011) will be pushed
+[135] (00001110) End of cycle [135] size is 1
+
+[136] (10001011) ready to be popped
+[136] (10001011) will be popped
+[136] (10000000) arrived at the push interface
+[136] (10000000) ready to be pushed
+[136] (10000000) will be pushed
+[136] (00001110) End of cycle [136] size is 1
+
+[137] (10000000) ready to be popped
+[137] (10000000) will be popped
+[137] (10001010) arrived at the push interface
+[137] (00001110) End of cycle [137] size is 0
+
+[138] (00001110) End of cycle [138] size is 0
+
+[139] (10001010) ready to be pushed
+[139] (10001010) will be pushed
+[139] (00001110) End of cycle [139] size is 1
+
+[140] (10001010) ready to be popped
+[140] (10001010) will be popped
+[140] (10001111) arrived at the push interface
+[140] (00001110) End of cycle [140] size is 0
+
+[141] (10001111) ready to be pushed
+[141] (10001111) will be pushed
+[141] (00001110) End of cycle [141] size is 1
+
+[142] (10001111) ready to be popped
+[142] (10001111) will be popped
+[142] (00001000) arrived at the push interface
+[142] (00001000) ready to be pushed
+[142] (00001000) will be pushed
+[142] (00001110) End of cycle [142] size is 1
+
+[143] (00001000) ready to be popped
+[143] (00001000) will be popped
+[143] (00000010) arrived at the push interface
+[143] (00000010) ready to be pushed
+[143] (00000010) will be pushed
+[143] (00001110) End of cycle [143] size is 1
+
+[144] (00000010) ready to be popped
+[144] (10000110) arrived at the push interface
+[144] (10000110) ready to be pushed
+[144] (10000110) will be pushed
+[144] (00001110) End of cycle [144] size is 2
+
+[145] (00000010) will be popped
+[145] (10000011) arrived at the push interface
+[145] (00001110) End of cycle [145] size is 1
+
+[146] (10000110) ready to be popped
+[146] (10000110) will be popped
+[146] (00001110) End of cycle [146] size is 0
+
+[147] (10000011) ready to be pushed
+[147] (10000011) will be pushed
+[147] (00001110) End of cycle [147] size is 1
+
+[148] (10000011) ready to be popped
+[148] (10000011) will be popped
+[148] (10000101) arrived at the push interface
+[148] (00001110) End of cycle [148] size is 0
+
+[149] (10000101) ready to be pushed
+[149] (10000101) will be pushed
+[149] (00001110) End of cycle [149] size is 1
+
+[150] (10000101) ready to be popped
+[150] (10000101) will be popped
+[150] (10000101) arrived at the push interface
+[150] (10000101) ready to be pushed
+[150] (10000101) will be pushed
+[150] (00001110) End of cycle [150] size is 1
+
+[151] (10000101) ready to be popped
+[151] (10000101) will be popped
+[151] (10001010) arrived at the push interface
+[151] (10001010) ready to be pushed
+[151] (10001010) will be pushed
+[151] (00001110) End of cycle [151] size is 1
+
+[152] (10001010) ready to be popped
+[152] (10001010) will be popped
+[152] (00000010) arrived at the push interface
+[152] (00000010) ready to be pushed
+[152] (00000010) will be pushed
+[152] (00001110) End of cycle [152] size is 1
+
+[153] (00000010) ready to be popped
+[153] (00000010) will be popped
+[153] (00000001) arrived at the push interface
+[153] (00000001) ready to be pushed
+[153] (00000001) will be pushed
+[153] (00001110) End of cycle [153] size is 1
+
+[154] (00000001) ready to be popped
+[154] (00001010) arrived at the push interface
+[154] (00001110) End of cycle [154] size is 1
+
+[155] (00000001) will be popped
+[155] (00001010) ready to be pushed
+[155] (00001010) will be pushed
+[155] (00001110) End of cycle [155] size is 1
+
+[156] (00001010) ready to be popped
+[156] (00001010) will be popped
+[156] (10001001) arrived at the push interface
+[156] (10001001) ready to be pushed
+[156] (10001001) will be pushed
+[156] (00001110) End of cycle [156] size is 1
+
+[157] (10001001) ready to be popped
+[157] (10001001) will be popped
+[157] (00000101) arrived at the push interface
+[157] (00000101) ready to be pushed
+[157] (00000101) will be pushed
+[157] (00001110) End of cycle [157] size is 1
+
+[158] (00000101) ready to be popped
+[158] (00000101) will be popped
+[158] (10001100) arrived at the push interface
+[158] (10001100) ready to be pushed
+[158] (10001100) will be pushed
+[158] (00001110) End of cycle [158] size is 1
+
+[159] (10001100) ready to be popped
+[159] (10001100) will be popped
+[159] (10001111) arrived at the push interface
+[159] (10001111) ready to be pushed
+[159] (10001111) will be pushed
+[159] (00001110) End of cycle [159] size is 1
+
+[160] (10001111) ready to be popped
+[160] (10001111) will be popped
+[160] (00001011) arrived at the push interface
+[160] (00001011) ready to be pushed
+[160] (00001011) will be pushed
+[160] (00001110) End of cycle [160] size is 1
+
+[161] (00001011) ready to be popped
+[161] (00001011) will be popped
+[161] (00000000) arrived at the push interface
+[161] (00000000) ready to be pushed
+[161] (00000000) will be pushed
+[161] (00001110) End of cycle [161] size is 1
+
+[162] (00000000) ready to be popped
+[162] (00000000) will be popped
+[162] (00000010) arrived at the push interface
+[162] (00000010) ready to be pushed
+[162] (00000010) will be pushed
+[162] (00001110) End of cycle [162] size is 1
+
+[163] (00000010) ready to be popped
+[163] (00000010) will be popped
+[163] (00001011) arrived at the push interface
+[163] (00001011) ready to be pushed
+[163] (00001011) will be pushed
+[163] (00001110) End of cycle [163] size is 1
+
+[164] (00001011) ready to be popped
+[164] (00001011) will be popped
+[164] (00001000) arrived at the push interface
+[164] (00001110) End of cycle [164] size is 0
+
+[165] (00001000) ready to be pushed
+[165] (00001000) will be pushed
+[165] (00001110) End of cycle [165] size is 1
+
+[166] (00001000) ready to be popped
+[166] (00001000) will be popped
+[166] (10001001) arrived at the push interface
+[166] (00001110) End of cycle [166] size is 0
+
+[167] (00001110) End of cycle [167] size is 0
+
+[168] (10001001) ready to be pushed
+[168] (10001001) will be pushed
+[168] (00001110) End of cycle [168] size is 1
+
+[169] (10001001) ready to be popped
+[169] (10001001) will be popped
+[169] (00000001) arrived at the push interface
+[169] (00000001) ready to be pushed
+[169] (00000001) will be pushed
+[169] (00001110) End of cycle [169] size is 1
+
+[170] (00000001) ready to be popped
+[170] (00000001) will be popped
+[170] (00000100) arrived at the push interface
+[170] (00001110) End of cycle [170] size is 0
+
+[171] (00001110) End of cycle [171] size is 0
+
+[172] (00000100) ready to be pushed
+[172] (00000100) will be pushed
+[172] (00001110) End of cycle [172] size is 1
+
+[173] (00000100) ready to be popped
+[173] (00000100) will be popped
+[173] (00000001) arrived at the push interface
+[173] (00001110) End of cycle [173] size is 0
+
+[174] (00000001) ready to be pushed
+[174] (00000001) will be pushed
+[174] (00001110) End of cycle [174] size is 1
+
+[175] (00000001) ready to be popped
+[175] (00000001) will be popped
+[175] (00000010) arrived at the push interface
+[175] (00001110) End of cycle [175] size is 0
+
+[176] (00001110) End of cycle [176] size is 0
+
+[177] (00000010) ready to be pushed
+[177] (00000010) will be pushed
+[177] (00001110) End of cycle [177] size is 1
+
+[178] (00000010) ready to be popped
+[178] (00000010) will be popped
+[178] (10000011) arrived at the push interface
+[178] (10000011) ready to be pushed
+[178] (10000011) will be pushed
+[178] (00001110) End of cycle [178] size is 1
+
+[179] (10000011) ready to be popped
+[179] (10000011) will be popped
+[179] (00001011) arrived at the push interface
+[179] (00001110) End of cycle [179] size is 0
+
+[180] (00001011) ready to be pushed
+[180] (00001011) will be pushed
+[180] (00001110) End of cycle [180] size is 1
+
+[181] (00001011) ready to be popped
+[181] (00001011) will be popped
+[181] (00000100) arrived at the push interface
+[181] (00000100) ready to be pushed
+[181] (00000100) will be pushed
+[181] (00001110) End of cycle [181] size is 1
+
+[182] (00000100) ready to be popped
+[182] (00000100) will be popped
+[182] (00001011) arrived at the push interface
+[182] (00001011) ready to be pushed
+[182] (00001011) will be pushed
+[182] (00001110) End of cycle [182] size is 1
+
+[183] (00001011) ready to be popped
+[183] (00001011) will be popped
+[183] (10000101) arrived at the push interface
+[183] (10000101) ready to be pushed
+[183] (10000101) will be pushed
+[183] (00001110) End of cycle [183] size is 1
+
+[184] (10000101) ready to be popped
+[184] (10000101) will be popped
+[184] (10000101) arrived at the push interface
+[184] (10000101) ready to be pushed
+[184] (10000101) will be pushed
+[184] (00001110) End of cycle [184] size is 1
+
+[185] (10000101) ready to be popped
+[185] (10000101) will be popped
+[185] (00001010) arrived at the push interface
+[185] (00001010) ready to be pushed
+[185] (00001010) will be pushed
+[185] (00001110) End of cycle [185] size is 1
+
+[186] (00001010) ready to be popped
+[186] (00001010) will be popped
+[186] (10000000) arrived at the push interface
+[186] (00001110) End of cycle [186] size is 0
+
+[187] (10000000) ready to be pushed
+[187] (10000000) will be pushed
+[187] (00001110) End of cycle [187] size is 1
+
+[188] (10000000) ready to be popped
+[188] (10000000) will be popped
+[188] (10001100) arrived at the push interface
+[188] (10001100) ready to be pushed
+[188] (10001100) will be pushed
+[188] (00001110) End of cycle [188] size is 1
+
+[189] (10001100) ready to be popped
+[189] (10001100) will be popped
+[189] (10001111) arrived at the push interface
+[189] (00001110) End of cycle [189] size is 0
+
+[190] (00001110) End of cycle [190] size is 0
+
+[191] (00001110) End of cycle [191] size is 0
+
+[192] (10001111) ready to be pushed
+[192] (10001111) will be pushed
+[192] (00001110) End of cycle [192] size is 1
+
+[193] (10001111) ready to be popped
+[193] (10001111) will be popped
+[193] (10001001) arrived at the push interface
+[193] (10001001) ready to be pushed
+[193] (10001001) will be pushed
+[193] (00001110) End of cycle [193] size is 1
+
+[194] (10001001) ready to be popped
+[194] (10000000) arrived at the push interface
+[194] (10000000) ready to be pushed
+[194] (10000000) will be pushed
+[194] (00001110) End of cycle [194] size is 2
+
+[195] (10001001) will be popped
+[195] (10001100) arrived at the push interface
+[195] (10001100) ready to be pushed
+[195] (10001100) will be pushed
+[195] (00001110) End of cycle [195] size is 2
+
+[196] (10000000) ready to be popped
+[196] (10000000) will be popped
+[196] (00000010) arrived at the push interface
+[196] (00000010) ready to be pushed
+[196] (00000010) will be pushed
+[196] (00001110) End of cycle [196] size is 2
+
+[197] (10001100) ready to be popped
+[197] (10001100) will be popped
+[197] (00001110) arrived at the push interface
+[197] (00001110) End of cycle [197] size is 1
+
+[198] (00000010) ready to be popped
+[198] (00001110) ready to be pushed
+[198] (00001110) will be pushed
+[198] (00001110) End of cycle [198] size is 2
+
+[199] (00000010) will be popped
+[199] (00001100) arrived at the push interface
+[199] (00001100) ready to be pushed
+[199] (00001100) will be pushed
+[199] (00001110) End of cycle [199] size is 2
+
+[200] (00001110) ready to be popped
+[200] (00001110) will be popped
+[200] (00000100) arrived at the push interface
+[200] (00001110) End of cycle [200] size is 1
+
+[201] (00001100) ready to be popped
+[201] (00001100) will be popped
+[201] (00001110) End of cycle [201] size is 0
+
+[202] (00001110) End of cycle [202] size is 0
+
+[203] (00000100) ready to be pushed
+[203] (00000100) will be pushed
+[203] (00001110) End of cycle [203] size is 1
+
+[204] (00000100) ready to be popped
+[204] (00000100) will be popped
+[204] (00000011) arrived at the push interface
+[204] (00000011) ready to be pushed
+[204] (00000011) will be pushed
+[204] (00001110) End of cycle [204] size is 1
+
+[205] (00000011) ready to be popped
+[205] (00000011) will be popped
+[205] (00000010) arrived at the push interface
+[205] (00000010) ready to be pushed
+[205] (00000010) will be pushed
+[205] (00001110) End of cycle [205] size is 1
+
+[206] (00000010) ready to be popped
+[206] (00000010) arrived at the push interface
+[206] (00001110) End of cycle [206] size is 1
+
+[207] (00000010) will be popped
+[207] (00001110) End of cycle [207] size is 0
+
+[208] (00000010) ready to be pushed
+[208] (00000010) will be pushed
+[208] (00001110) End of cycle [208] size is 1
+
+[209] (00000010) ready to be popped
+[209] (00000010) will be popped
+[209] (00010000) arrived at the push interface
+[209] (00001110) End of cycle [209] size is 0
+
+[210] (00010000) ready to be pushed
+[210] (00010000) will be pushed
+[210] (00001110) End of cycle [210] size is 1
+
+[211] (00010000) ready to be popped
+[211] (00010000) will be popped
+[211] (00000001) arrived at the push interface
+[211] (00000001) ready to be pushed
+[211] (00000001) will be pushed
+[211] (00001110) End of cycle [211] size is 1
+
+[212] (00000001) ready to be popped
+[212] (00000001) will be popped
+[212] (10001000) arrived at the push interface
+[212] (10001000) ready to be pushed
+[212] (10001000) will be pushed
+[212] (00001110) End of cycle [212] size is 1
+
+[213] (10001000) ready to be popped
+[213] (10001000) will be popped
+[213] (10000110) arrived at the push interface
+[213] (10000110) ready to be pushed
+[213] (10000110) will be pushed
+[213] (00001110) End of cycle [213] size is 1
+
+[214] (10000110) ready to be popped
+[214] (10000110) will be popped
+[214] (10001111) arrived at the push interface
+[214] (10001111) ready to be pushed
+[214] (10001111) will be pushed
+[214] (00001110) End of cycle [214] size is 1
+
+[215] (10001111) ready to be popped
+[215] (10001111) will be popped
+[215] (10000110) arrived at the push interface
+[215] (10000110) ready to be pushed
+[215] (10000110) will be pushed
+[215] (00001110) End of cycle [215] size is 1
+
+[216] (10000110) ready to be popped
+[216] (10000110) will be popped
+[216] (10000000) arrived at the push interface
+[216] (10000000) ready to be pushed
+[216] (10000000) will be pushed
+[216] (00001110) End of cycle [216] size is 1
+
+[217] (10000000) ready to be popped
+[217] (10000000) will be popped
+[217] (00010000) arrived at the push interface
+[217] (00010000) ready to be pushed
+[217] (00010000) will be pushed
+[217] (00001110) End of cycle [217] size is 1
+
+[218] (00010000) ready to be popped
+[218] (10000000) arrived at the push interface
+[218] (10000000) ready to be pushed
+[218] (10000000) will be pushed
+[218] (00001110) End of cycle [218] size is 2
+
+[219] (00010000) will be popped
+[219] (10001111) arrived at the push interface
+[219] (10001111) ready to be pushed
+[219] (10001111) will be pushed
+[219] (00001110) End of cycle [219] size is 2
+
+[220] (10000000) ready to be popped
+[220] (00010000) arrived at the push interface
+[220] (00010000) ready to be pushed
+[220] (00010000) will be pushed
+[220] (00001110) End of cycle [220] size is 3
+
+[221] (10000000) will be popped
+[221] (00001101) arrived at the push interface
+[221] (00001110) End of cycle [221] size is 2
+
+[222] (10001111) ready to be popped
+[222] (10001111) will be popped
+[222] (00001101) ready to be pushed
+[222] (00001101) will be pushed
+[222] (00001110) End of cycle [222] size is 2
+
+[223] (00010000) ready to be popped
+[223] (00010000) will be popped
+[223] (00000111) arrived at the push interface
+[223] (00000111) ready to be pushed
+[223] (00000111) will be pushed
+[223] (00001110) End of cycle [223] size is 2
+
+[224] (00001101) ready to be popped
+[224] (00001101) will be popped
+[224] (00000001) arrived at the push interface
+[224] (00000001) ready to be pushed
+[224] (00000001) will be pushed
+[224] (00001110) End of cycle [224] size is 2
+
+[225] (00000111) ready to be popped
+[225] (00000111) will be popped
+[225] (10001001) arrived at the push interface
+[225] (10001001) ready to be pushed
+[225] (10001001) will be pushed
+[225] (00001110) End of cycle [225] size is 2
+
+[226] (00000001) ready to be popped
+[226] (00000001) arrived at the push interface
+[226] (00000001) ready to be pushed
+[226] (00000001) will be pushed
+[226] (00001110) End of cycle [226] size is 3
+
+[227] (00000001) will be popped
+[227] (10000101) arrived at the push interface
+[227] (10000101) ready to be pushed
+[227] (10000101) will be pushed
+[227] (00001110) End of cycle [227] size is 3
+
+[228] (10001001) ready to be popped
+[228] (10001001) will be popped
+[228] (10000101) arrived at the push interface
+[228] (10000101) ready to be pushed
+[228] (10000101) will be pushed
+[228] (00001110) End of cycle [228] size is 3
+
+[229] (00000001) ready to be popped
+[229] (00000001) will be popped
+[229] (00000100) arrived at the push interface
+[229] (00000100) ready to be pushed
+[229] (00000100) will be pushed
+[229] (00001110) End of cycle [229] size is 3
+
+[230] (10000101) ready to be popped
+[230] (10000000) arrived at the push interface
+[230] (10000000) ready to be pushed
+[230] (10000000) will be pushed
+[230] (00001110) End of cycle [230] size is 4
+
+[231] (10000101) will be popped
+[231] (10001000) arrived at the push interface
+[231] (10001000) ready to be pushed
+[231] (00001110) End of cycle [231] size is 3
+
+[232] (10000101) ready to be popped
+[232] (10000101) will be popped
+[232] (10001000) will be pushed
+[232] (00001110) End of cycle [232] size is 3
+
+[233] (00000100) ready to be popped
+[233] (00000100) will be popped
+[233] (10001101) arrived at the push interface
+[233] (10001101) ready to be pushed
+[233] (10001101) will be pushed
+[233] (00001110) End of cycle [233] size is 3
+
+[234] (10000000) ready to be popped
+[234] (10000000) will be popped
+[234] (10000000) arrived at the push interface
+[234] (00001110) End of cycle [234] size is 2
+
+[235] (10001000) ready to be popped
+[235] (10001000) will be popped
+[235] (10000000) ready to be pushed
+[235] (10000000) will be pushed
+[235] (00001110) End of cycle [235] size is 2
+
+[236] (10001101) ready to be popped
+[236] (10001101) will be popped
+[236] (00010000) arrived at the push interface
+[236] (00010000) ready to be pushed
+[236] (00010000) will be pushed
+[236] (00001110) End of cycle [236] size is 2
+
+[237] (10000000) ready to be popped
+[237] (10000000) will be popped
+[237] (00001000) arrived at the push interface
+[237] (00001000) ready to be pushed
+[237] (00001000) will be pushed
+[237] (00001110) End of cycle [237] size is 2
+
+[238] (00010000) ready to be popped
+[238] (00010000) will be popped
+[238] (10001100) arrived at the push interface
+[238] (10001100) ready to be pushed
+[238] (10001100) will be pushed
+[238] (00001110) End of cycle [238] size is 2
+
+[239] (00001000) ready to be popped
+[239] (00001000) will be popped
+[239] (00000011) arrived at the push interface
+[239] (00000011) ready to be pushed
+[239] (00000011) will be pushed
+[239] (00001110) End of cycle [239] size is 2
+
+[240] (10001100) ready to be popped
+[240] (10001100) will be popped
+[240] (10001001) arrived at the push interface
+[240] (10001001) ready to be pushed
+[240] (10001001) will be pushed
+[240] (00001110) End of cycle [240] size is 2
+
+[241] (00000011) ready to be popped
+[241] (00000011) will be popped
+[241] (10001000) arrived at the push interface
+[241] (10001000) ready to be pushed
+[241] (10001000) will be pushed
+[241] (00001110) End of cycle [241] size is 2
+
+[242] (10001001) ready to be popped
+[242] (10001100) arrived at the push interface
+[242] (10001100) ready to be pushed
+[242] (10001100) will be pushed
+[242] (00001110) End of cycle [242] size is 3
+
+[243] (00000001) arrived at the push interface
+[243] (00000001) ready to be pushed
+[243] (00000001) will be pushed
+[243] (00001110) End of cycle [243] size is 4
+
+[244] (10001001) will be popped
+[244] (00001011) arrived at the push interface
+[244] (00001110) End of cycle [244] size is 3
+
+[245] (10001000) ready to be popped
+[245] (10001000) will be popped
+[245] (00001011) ready to be pushed
+[245] (00001011) will be pushed
+[245] (00001110) End of cycle [245] size is 3
+
+[246] (10001100) ready to be popped
+[246] (10001100) will be popped
+[246] (10001100) arrived at the push interface
+[246] (10001100) ready to be pushed
+[246] (10001100) will be pushed
+[246] (00001110) End of cycle [246] size is 3
+
+[247] (00000001) ready to be popped
+[247] (00000001) will be popped
+[247] (10000011) arrived at the push interface
+[247] (10000011) ready to be pushed
+[247] (10000011) will be pushed
+[247] (00001110) End of cycle [247] size is 3
+
+[248] (00001011) ready to be popped
+[248] (00001011) will be popped
+[248] (10000110) arrived at the push interface
+[248] (10000110) ready to be pushed
+[248] (10000110) will be pushed
+[248] (00001110) End of cycle [248] size is 3
+
+[249] (10001100) ready to be popped
+[249] (10001100) will be popped
+[249] (10000000) arrived at the push interface
+[249] (10000000) ready to be pushed
+[249] (10000000) will be pushed
+[249] (00001110) End of cycle [249] size is 3
+
+[250] (10000011) ready to be popped
+[250] (10000011) will be popped
+[250] (10000000) arrived at the push interface
+[250] (10000000) ready to be pushed
+[250] (10000000) will be pushed
+[250] (00001110) End of cycle [250] size is 3
+
+[251] (10000110) ready to be popped
+[251] (10000110) arrived at the push interface
+[251] (00001110) End of cycle [251] size is 3
+
+[252] (10000110) will be popped
+[252] (10000110) ready to be pushed
+[252] (10000110) will be pushed
+[252] (00001110) End of cycle [252] size is 3
+
+[253] (10000000) ready to be popped
+[253] (10000000) will be popped
+[253] (00010000) arrived at the push interface
+[253] (00001110) End of cycle [253] size is 2
+
+[254] (10000000) ready to be popped
+[254] (10000000) will be popped
+[254] (00001110) End of cycle [254] size is 1
+
+[255] (10000110) ready to be popped
+[255] (10000110) will be popped
+[255] (00010000) ready to be pushed
+[255] (00010000) will be pushed
+[255] (00001110) End of cycle [255] size is 1
+
+[256] (00010000) ready to be popped
+[256] (00010000) will be popped
+[256] (00010000) arrived at the push interface
+[256] (00010000) ready to be pushed
+[256] (00010000) will be pushed
+[256] (00001110) End of cycle [256] size is 1
+
+[257] (00010000) ready to be popped
+[257] (00010000) will be popped
+[257] (00001000) arrived at the push interface
+[257] (00001110) End of cycle [257] size is 0
+
+[258] (00001110) End of cycle [258] size is 0
+
+[259] (00001000) ready to be pushed
+[259] (00001000) will be pushed
+[259] (00001110) End of cycle [259] size is 1
+
+[260] (00001000) ready to be popped
+[260] (00001000) will be popped
+[260] (00001110) arrived at the push interface
+[260] (00001110) End of cycle [260] size is 0
+
+[261] (00001110) ready to be pushed
+[261] (00001110) will be pushed
+[261] (00001110) End of cycle [261] size is 1
+
+[262] (00001110) ready to be popped
+[262] (00001110) will be popped
+[262] (10000000) arrived at the push interface
+[262] (10000000) ready to be pushed
+[262] (10000000) will be pushed
+[262] (00001110) End of cycle [262] size is 1
+
+[263] (10000000) ready to be popped
+[263] (10000000) will be popped
+[263] (00000111) arrived at the push interface
+[263] (00000111) ready to be pushed
+[263] (00000111) will be pushed
+[263] (00001110) End of cycle [263] size is 1
+
+[264] (00000111) ready to be popped
+[264] (00000111) will be popped
+[264] (00010000) arrived at the push interface
+[264] (00010000) ready to be pushed
+[264] (00010000) will be pushed
+[264] (00001110) End of cycle [264] size is 1
+
+[265] (00010000) ready to be popped
+[265] (00010000) will be popped
+[265] (10000011) arrived at the push interface
+[265] (00001110) End of cycle [265] size is 0
+
+[266] (10000011) ready to be pushed
+[266] (10000011) will be pushed
+[266] (00001110) End of cycle [266] size is 1
+
+[267] (10000011) ready to be popped
+[267] (10000011) will be popped
+[267] (00001011) arrived at the push interface
+[267] (00001011) ready to be pushed
+[267] (00001011) will be pushed
+[267] (00001110) End of cycle [267] size is 1
+
+[268] (00001011) ready to be popped
+[268] (00001101) arrived at the push interface
+[268] (00001101) ready to be pushed
+[268] (00001101) will be pushed
+[268] (00001110) End of cycle [268] size is 2
+
+[269] (00001011) will be popped
+[269] (00001110) arrived at the push interface
+[269] (00001110) End of cycle [269] size is 1
+
+[270] (00001101) ready to be popped
+[270] (00001101) will be popped
+[270] (00001110) ready to be pushed
+[270] (00001110) will be pushed
+[270] (00001110) End of cycle [270] size is 1
+
+[271] (00001110) ready to be popped
+[271] (00001110) will be popped
+[271] (00000100) arrived at the push interface
+[271] (00000100) ready to be pushed
+[271] (00000100) will be pushed
+[271] (00001110) End of cycle [271] size is 1
+
+[272] (00000100) ready to be popped
+[272] (00000100) will be popped
+[272] (10001011) arrived at the push interface
+[272] (10001011) ready to be pushed
+[272] (10001011) will be pushed
+[272] (00001110) End of cycle [272] size is 1
+
+[273] (10001011) ready to be popped
+[273] (10001011) will be popped
+[273] (10001111) arrived at the push interface
+[273] (10001111) ready to be pushed
+[273] (10001111) will be pushed
+[273] (00001110) End of cycle [273] size is 1
+
+[274] (10001111) ready to be popped
+[274] (10001111) will be popped
+[274] (00000110) arrived at the push interface
+[274] (00000110) ready to be pushed
+[274] (00000110) will be pushed
+[274] (00001110) End of cycle [274] size is 1
+
+[275] (00000110) ready to be popped
+[275] (00000110) will be popped
+[275] (00001111) arrived at the push interface
+[275] (00001111) ready to be pushed
+[275] (00001111) will be pushed
+[275] (00001110) End of cycle [275] size is 1
+
+[276] (00001111) ready to be popped
+[276] (00001111) will be popped
+[276] (10000110) arrived at the push interface
+[276] (10000110) ready to be pushed
+[276] (10000110) will be pushed
+[276] (00001110) End of cycle [276] size is 1
+
+[277] (10000110) ready to be popped
+[277] (10000110) will be popped
+[277] (10001010) arrived at the push interface
+[277] (10001010) ready to be pushed
+[277] (10001010) will be pushed
+[277] (00001110) End of cycle [277] size is 1
+
+[278] (10001010) ready to be popped
+[278] (10001010) will be popped
+[278] (10001001) arrived at the push interface
+[278] (10001001) ready to be pushed
+[278] (10001001) will be pushed
+[278] (00001110) End of cycle [278] size is 1
+
+[279] (10001001) ready to be popped
+[279] (00000110) arrived at the push interface
+[279] (00001110) End of cycle [279] size is 1
+
+[280] (00001110) End of cycle [280] size is 1
+
+[281] (10001001) will be popped
+[281] (00000110) ready to be pushed
+[281] (00000110) will be pushed
+[281] (00001110) End of cycle [281] size is 1
+
+[282] (00000110) ready to be popped
+[282] (00000110) will be popped
+[282] (00000111) arrived at the push interface
+[282] (00001110) End of cycle [282] size is 0
+
+[283] (00000111) ready to be pushed
+[283] (00000111) will be pushed
+[283] (00001110) End of cycle [283] size is 1
+
+[284] (00000111) ready to be popped
+[284] (00000010) arrived at the push interface
+[284] (00000010) ready to be pushed
+[284] (00000010) will be pushed
+[284] (00001110) End of cycle [284] size is 2
+
+[285] (00000111) will be popped
+[285] (10000100) arrived at the push interface
+[285] (10000100) ready to be pushed
+[285] (10000100) will be pushed
+[285] (00001110) End of cycle [285] size is 2
+
+[286] (00000010) ready to be popped
+[286] (00000010) will be popped
+[286] (10000101) arrived at the push interface
+[286] (10000101) ready to be pushed
+[286] (10000101) will be pushed
+[286] (00001110) End of cycle [286] size is 2
+
+[287] (10000100) ready to be popped
+[287] (10000100) will be popped
+[287] (10001010) arrived at the push interface
+[287] (10001010) ready to be pushed
+[287] (10001010) will be pushed
+[287] (00001110) End of cycle [287] size is 2
+
+[288] (10000101) ready to be popped
+[288] (00001011) arrived at the push interface
+[288] (00001011) ready to be pushed
+[288] (00001011) will be pushed
+[288] (00001110) End of cycle [288] size is 3
+
+[289] (10000101) will be popped
+[289] (00001101) arrived at the push interface
+[289] (00001101) ready to be pushed
+[289] (00001101) will be pushed
+[289] (00001110) End of cycle [289] size is 3
+
+[290] (10001010) ready to be popped
+[290] (10001010) will be popped
+[290] (00000001) arrived at the push interface
+[290] (00000001) ready to be pushed
+[290] (00000001) will be pushed
+[290] (00001110) End of cycle [290] size is 3
+
+[291] (00001011) ready to be popped
+[291] (00001011) will be popped
+[291] (00000010) arrived at the push interface
+[291] (00000010) ready to be pushed
+[291] (00000010) will be pushed
+[291] (00001110) End of cycle [291] size is 3
+
+[292] (00001101) ready to be popped
+[292] (00001101) will be popped
+[292] (10000101) arrived at the push interface
+[292] (10000101) ready to be pushed
+[292] (10000101) will be pushed
+[292] (00001110) End of cycle [292] size is 3
+
+[293] (00000001) ready to be popped
+[293] (00000001) will be popped
+[293] (10000011) arrived at the push interface
+[293] (10000011) ready to be pushed
+[293] (10000011) will be pushed
+[293] (00001110) End of cycle [293] size is 3
+
+[294] (00000010) ready to be popped
+[294] (00000010) will be popped
+[294] (10001100) arrived at the push interface
+[294] (00001110) End of cycle [294] size is 2
+
+[295] (10000101) ready to be popped
+[295] (10000101) will be popped
+[295] (10001100) ready to be pushed
+[295] (10001100) will be pushed
+[295] (00001110) End of cycle [295] size is 2
+
+[296] (10000011) ready to be popped
+[296] (10001001) arrived at the push interface
+[296] (10001001) ready to be pushed
+[296] (10001001) will be pushed
+[296] (00001110) End of cycle [296] size is 3
+
+[297] (10000011) will be popped
+[297] (10001010) arrived at the push interface
+[297] (10001010) ready to be pushed
+[297] (10001010) will be pushed
+[297] (00001110) End of cycle [297] size is 3
+
+[298] (10001100) ready to be popped
+[298] (10001100) will be popped
+[298] (10000101) arrived at the push interface
+[298] (10000101) ready to be pushed
+[298] (10000101) will be pushed
+[298] (00001110) End of cycle [298] size is 3
+
+[299] (10001001) ready to be popped
+[299] (10001001) will be popped
+[299] (00001000) arrived at the push interface
+[299] (00001110) End of cycle [299] size is 2
+
+[300] (10001010) ready to be popped
+[300] (10001010) will be popped
+[300] (00001000) ready to be pushed
+[300] (00001000) will be pushed
+[300] (00001110) End of cycle [300] size is 2
+
+[301] (10000101) ready to be popped
+[301] (10000101) will be popped
+[301] (00000110) arrived at the push interface
+[301] (00000110) ready to be pushed
+[301] (00000110) will be pushed
+[301] (00001110) End of cycle [301] size is 2
+
+[302] (00001000) ready to be popped
+[302] (00001000) will be popped
+[302] (00000100) arrived at the push interface
+[302] (00000100) ready to be pushed
+[302] (00000100) will be pushed
+[302] (00001110) End of cycle [302] size is 2
+
+[303] (00000110) ready to be popped
+[303] (00000110) will be popped
+[303] (10001010) arrived at the push interface
+[303] (10001010) ready to be pushed
+[303] (10001010) will be pushed
+[303] (00001110) End of cycle [303] size is 2
+
+[304] (00000100) ready to be popped
+[304] (00000100) will be popped
+[304] (00001011) arrived at the push interface
+[304] (00001011) ready to be pushed
+[304] (00001011) will be pushed
+[304] (00001110) End of cycle [304] size is 2
+
+[305] (10001010) ready to be popped
+[305] (10001010) will be popped
+[305] (00001101) arrived at the push interface
+[305] (00001101) ready to be pushed
+[305] (00001101) will be pushed
+[305] (00001110) End of cycle [305] size is 2
+
+[306] (00001011) ready to be popped
+[306] (10000011) arrived at the push interface
+[306] (00001110) End of cycle [306] size is 2
+
+[307] (00001011) will be popped
+[307] (10000011) ready to be pushed
+[307] (10000011) will be pushed
+[307] (00001110) End of cycle [307] size is 2
+
+[308] (00001101) ready to be popped
+[308] (00000110) arrived at the push interface
+[308] (00001110) End of cycle [308] size is 2
+
+[309] (00001101) will be popped
+[309] (00000110) ready to be pushed
+[309] (00000110) will be pushed
+[309] (00001110) End of cycle [309] size is 2
+
+[310] (10000011) ready to be popped
+[310] (10000011) will be popped
+[310] (00000001) arrived at the push interface
+[310] (00000001) ready to be pushed
+[310] (00000001) will be pushed
+[310] (00001110) End of cycle [310] size is 2
+
+[311] (00000110) ready to be popped
+[311] (00000110) will be popped
+[311] (10001001) arrived at the push interface
+[311] (10001001) ready to be pushed
+[311] (10001001) will be pushed
+[311] (00001110) End of cycle [311] size is 2
+
+[312] (00000001) ready to be popped
+[312] (10000111) arrived at the push interface
+[312] (10000111) ready to be pushed
+[312] (10000111) will be pushed
+[312] (00001110) End of cycle [312] size is 3
+
+[313] (00000001) will be popped
+[313] (10001001) arrived at the push interface
+[313] (10001001) ready to be pushed
+[313] (10001001) will be pushed
+[313] (00001110) End of cycle [313] size is 3
+
+[314] (10001001) ready to be popped
+[314] (10001001) will be popped
+[314] (10001100) arrived at the push interface
+[314] (10001100) ready to be pushed
+[314] (10001100) will be pushed
+[314] (00001110) End of cycle [314] size is 3
+
+[315] (10000111) ready to be popped
+[315] (10000111) will be popped
+[315] (10000011) arrived at the push interface
+[315] (00001110) End of cycle [315] size is 2
+
+[316] (10001001) ready to be popped
+[316] (10000011) ready to be pushed
+[316] (10000011) will be pushed
+[316] (00001110) End of cycle [316] size is 3
+
+[317] (10001001) will be popped
+[317] (10000101) arrived at the push interface
+[317] (10000101) ready to be pushed
+[317] (10000101) will be pushed
+[317] (00001110) End of cycle [317] size is 3
+
+[318] (10001100) ready to be popped
+[318] (10001100) will be popped
+[318] (00001011) arrived at the push interface
+[318] (00001011) ready to be pushed
+[318] (00001011) will be pushed
+[318] (00001110) End of cycle [318] size is 3
+
+[319] (10000011) ready to be popped
+[319] (10000011) will be popped
+[319] (00001011) arrived at the push interface
+[319] (00001110) End of cycle [319] size is 2
+
+[320] (10000101) ready to be popped
+[320] (00001011) ready to be pushed
+[320] (00001011) will be pushed
+[320] (00001110) End of cycle [320] size is 3
+
+[321] (10000101) will be popped
+[321] (10000101) arrived at the push interface
+[321] (00001110) End of cycle [321] size is 2
+
+[322] (00001011) ready to be popped
+[322] (00001011) will be popped
+[322] (10000101) ready to be pushed
+[322] (10000101) will be pushed
+[322] (00001110) End of cycle [322] size is 2
+
+[323] (00001011) ready to be popped
+[323] (00000010) arrived at the push interface
+[323] (00000010) ready to be pushed
+[323] (00000010) will be pushed
+[323] (00001110) End of cycle [323] size is 3
+
+[324] (10001010) arrived at the push interface
+[324] (00001110) End of cycle [324] size is 3
+
+[325] (00001011) will be popped
+[325] (10001010) ready to be pushed
+[325] (10001010) will be pushed
+[325] (00001110) End of cycle [325] size is 3
+
+[326] (10000101) ready to be popped
+[326] (10000101) will be popped
+[326] (00010000) arrived at the push interface
+[326] (00010000) ready to be pushed
+[326] (00010000) will be pushed
+[326] (00001110) End of cycle [326] size is 3
+
+[327] (00000010) ready to be popped
+[327] (10000000) arrived at the push interface
+[327] (00001110) End of cycle [327] size is 3
+
+[328] (10000000) ready to be pushed
+[328] (10000000) will be pushed
+[328] (00001110) End of cycle [328] size is 4
+
+[329] (00000010) will be popped
+[329] (00000010) arrived at the push interface
+[329] (00000010) ready to be pushed
+[329] (00001110) End of cycle [329] size is 3
+
+[330] (10001010) ready to be popped
+[330] (10001010) will be popped
+[330] (00000010) will be pushed
+[330] (00001110) End of cycle [330] size is 3
+
+[331] (00010000) ready to be popped
+[331] (00010000) will be popped
+[331] (00001101) arrived at the push interface
+[331] (00001101) ready to be pushed
+[331] (00001101) will be pushed
+[331] (00001110) End of cycle [331] size is 3
+
+[332] (10000000) ready to be popped
+[332] (10000000) will be popped
+[332] (00000101) arrived at the push interface
+[332] (00000101) ready to be pushed
+[332] (00000101) will be pushed
+[332] (00001110) End of cycle [332] size is 3
+
+[333] (00000010) ready to be popped
+[333] (00000010) will be popped
+[333] (00001000) arrived at the push interface
+[333] (00001110) End of cycle [333] size is 2
+
+[334] (00001101) ready to be popped
+[334] (00001110) End of cycle [334] size is 2
+
+[335] (00001000) ready to be pushed
+[335] (00001000) will be pushed
+[335] (00001110) End of cycle [335] size is 3
+
+[336] (10001110) arrived at the push interface
+[336] (10001110) ready to be pushed
+[336] (10001110) will be pushed
+[336] (00001110) End of cycle [336] size is 4
+
+[337] (10000000) arrived at the push interface
+[337] (10000000) ready to be pushed
+[337] (00001110) End of cycle [337] size is 4
+
+[338] (00001101) will be popped
+[338] (00001110) End of cycle [338] size is 3
+
+[339] (00000101) ready to be popped
+[339] (00000101) will be popped
+[339] (10000000) will be pushed
+[339] (00001110) End of cycle [339] size is 3
+
+[340] (00001000) ready to be popped
+[340] (00001000) will be popped
+[340] (10001001) arrived at the push interface
+[340] (10001001) ready to be pushed
+[340] (10001001) will be pushed
+[340] (00001110) End of cycle [340] size is 3
+
+[341] (10001110) ready to be popped
+[341] (10001110) will be popped
+[341] (00000111) arrived at the push interface
+[341] (00000111) ready to be pushed
+[341] (00000111) will be pushed
+[341] (00001110) End of cycle [341] size is 3
+
+[342] (10000000) ready to be popped
+[342] (10000000) will be popped
+[342] (00001101) arrived at the push interface
+[342] (00001101) ready to be pushed
+[342] (00001101) will be pushed
+[342] (00001110) End of cycle [342] size is 3
+
+[343] (10001001) ready to be popped
+[343] (10001001) will be popped
+[343] (00000001) arrived at the push interface
+[343] (00000001) ready to be pushed
+[343] (00000001) will be pushed
+[343] (00001110) End of cycle [343] size is 3
+
+[344] (00000111) ready to be popped
+[344] (00000111) will be popped
+[344] (10000000) arrived at the push interface
+[344] (10000000) ready to be pushed
+[344] (10000000) will be pushed
+[344] (00001110) End of cycle [344] size is 3
+
+[345] (00001101) ready to be popped
+[345] (00001101) will be popped
+[345] (00010000) arrived at the push interface
+[345] (00010000) ready to be pushed
+[345] (00010000) will be pushed
+[345] (00001110) End of cycle [345] size is 3
+
+[346] (00000001) ready to be popped
+[346] (00000001) will be popped
+[346] (00001111) arrived at the push interface
+[346] (00001111) ready to be pushed
+[346] (00001111) will be pushed
+[346] (00001110) End of cycle [346] size is 3
+
+[347] (10000000) ready to be popped
+[347] (10000000) will be popped
+[347] (10000110) arrived at the push interface
+[347] (10000110) ready to be pushed
+[347] (10000110) will be pushed
+[347] (00001110) End of cycle [347] size is 3
+
+[348] (00010000) ready to be popped
+[348] (00010000) will be popped
+[348] (10001100) arrived at the push interface
+[348] (10001100) ready to be pushed
+[348] (10001100) will be pushed
+[348] (00001110) End of cycle [348] size is 3
+
+[349] (00001111) ready to be popped
+[349] (00001111) will be popped
+[349] (10001010) arrived at the push interface
+[349] (10001010) ready to be pushed
+[349] (10001010) will be pushed
+[349] (00001110) End of cycle [349] size is 3
+
+[350] (10000110) ready to be popped
+[350] (10000110) arrived at the push interface
+[350] (10000110) ready to be pushed
+[350] (10000110) will be pushed
+[350] (00001110) End of cycle [350] size is 4
+
+[351] (10000000) arrived at the push interface
+[351] (00001110) End of cycle [351] size is 4
+
+[352] (10000110) will be popped
+[352] (10000000) ready to be pushed
+[352] (00001110) End of cycle [352] size is 3
+
+[353] (10001100) ready to be popped
+[353] (10001100) will be popped
+[353] (10000000) will be pushed
+[353] (00001110) End of cycle [353] size is 3
+
+[354] (10001010) ready to be popped
+[354] (10001010) will be popped
+[354] (00001000) arrived at the push interface
+[354] (00001000) ready to be pushed
+[354] (00001000) will be pushed
+[354] (00001110) End of cycle [354] size is 3
+
+[355] (10000110) ready to be popped
+[355] (10000110) will be popped
+[355] (10000011) arrived at the push interface
+[355] (10000011) ready to be pushed
+[355] (10000011) will be pushed
+[355] (00001110) End of cycle [355] size is 3
+
+[356] (10000000) ready to be popped
+[356] (10000000) will be popped
+[356] (10001111) arrived at the push interface
+[356] (10001111) ready to be pushed
+[356] (10001111) will be pushed
+[356] (00001110) End of cycle [356] size is 3
+
+[357] (00001000) ready to be popped
+[357] (00000100) arrived at the push interface
+[357] (00000100) ready to be pushed
+[357] (00000100) will be pushed
+[357] (00001110) End of cycle [357] size is 4
+
+[358] (00001000) will be popped
+[358] (10000101) arrived at the push interface
+[358] (00001110) End of cycle [358] size is 3
+
+[359] (10000011) ready to be popped
+[359] (10000011) will be popped
+[359] (00001110) End of cycle [359] size is 2
+
+[360] (10001111) ready to be popped
+[360] (10001111) will be popped
+[360] (10000101) ready to be pushed
+[360] (10000101) will be pushed
+[360] (00001110) End of cycle [360] size is 2
+
+[361] (00000100) ready to be popped
+[361] (00000100) will be popped
+[361] (00000100) arrived at the push interface
+[361] (00001110) End of cycle [361] size is 1
+
+[362] (10000101) ready to be popped
+[362] (10000101) will be popped
+[362] (00001110) End of cycle [362] size is 0
+
+[363] (00000100) ready to be pushed
+[363] (00000100) will be pushed
+[363] (00001110) End of cycle [363] size is 1
+
+[364] (00000100) ready to be popped
+[364] (00000100) will be popped
+[364] (10000101) arrived at the push interface
+[364] (00001110) End of cycle [364] size is 0
+
+[365] (00001110) End of cycle [365] size is 0
+
+[366] (10000101) ready to be pushed
+[366] (10000101) will be pushed
+[366] (00001110) End of cycle [366] size is 1
+
+[367] (10000101) ready to be popped
+[367] (10000101) will be popped
+[367] (00001011) arrived at the push interface
+[367] (00001011) ready to be pushed
+[367] (00001011) will be pushed
+[367] (00001110) End of cycle [367] size is 1
+
+[368] (00001011) ready to be popped
+[368] (00000001) arrived at the push interface
+[368] (00000001) ready to be pushed
+[368] (00000001) will be pushed
+[368] (00001110) End of cycle [368] size is 2
+
+[369] (00001011) will be popped
+[369] (00000111) arrived at the push interface
+[369] (00001110) End of cycle [369] size is 1
+
+[370] (00000001) ready to be popped
+[370] (00000001) will be popped
+[370] (00000111) ready to be pushed
+[370] (00000111) will be pushed
+[370] (00001110) End of cycle [370] size is 1
+
+[371] (00000111) ready to be popped
+[371] (00000111) will be popped
+[371] (00000000) arrived at the push interface
+[371] (00000000) ready to be pushed
+[371] (00000000) will be pushed
+[371] (00001110) End of cycle [371] size is 1
+
+[372] (00000000) ready to be popped
+[372] (00000000) will be popped
+[372] (00000001) arrived at the push interface
+[372] (00000001) ready to be pushed
+[372] (00000001) will be pushed
+[372] (00001110) End of cycle [372] size is 1
+
+[373] (00000001) ready to be popped
+[373] (00000001) will be popped
+[373] (00000111) arrived at the push interface
+[373] (00001110) End of cycle [373] size is 0
+
+[374] (00001110) End of cycle [374] size is 0
+
+[375] (00000111) ready to be pushed
+[375] (00000111) will be pushed
+[375] (00001110) End of cycle [375] size is 1
+
+[376] (00000111) ready to be popped
+[376] (00000111) will be popped
+[376] (00010000) arrived at the push interface
+[376] (00001110) End of cycle [376] size is 0
+
+[377] (00010000) ready to be pushed
+[377] (00010000) will be pushed
+[377] (00001110) End of cycle [377] size is 1
+
+[378] (00010000) ready to be popped
+[378] (00010000) will be popped
+[378] (00001011) arrived at the push interface
+[378] (00001011) ready to be pushed
+[378] (00001011) will be pushed
+[378] (00001110) End of cycle [378] size is 1
+
+[379] (00001011) ready to be popped
+[379] (00001011) will be popped
+[379] (10000011) arrived at the push interface
+[379] (10000011) ready to be pushed
+[379] (10000011) will be pushed
+[379] (00001110) End of cycle [379] size is 1
+
+[380] (10000011) ready to be popped
+[380] (10000011) will be popped
+[380] (00000100) arrived at the push interface
+[380] (00001110) End of cycle [380] size is 0
+
+[381] (00000100) ready to be pushed
+[381] (00000100) will be pushed
+[381] (00001110) End of cycle [381] size is 1
+
+[382] (00000100) ready to be popped
+[382] (00000100) will be popped
+[382] (00001011) arrived at the push interface
+[382] (00001110) End of cycle [382] size is 0
+
+[383] (00001011) ready to be pushed
+[383] (00001011) will be pushed
+[383] (00001110) End of cycle [383] size is 1
+
+[384] (00001011) ready to be popped
+[384] (00010000) arrived at the push interface
+[384] (00010000) ready to be pushed
+[384] (00010000) will be pushed
+[384] (00001110) End of cycle [384] size is 2
+
+[385] (00001011) will be popped
+[385] (00001011) arrived at the push interface
+[385] (00001011) ready to be pushed
+[385] (00001011) will be pushed
+[385] (00001110) End of cycle [385] size is 2
+
+[386] (00010000) ready to be popped
+[386] (00010000) will be popped
+[386] (10000110) arrived at the push interface
+[386] (10000110) ready to be pushed
+[386] (10000110) will be pushed
+[386] (00001110) End of cycle [386] size is 2
+
+[387] (00001011) ready to be popped
+[387] (00001011) will be popped
+[387] (10001111) arrived at the push interface
+[387] (10001111) ready to be pushed
+[387] (10001111) will be pushed
+[387] (00001110) End of cycle [387] size is 2
+
+[388] (10000110) ready to be popped
+[388] (10000110) will be popped
+[388] (10000110) arrived at the push interface
+[388] (10000110) ready to be pushed
+[388] (10000110) will be pushed
+[388] (00001110) End of cycle [388] size is 2
+
+[389] (10001111) ready to be popped
+[389] (10001111) will be popped
+[389] (10000110) arrived at the push interface
+[389] (00001110) End of cycle [389] size is 1
+
+[390] (10000110) ready to be popped
+[390] (10000110) will be popped
+[390] (00001110) End of cycle [390] size is 0
+
+[391] (10000110) ready to be pushed
+[391] (10000110) will be pushed
+[391] (00001110) End of cycle [391] size is 1
+
+[392] (10000110) ready to be popped
+[392] (10000110) will be popped
+[392] (00001000) arrived at the push interface
+[392] (00001000) ready to be pushed
+[392] (00001000) will be pushed
+[392] (00001110) End of cycle [392] size is 1
+
+[393] (00001000) ready to be popped
+[393] (00000100) arrived at the push interface
+[393] (00000100) ready to be pushed
+[393] (00000100) will be pushed
+[393] (00001110) End of cycle [393] size is 2
+
+[394] (00001000) will be popped
+[394] (00000010) arrived at the push interface
+[394] (00000010) ready to be pushed
+[394] (00000010) will be pushed
+[394] (00001110) End of cycle [394] size is 2
+
+[395] (00000100) ready to be popped
+[395] (00000100) will be popped
+[395] (10000000) arrived at the push interface
+[395] (10000000) ready to be pushed
+[395] (10000000) will be pushed
+[395] (00001110) End of cycle [395] size is 2
+
+[396] (00000010) ready to be popped
+[396] (00000010) will be popped
+[396] (10000011) arrived at the push interface
+[396] (10000011) ready to be pushed
+[396] (10000011) will be pushed
+[396] (00001110) End of cycle [396] size is 2
+
+[397] (10000000) ready to be popped
+[397] (10001001) arrived at the push interface
+[397] (00001110) End of cycle [397] size is 2
+
+[398] (10000000) will be popped
+[398] (10001001) ready to be pushed
+[398] (10001001) will be pushed
+[398] (00001110) End of cycle [398] size is 2
+
+[399] (10000011) ready to be popped
+[399] (00001110) arrived at the push interface
+[399] (00001110) End of cycle [399] size is 2
+
+[400] (10000011) will be popped
+[400] (00001110) ready to be pushed
+[400] (00001110) will be pushed
+[400] (00001110) End of cycle [400] size is 2
+
+[401] (10001001) ready to be popped
+[401] (10001100) arrived at the push interface
+[401] (00001110) End of cycle [401] size is 2
+
+[402] (10001001) will be popped
+[402] (10001100) ready to be pushed
+[402] (10001100) will be pushed
+[402] (00001110) End of cycle [402] size is 2
+
+[403] (00001110) ready to be popped
+[403] (00001110) will be popped
+[403] (10001111) arrived at the push interface
+[403] (10001111) ready to be pushed
+[403] (10001111) will be pushed
+[403] (00001110) End of cycle [403] size is 2
+
+[404] (10001100) ready to be popped
+[404] (10001100) will be popped
+[404] (10000110) arrived at the push interface
+[404] (10000110) ready to be pushed
+[404] (10000110) will be pushed
+[404] (00001110) End of cycle [404] size is 2
+
+[405] (10001111) ready to be popped
+[405] (10000000) arrived at the push interface
+[405] (10000000) ready to be pushed
+[405] (10000000) will be pushed
+[405] (00001110) End of cycle [405] size is 3
+
+[406] (10001111) will be popped
+[406] (00000010) arrived at the push interface
+[406] (00000010) ready to be pushed
+[406] (00000010) will be pushed
+[406] (00001110) End of cycle [406] size is 3
+
+[407] (10000110) ready to be popped
+[407] (10000110) will be popped
+[407] (10000101) arrived at the push interface
+[407] (10000101) ready to be pushed
+[407] (10000101) will be pushed
+[407] (00001110) End of cycle [407] size is 3
+
+[408] (10000000) ready to be popped
+[408] (10000000) will be popped
+[408] (00010000) arrived at the push interface
+[408] (00010000) ready to be pushed
+[408] (00010000) will be pushed
+[408] (00001110) End of cycle [408] size is 3
+
+[409] (00000010) ready to be popped
+[409] (00000010) will be popped
+[409] (10001011) arrived at the push interface
+[409] (10001011) ready to be pushed
+[409] (10001011) will be pushed
+[409] (00001110) End of cycle [409] size is 3
+
+[410] (10000101) ready to be popped
+[410] (10000101) will be popped
+[410] (10001001) arrived at the push interface
+[410] (10001001) ready to be pushed
+[410] (10001001) will be pushed
+[410] (00001110) End of cycle [410] size is 3
+
+[411] (00010000) ready to be popped
+[411] (00010000) will be popped
+[411] (00001101) arrived at the push interface
+[411] (00001101) ready to be pushed
+[411] (00001101) will be pushed
+[411] (00001110) End of cycle [411] size is 3
+
+[412] (10001011) ready to be popped
+[412] (10001011) will be popped
+[412] (00001000) arrived at the push interface
+[412] (00001000) ready to be pushed
+[412] (00001000) will be pushed
+[412] (00001110) End of cycle [412] size is 3
+
+[413] (10001001) ready to be popped
+[413] (10000011) arrived at the push interface
+[413] (10000011) ready to be pushed
+[413] (10000011) will be pushed
+[413] (00001110) End of cycle [413] size is 4
+
+[414] (10001001) will be popped
+[414] (00000010) arrived at the push interface
+[414] (00000010) ready to be pushed
+[414] (00001110) End of cycle [414] size is 3
+
+[415] (00001101) ready to be popped
+[415] (00001101) will be popped
+[415] (00000010) will be pushed
+[415] (00001110) End of cycle [415] size is 3
+
+[416] (00001000) ready to be popped
+[416] (00001000) will be popped
+[416] (00001110) arrived at the push interface
+[416] (00001110) End of cycle [416] size is 2
+
+[417] (10000011) ready to be popped
+[417] (00001110) End of cycle [417] size is 2
+
+[418] (10000011) will be popped
+[418] (00001110) ready to be pushed
+[418] (00001110) will be pushed
+[418] (00001110) End of cycle [418] size is 2
+
+[419] (00000010) ready to be popped
+[419] (00000010) will be popped
+[419] (00001000) arrived at the push interface
+[419] (00001000) ready to be pushed
+[419] (00001000) will be pushed
+[419] (00001110) End of cycle [419] size is 2
+
+[420] (00001110) ready to be popped
+[420] (00000001) arrived at the push interface
+[420] (00000001) ready to be pushed
+[420] (00000001) will be pushed
+[420] (00001110) End of cycle [420] size is 3
+
+[421] (00000111) arrived at the push interface
+[421] (00001110) End of cycle [421] size is 3
+
+[422] (00001110) will be popped
+[422] (00000111) ready to be pushed
+[422] (00000111) will be pushed
+[422] (00001110) End of cycle [422] size is 3
+
+[423] (00001000) ready to be popped
+[423] (00001000) will be popped
+[423] (10001100) arrived at the push interface
+[423] (10001100) ready to be pushed
+[423] (10001100) will be pushed
+[423] (00001110) End of cycle [423] size is 3
+
+[424] (00000001) ready to be popped
+[424] (00000001) will be popped
+[424] (00000010) arrived at the push interface
+[424] (00000010) ready to be pushed
+[424] (00000010) will be pushed
+[424] (00001110) End of cycle [424] size is 3
+
+[425] (00000111) ready to be popped
+[425] (10000110) arrived at the push interface
+[425] (10000110) ready to be pushed
+[425] (10000110) will be pushed
+[425] (00001110) End of cycle [425] size is 4
+
+[426] (10000100) arrived at the push interface
+[426] (10000100) ready to be pushed
+[426] (00001110) End of cycle [426] size is 4
+
+[427] (00000111) will be popped
+[427] (00001110) End of cycle [427] size is 3
+
+[428] (10001100) ready to be popped
+[428] (10001100) will be popped
+[428] (10000100) will be pushed
+[428] (00001110) End of cycle [428] size is 3
+
+[429] (00000010) ready to be popped
+[429] (00000010) will be popped
+[429] (00001101) arrived at the push interface
+[429] (00001101) ready to be pushed
+[429] (00001101) will be pushed
+[429] (00001110) End of cycle [429] size is 3
+
+[430] (10000110) ready to be popped
+[430] (10000110) will be popped
+[430] (00000010) arrived at the push interface
+[430] (00000010) ready to be pushed
+[430] (00000010) will be pushed
+[430] (00001110) End of cycle [430] size is 3
+
+[431] (10000100) ready to be popped
+[431] (10000100) will be popped
+[431] (00000100) arrived at the push interface
+[431] (00000100) ready to be pushed
+[431] (00000100) will be pushed
+[431] (00001110) End of cycle [431] size is 3
+
+[432] (00001101) ready to be popped
+[432] (00001101) will be popped
+[432] (10001111) arrived at the push interface
+[432] (10001111) ready to be pushed
+[432] (10001111) will be pushed
+[432] (00001110) End of cycle [432] size is 3
+
+[433] (00000010) ready to be popped
+[433] (00000010) will be popped
+[433] (10001111) arrived at the push interface
+[433] (10001111) ready to be pushed
+[433] (10001111) will be pushed
+[433] (00001110) End of cycle [433] size is 3
+
+[434] (00000100) ready to be popped
+[434] (00000100) will be popped
+[434] (00000111) arrived at the push interface
+[434] (00001110) End of cycle [434] size is 2
+
+[435] (10001111) ready to be popped
+[435] (10001111) will be popped
+[435] (00000111) ready to be pushed
+[435] (00000111) will be pushed
+[435] (00001110) End of cycle [435] size is 2
+
+[436] (10001111) ready to be popped
+[436] (10001111) will be popped
+[436] (10001101) arrived at the push interface
+[436] (10001101) ready to be pushed
+[436] (10001101) will be pushed
+[436] (00001110) End of cycle [436] size is 2
+
+[437] (00000111) ready to be popped
+[437] (00000111) will be popped
+[437] (00001100) arrived at the push interface
+[437] (00001100) ready to be pushed
+[437] (00001100) will be pushed
+[437] (00001110) End of cycle [437] size is 2
+
+[438] (10001101) ready to be popped
+[438] (10001101) will be popped
+[438] (10000101) arrived at the push interface
+[438] (10000101) ready to be pushed
+[438] (10000101) will be pushed
+[438] (00001110) End of cycle [438] size is 2
+
+[439] (00001100) ready to be popped
+[439] (00001100) will be popped
+[439] (00001011) arrived at the push interface
+[439] (00001110) End of cycle [439] size is 1
+
+[440] (10000101) ready to be popped
+[440] (10000101) will be popped
+[440] (00001011) ready to be pushed
+[440] (00001011) will be pushed
+[440] (00001110) End of cycle [440] size is 1
+
+[441] (00001011) ready to be popped
+[441] (00001011) will be popped
+[441] (00000100) arrived at the push interface
+[441] (00001110) End of cycle [441] size is 0
+
+[442] (00001110) End of cycle [442] size is 0
+
+[443] (00000100) ready to be pushed
+[443] (00000100) will be pushed
+[443] (00001110) End of cycle [443] size is 1
+
+[444] (00000100) ready to be popped
+[444] (00001101) arrived at the push interface
+[444] (00001101) ready to be pushed
+[444] (00001101) will be pushed
+[444] (00001110) End of cycle [444] size is 2
+
+[445] (10001001) arrived at the push interface
+[445] (10001001) ready to be pushed
+[445] (10001001) will be pushed
+[445] (00001110) End of cycle [445] size is 3
+
+[446] (00000111) arrived at the push interface
+[446] (00000111) ready to be pushed
+[446] (00000111) will be pushed
+[446] (00001110) End of cycle [446] size is 4
+
+[447] (00000100) will be popped
+[447] (00000001) arrived at the push interface
+[447] (00000001) ready to be pushed
+[447] (00001110) End of cycle [447] size is 3
+
+[448] (00001101) ready to be popped
+[448] (00001101) will be popped
+[448] (00000001) will be pushed
+[448] (00001110) End of cycle [448] size is 3
+
+[449] (10001001) ready to be popped
+[449] (10001001) will be popped
+[449] (00000001) arrived at the push interface
+[449] (00000001) ready to be pushed
+[449] (00000001) will be pushed
+[449] (00001110) End of cycle [449] size is 3
+
+[450] (00000111) ready to be popped
+[450] (00000111) will be popped
+[450] (10000000) arrived at the push interface
+[450] (00001110) End of cycle [450] size is 2
+
+[451] (00000001) ready to be popped
+[451] (00000001) will be popped
+[451] (10000000) ready to be pushed
+[451] (10000000) will be pushed
+[451] (00001110) End of cycle [451] size is 2
+
+[452] (00000001) ready to be popped
+[452] (00000011) arrived at the push interface
+[452] (00001110) End of cycle [452] size is 2
+
+[453] (00000001) will be popped
+[453] (00001110) End of cycle [453] size is 1
+
+[454] (10000000) ready to be popped
+[454] (10000000) will be popped
+[454] (00000011) ready to be pushed
+[454] (00000011) will be pushed
+[454] (00001110) End of cycle [454] size is 1
+
+[455] (00000011) ready to be popped
+[455] (00000011) will be popped
+[455] (10001100) arrived at the push interface
+[455] (10001100) ready to be pushed
+[455] (10001100) will be pushed
+[455] (00001110) End of cycle [455] size is 1
+
+[456] (10001100) ready to be popped
+[456] (10001001) arrived at the push interface
+[456] (00001110) End of cycle [456] size is 1
+
+[457] (10001100) will be popped
+[457] (10001001) ready to be pushed
+[457] (10001001) will be pushed
+[457] (00001110) End of cycle [457] size is 1
+
+[458] (10001001) ready to be popped
+[458] (00010000) arrived at the push interface
+[458] (00010000) ready to be pushed
+[458] (00010000) will be pushed
+[458] (00001110) End of cycle [458] size is 2
+
+[459] (10001001) will be popped
+[459] (00001001) arrived at the push interface
+[459] (00001001) ready to be pushed
+[459] (00001001) will be pushed
+[459] (00001110) End of cycle [459] size is 2
+
+[460] (00010000) ready to be popped
+[460] (00010000) will be popped
+[460] (10001001) arrived at the push interface
+[460] (10001001) ready to be pushed
+[460] (10001001) will be pushed
+[460] (00001110) End of cycle [460] size is 2
+
+[461] (00001001) ready to be popped
+[461] (00001001) will be popped
+[461] (10000000) arrived at the push interface
+[461] (10000000) ready to be pushed
+[461] (10000000) will be pushed
+[461] (00001110) End of cycle [461] size is 2
+
+[462] (10001001) ready to be popped
+[462] (10001001) will be popped
+[462] (10001111) arrived at the push interface
+[462] (00001110) End of cycle [462] size is 1
+
+[463] (10000000) ready to be popped
+[463] (10000000) will be popped
+[463] (10001111) ready to be pushed
+[463] (10001111) will be pushed
+[463] (00001110) End of cycle [463] size is 1
+
+[464] (10001111) ready to be popped
+[464] (10001111) will be popped
+[464] (00001010) arrived at the push interface
+[464] (00001010) ready to be pushed
+[464] (00001010) will be pushed
+[464] (00001110) End of cycle [464] size is 1
+
+[465] (00001010) ready to be popped
+[465] (00001010) will be popped
+[465] (00001011) arrived at the push interface
+[465] (00001011) ready to be pushed
+[465] (00001011) will be pushed
+[465] (00001110) End of cycle [465] size is 1
+
+[466] (00001011) ready to be popped
+[466] (00001011) will be popped
+[466] (10000101) arrived at the push interface
+[466] (10000101) ready to be pushed
+[466] (10000101) will be pushed
+[466] (00001110) End of cycle [466] size is 1
+
+[467] (10000101) ready to be popped
+[467] (10000101) will be popped
+[467] (10001001) arrived at the push interface
+[467] (00001110) End of cycle [467] size is 0
+
+[468] (10001001) ready to be pushed
+[468] (10001001) will be pushed
+[468] (00001110) End of cycle [468] size is 1
+
+[469] (10001001) ready to be popped
+[469] (10001001) will be popped
+[469] (00000010) arrived at the push interface
+[469] (00001110) End of cycle [469] size is 0
+
+[470] (00001110) End of cycle [470] size is 0
+
+[471] (00000010) ready to be pushed
+[471] (00000010) will be pushed
+[471] (00001110) End of cycle [471] size is 1
+
+[472] (00000010) ready to be popped
+[472] (00000010) will be popped
+[472] (00000010) arrived at the push interface
+[472] (00000010) ready to be pushed
+[472] (00000010) will be pushed
+[472] (00001110) End of cycle [472] size is 1
+
+[473] (00000010) ready to be popped
+[473] (00000010) will be popped
+[473] (00000001) arrived at the push interface
+[473] (00000001) ready to be pushed
+[473] (00000001) will be pushed
+[473] (00001110) End of cycle [473] size is 1
+
+[474] (00000001) ready to be popped
+[474] (00010000) arrived at the push interface
+[474] (00001110) End of cycle [474] size is 1
+
+[475] (00000001) will be popped
+[475] (00010000) ready to be pushed
+[475] (00010000) will be pushed
+[475] (00001110) End of cycle [475] size is 1
+
+[476] (00010000) ready to be popped
+[476] (00010000) will be popped
+[476] (00001110) arrived at the push interface
+[476] (00001110) ready to be pushed
+[476] (00001110) will be pushed
+[476] (00001110) End of cycle [476] size is 1
+
+[477] (00001110) ready to be popped
+[477] (00001110) will be popped
+[477] (00000001) arrived at the push interface
+[477] (00001110) End of cycle [477] size is 0
+
+[478] (00000001) ready to be pushed
+[478] (00000001) will be pushed
+[478] (00001110) End of cycle [478] size is 1
+
+[479] (00000001) ready to be popped
+[479] (00000001) will be popped
+[479] (10001111) arrived at the push interface
+[479] (10001111) ready to be pushed
+[479] (10001111) will be pushed
+[479] (00001110) End of cycle [479] size is 1
+
+[480] (10001111) ready to be popped
+[480] (10001111) will be popped
+[480] (10001111) arrived at the push interface
+[480] (00001110) End of cycle [480] size is 0
+
+[481] (10001111) ready to be pushed
+[481] (10001111) will be pushed
+[481] (00001110) End of cycle [481] size is 1
+
+[482] (10001111) ready to be popped
+[482] (10001111) will be popped
+[482] (00001011) arrived at the push interface
+[482] (00001110) End of cycle [482] size is 0
+
+[483] (00001011) ready to be pushed
+[483] (00001011) will be pushed
+[483] (00001110) End of cycle [483] size is 1
+
+[484] (00001011) ready to be popped
+[484] (00001011) will be popped
+[484] (00010000) arrived at the push interface
+[484] (00010000) ready to be pushed
+[484] (00010000) will be pushed
+[484] (00001110) End of cycle [484] size is 1
+
+[485] (00010000) ready to be popped
+[485] (00010000) will be popped
+[485] (00001101) arrived at the push interface
+[485] (00001101) ready to be pushed
+[485] (00001101) will be pushed
+[485] (00001110) End of cycle [485] size is 1
+
+[486] (00001101) ready to be popped
+[486] (00001101) will be popped
+[486] (10010000) arrived at the push interface
+[486] (00001110) End of cycle [486] size is 0
+
+[487] (10010000) ready to be pushed
+[487] (10010000) will be pushed
+[487] (00001110) End of cycle [487] size is 1
+
+[488] (10010000) ready to be popped
+[488] (10010000) will be popped
+[488] (10000000) arrived at the push interface
+[488] (10000000) ready to be pushed
+[488] (10000000) will be pushed
+[488] (00001110) End of cycle [488] size is 1
+
+[489] (10000000) ready to be popped
+[489] (10000000) will be popped
+[489] (00001000) arrived at the push interface
+[489] (00001110) End of cycle [489] size is 0
+
+[490] (00001000) ready to be pushed
+[490] (00001000) will be pushed
+[490] (00001110) End of cycle [490] size is 1
+
+[491] (00001000) ready to be popped
+[491] (00001111) arrived at the push interface
+[491] (00001111) ready to be pushed
+[491] (00001111) will be pushed
+[491] (00001110) End of cycle [491] size is 2
+
+[492] (00001000) will be popped
+[492] (10001111) arrived at the push interface
+[492] (00001110) End of cycle [492] size is 1
+
+[493] (00001111) ready to be popped
+[493] (00001111) will be popped
+[493] (10001111) ready to be pushed
+[493] (10001111) will be pushed
+[493] (00001110) End of cycle [493] size is 1
+
+[494] (10001111) ready to be popped
+[494] (10001111) will be popped
+[494] (10000101) arrived at the push interface
+[494] (10000101) ready to be pushed
+[494] (10000101) will be pushed
+[494] (00001110) End of cycle [494] size is 1
+
+[495] (10000101) ready to be popped
+[495] (10000101) will be popped
+[495] (00001101) arrived at the push interface
+[495] (00001101) ready to be pushed
+[495] (00001101) will be pushed
+[495] (00001110) End of cycle [495] size is 1
+
+[496] (00001101) ready to be popped
+[496] (00001101) will be popped
+[496] (10001010) arrived at the push interface
+[496] (10001010) ready to be pushed
+[496] (10001010) will be pushed
+[496] (00001110) End of cycle [496] size is 1
+
+[497] (10001010) ready to be popped
+[497] (00001110) arrived at the push interface
+[497] (00001110) End of cycle [497] size is 1
+
+[498] (10001010) will be popped
+[498] (00001110) ready to be pushed
+[498] (00001110) will be pushed
+[498] (00001110) End of cycle [498] size is 1
+
+[499] (00001110) ready to be popped
+[499] (00001110) will be popped
+[499] (00001000) arrived at the push interface
+[499] (00001000) ready to be pushed
+[499] (00001000) will be pushed
+[499] (00001110) End of cycle [499] size is 1
+
+[500] (00001000) ready to be popped
+[500] (00001000) will be popped
+[500] (00000010) arrived at the push interface
+[500] (00000010) ready to be pushed
+[500] (00000010) will be pushed
+[500] (00001110) End of cycle [500] size is 1
+
+[501] (00000010) ready to be popped
+[501] (00000010) will be popped
+[501] (00010000) arrived at the push interface
+[501] (00001110) End of cycle [501] size is 0
+
+[502] (00010000) ready to be pushed
+[502] (00010000) will be pushed
+[502] (00001110) End of cycle [502] size is 1
+
+[503] (00010000) ready to be popped
+[503] (00010000) will be popped
+[503] (00001011) arrived at the push interface
+[503] (00001011) ready to be pushed
+[503] (00001011) will be pushed
+[503] (00001110) End of cycle [503] size is 1
+
+[504] (00001011) ready to be popped
+[504] (00001011) will be popped
+[504] (00001000) arrived at the push interface
+[504] (00001000) ready to be pushed
+[504] (00001000) will be pushed
+[504] (00001110) End of cycle [504] size is 1
+
+[505] (00001000) ready to be popped
+[505] (10000101) arrived at the push interface
+[505] (10000101) ready to be pushed
+[505] (10000101) will be pushed
+[505] (00001110) End of cycle [505] size is 2
+
+[506] (00001000) will be popped
+[506] (00001101) arrived at the push interface
+[506] (00001110) End of cycle [506] size is 1
+
+[507] (10000101) ready to be popped
+[507] (10000101) will be popped
+[507] (00001110) End of cycle [507] size is 0
+
+[508] (00001101) ready to be pushed
+[508] (00001101) will be pushed
+[508] (00001110) End of cycle [508] size is 1
+
+[509] (00001101) ready to be popped
+[509] (10001100) arrived at the push interface
+[509] (00001110) End of cycle [509] size is 1
+
+[510] (00001101) will be popped
+[510] (10001100) ready to be pushed
+[510] (10001100) will be pushed
+[510] (00001110) End of cycle [510] size is 1
+
+[511] (10001100) ready to be popped
+[511] (10001100) will be popped
+[511] (00000111) arrived at the push interface
+[511] (00000111) ready to be pushed
+[511] (00000111) will be pushed
+[511] (00001110) End of cycle [511] size is 1
+
+[512] (00000111) ready to be popped
+[512] (10001100) arrived at the push interface
+[512] (10001100) ready to be pushed
+[512] (10001100) will be pushed
+[512] (00001110) End of cycle [512] size is 2
+
+[513] (00000111) will be popped
+[513] (00001110) arrived at the push interface
+[513] (00001110) ready to be pushed
+[513] (00001110) will be pushed
+[513] (00001110) End of cycle [513] size is 2
+
+[514] (10001100) ready to be popped
+[514] (10001100) will be popped
+[514] (10000000) arrived at the push interface
+[514] (00001110) End of cycle [514] size is 1
+
+[515] (00001110) ready to be popped
+[515] (00001110) will be popped
+[515] (10000000) ready to be pushed
+[515] (10000000) will be pushed
+[515] (00001110) End of cycle [515] size is 1
+
+[516] (10000000) ready to be popped
+[516] (10000100) arrived at the push interface
+[516] (10000100) ready to be pushed
+[516] (10000100) will be pushed
+[516] (00001110) End of cycle [516] size is 2
+
+[517] (10000000) will be popped
+[517] (00000001) arrived at the push interface
+[517] (00000001) ready to be pushed
+[517] (00000001) will be pushed
+[517] (00001110) End of cycle [517] size is 2
+
+[518] (10000100) ready to be popped
+[518] (10000100) will be popped
+[518] (10000011) arrived at the push interface
+[518] (10000011) ready to be pushed
+[518] (10000011) will be pushed
+[518] (00001110) End of cycle [518] size is 2
+
+[519] (00000001) ready to be popped
+[519] (00000001) will be popped
+[519] (10000101) arrived at the push interface
+[519] (10000101) ready to be pushed
+[519] (10000101) will be pushed
+[519] (00001110) End of cycle [519] size is 2
+
+[520] (10000011) ready to be popped
+[520] (10000011) will be popped
+[520] (10000101) arrived at the push interface
+[520] (10000101) ready to be pushed
+[520] (10000101) will be pushed
+[520] (00001110) End of cycle [520] size is 2
+
+[521] (10000101) ready to be popped
+[521] (10000101) will be popped
+[521] (00000010) arrived at the push interface
+[521] (00000010) ready to be pushed
+[521] (00000010) will be pushed
+[521] (00001110) End of cycle [521] size is 2
+
+[522] (10000101) ready to be popped
+[522] (10000101) will be popped
+[522] (00001101) arrived at the push interface
+[522] (00001101) ready to be pushed
+[522] (00001101) will be pushed
+[522] (00001110) End of cycle [522] size is 2
+
+[523] (00000010) ready to be popped
+[523] (00000010) will be popped
+[523] (10000101) arrived at the push interface
+[523] (10000101) ready to be pushed
+[523] (10000101) will be pushed
+[523] (00001110) End of cycle [523] size is 2
+
+[524] (00001101) ready to be popped
+[524] (00001101) will be popped
+[524] (10000110) arrived at the push interface
+[524] (10000110) ready to be pushed
+[524] (10000110) will be pushed
+[524] (00001110) End of cycle [524] size is 2
+
+[525] (10000101) ready to be popped
+[525] (10000101) will be popped
+[525] (00000100) arrived at the push interface
+[525] (00000100) ready to be pushed
+[525] (00000100) will be pushed
+[525] (00001110) End of cycle [525] size is 2
+
+[526] (10000110) ready to be popped
+[526] (10000110) will be popped
+[526] (00001000) arrived at the push interface
+[526] (00001110) End of cycle [526] size is 1
+
+[527] (00000100) ready to be popped
+[527] (00001110) End of cycle [527] size is 1
+
+[528] (00001000) ready to be pushed
+[528] (00001000) will be pushed
+[528] (00001110) End of cycle [528] size is 2
+
+[529] (00001011) arrived at the push interface
+[529] (00001011) ready to be pushed
+[529] (00001011) will be pushed
+[529] (00001110) End of cycle [529] size is 3
+
+[530] (00000100) will be popped
+[530] (00001110) arrived at the push interface
+[530] (00001110) End of cycle [530] size is 2
+
+[531] (00001000) ready to be popped
+[531] (00001000) will be popped
+[531] (00001110) ready to be pushed
+[531] (00001110) will be pushed
+[531] (00001110) End of cycle [531] size is 2
+
+[532] (00001011) ready to be popped
+[532] (00001011) will be popped
+[532] (00000001) arrived at the push interface
+[532] (00000001) ready to be pushed
+[532] (00000001) will be pushed
+[532] (00001110) End of cycle [532] size is 2
+
+[533] (00001110) ready to be popped
+[533] (00001110) will be popped
+[533] (00010000) arrived at the push interface
+[533] (00010000) ready to be pushed
+[533] (00010000) will be pushed
+[533] (00001110) End of cycle [533] size is 2
+
+[534] (00000001) ready to be popped
+[534] (00000001) will be popped
+[534] (00001000) arrived at the push interface
+[534] (00001110) End of cycle [534] size is 1
+
+[535] (00010000) ready to be popped
+[535] (00010000) will be popped
+[535] (00001110) End of cycle [535] size is 0
+
+[536] (00001000) ready to be pushed
+[536] (00001000) will be pushed
+[536] (00001110) End of cycle [536] size is 1
+
+[537] (00001000) ready to be popped
+[537] (00001000) will be popped
+[537] (10001100) arrived at the push interface
+[537] (10001100) ready to be pushed
+[537] (10001100) will be pushed
+[537] (00001110) End of cycle [537] size is 1
+
+[538] (10001100) ready to be popped
+[538] (00000001) arrived at the push interface
+[538] (00000001) ready to be pushed
+[538] (00000001) will be pushed
+[538] (00001110) End of cycle [538] size is 2
+
+[539] (10001100) will be popped
+[539] (10000011) arrived at the push interface
+[539] (00001110) End of cycle [539] size is 1
+
+[540] (00000001) ready to be popped
+[540] (00000001) will be popped
+[540] (00001110) End of cycle [540] size is 0
+
+[541] (10000011) ready to be pushed
+[541] (10000011) will be pushed
+[541] (00001110) End of cycle [541] size is 1
+
+[542] (10000011) ready to be popped
+[542] (10000011) will be popped
+[542] (00001110) arrived at the push interface
+[542] (00001110) ready to be pushed
+[542] (00001110) will be pushed
+[542] (00001110) End of cycle [542] size is 1
+
+[543] (00001110) ready to be popped
+[543] (00001110) will be popped
+[543] (10000000) arrived at the push interface
+[543] (10000000) ready to be pushed
+[543] (10000000) will be pushed
+[543] (00001110) End of cycle [543] size is 1
+
+[544] (10000000) ready to be popped
+[544] (10000000) will be popped
+[544] (10001011) arrived at the push interface
+[544] (10001011) ready to be pushed
+[544] (10001011) will be pushed
+[544] (00001110) End of cycle [544] size is 1
+
+[545] (10001011) ready to be popped
+[545] (10001011) will be popped
+[545] (00000001) arrived at the push interface
+[545] (00000001) ready to be pushed
+[545] (00000001) will be pushed
+[545] (00001110) End of cycle [545] size is 1
+
+[546] (00000001) ready to be popped
+[546] (00000001) will be popped
+[546] (10001111) arrived at the push interface
+[546] (10001111) ready to be pushed
+[546] (10001111) will be pushed
+[546] (00001110) End of cycle [546] size is 1
+
+[547] (10001111) ready to be popped
+[547] (10001111) will be popped
+[547] (00000001) arrived at the push interface
+[547] (00001110) End of cycle [547] size is 0
+
+[548] (00000001) ready to be pushed
+[548] (00000001) will be pushed
+[548] (00001110) End of cycle [548] size is 1
+
+[549] (00000001) ready to be popped
+[549] (00000001) will be popped
+[549] (10001010) arrived at the push interface
+[549] (10001010) ready to be pushed
+[549] (10001010) will be pushed
+[549] (00001110) End of cycle [549] size is 1
+
+[550] (10001010) ready to be popped
+[550] (10001010) will be popped
+[550] (00001110) arrived at the push interface
+[550] (00001110) ready to be pushed
+[550] (00001110) will be pushed
+[550] (00001110) End of cycle [550] size is 1
+
+[551] (00001110) ready to be popped
+[551] (00001110) will be popped
+[551] (00000100) arrived at the push interface
+[551] (00000100) ready to be pushed
+[551] (00000100) will be pushed
+[551] (00001110) End of cycle [551] size is 1
+
+[552] (00000100) ready to be popped
+[552] (00000100) will be popped
+[552] (00000001) arrived at the push interface
+[552] (00001110) End of cycle [552] size is 0
+
+[553] (00000001) ready to be pushed
+[553] (00000001) will be pushed
+[553] (00001110) End of cycle [553] size is 1
+
+[554] (00000001) ready to be popped
+[554] (10000011) arrived at the push interface
+[554] (10000011) ready to be pushed
+[554] (10000011) will be pushed
+[554] (00001110) End of cycle [554] size is 2
+
+[555] (10000110) arrived at the push interface
+[555] (10000110) ready to be pushed
+[555] (10000110) will be pushed
+[555] (00001110) End of cycle [555] size is 3
+
+[556] (00000001) will be popped
+[556] (00000010) arrived at the push interface
+[556] (00001110) End of cycle [556] size is 2
+
+[557] (10000011) ready to be popped
+[557] (10000011) will be popped
+[557] (00000010) ready to be pushed
+[557] (00000010) will be pushed
+[557] (00001110) End of cycle [557] size is 2
+
+[558] (10000110) ready to be popped
+[558] (10001110) arrived at the push interface
+[558] (10001110) ready to be pushed
+[558] (10001110) will be pushed
+[558] (00001110) End of cycle [558] size is 3
+
+[559] (10000110) will be popped
+[559] (10001001) arrived at the push interface
+[559] (10001001) ready to be pushed
+[559] (10001001) will be pushed
+[559] (00001110) End of cycle [559] size is 3
+
+[560] (00000010) ready to be popped
+[560] (00000010) will be popped
+[560] (10000110) arrived at the push interface
+[560] (10000110) ready to be pushed
+[560] (10000110) will be pushed
+[560] (00001110) End of cycle [560] size is 3
+
+[561] (10001110) ready to be popped
+[561] (10001110) will be popped
+[561] (00000101) arrived at the push interface
+[561] (00001110) End of cycle [561] size is 2
+
+[562] (10001001) ready to be popped
+[562] (10001001) will be popped
+[562] (00000101) ready to be pushed
+[562] (00000101) will be pushed
+[562] (00001110) End of cycle [562] size is 2
+
+[563] (10000110) ready to be popped
+[563] (10000110) will be popped
+[563] (00000001) arrived at the push interface
+[563] (00000001) ready to be pushed
+[563] (00000001) will be pushed
+[563] (00001110) End of cycle [563] size is 2
+
+[564] (00000101) ready to be popped
+[564] (00000101) will be popped
+[564] (00010000) arrived at the push interface
+[564] (00010000) ready to be pushed
+[564] (00010000) will be pushed
+[564] (00001110) End of cycle [564] size is 2
+
+[565] (00000001) ready to be popped
+[565] (00000001) will be popped
+[565] (10000010) arrived at the push interface
+[565] (10000010) ready to be pushed
+[565] (10000010) will be pushed
+[565] (00001110) End of cycle [565] size is 2
+
+[566] (00010000) ready to be popped
+[566] (00010000) will be popped
+[566] (10001100) arrived at the push interface
+[566] (10001100) ready to be pushed
+[566] (10001100) will be pushed
+[566] (00001110) End of cycle [566] size is 2
+
+[567] (10000010) ready to be popped
+[567] (10000010) will be popped
+[567] (10000101) arrived at the push interface
+[567] (10000101) ready to be pushed
+[567] (10000101) will be pushed
+[567] (00001110) End of cycle [567] size is 2
+
+[568] (10001100) ready to be popped
+[568] (10001100) will be popped
+[568] (00001100) arrived at the push interface
+[568] (00001100) ready to be pushed
+[568] (00001100) will be pushed
+[568] (00001110) End of cycle [568] size is 2
+
+[569] (10000101) ready to be popped
+[569] (00001101) arrived at the push interface
+[569] (00001101) ready to be pushed
+[569] (00001101) will be pushed
+[569] (00001110) End of cycle [569] size is 3
+
+[570] (10000101) arrived at the push interface
+[570] (10000101) ready to be pushed
+[570] (10000101) will be pushed
+[570] (00001110) End of cycle [570] size is 4
+
+[571] (10000101) will be popped
+[571] (00001111) arrived at the push interface
+[571] (00001110) End of cycle [571] size is 3
+
+[572] (00001100) ready to be popped
+[572] (00001100) will be popped
+[572] (00001111) ready to be pushed
+[572] (00001111) will be pushed
+[572] (00001110) End of cycle [572] size is 3
+
+[573] (00001101) ready to be popped
+[573] (00000111) arrived at the push interface
+[573] (00000111) ready to be pushed
+[573] (00000111) will be pushed
+[573] (00001110) End of cycle [573] size is 4
+
+[574] (00001101) will be popped
+[574] (10001100) arrived at the push interface
+[574] (00001110) End of cycle [574] size is 3
+
+[575] (10000101) ready to be popped
+[575] (10000101) will be popped
+[575] (10001100) ready to be pushed
+[575] (10001100) will be pushed
+[575] (00001110) End of cycle [575] size is 3
+
+[576] (00001111) ready to be popped
+[576] (00001111) will be popped
+[576] (00001011) arrived at the push interface
+[576] (00001011) ready to be pushed
+[576] (00001011) will be pushed
+[576] (00001110) End of cycle [576] size is 3
+
+[577] (00000111) ready to be popped
+[577] (00000111) will be popped
+[577] (00001101) arrived at the push interface
+[577] (00001110) End of cycle [577] size is 2
+
+[578] (10001100) ready to be popped
+[578] (10001100) will be popped
+[578] (00001110) End of cycle [578] size is 1
+
+[579] (00001011) ready to be popped
+[579] (00001011) will be popped
+[579] (00001101) ready to be pushed
+[579] (00001101) will be pushed
+[579] (00001110) End of cycle [579] size is 1
+
+[580] (00001101) ready to be popped
+[580] (00001101) will be popped
+[580] (00001101) arrived at the push interface
+[580] (00001101) ready to be pushed
+[580] (00001101) will be pushed
+[580] (00001110) End of cycle [580] size is 1
+
+[581] (00001101) ready to be popped
+[581] (00001101) will be popped
+[581] (10000010) arrived at the push interface
+[581] (10000010) ready to be pushed
+[581] (10000010) will be pushed
+[581] (00001110) End of cycle [581] size is 1
+
+[582] (10000010) ready to be popped
+[582] (10000010) will be popped
+[582] (10000110) arrived at the push interface
+[582] (10000110) ready to be pushed
+[582] (10000110) will be pushed
+[582] (00001110) End of cycle [582] size is 1
+
+[583] (10000110) ready to be popped
+[583] (00000111) arrived at the push interface
+[583] (00000111) ready to be pushed
+[583] (00000111) will be pushed
+[583] (00001110) End of cycle [583] size is 2
+
+[584] (10000110) will be popped
+[584] (00000010) arrived at the push interface
+[584] (00000010) ready to be pushed
+[584] (00000010) will be pushed
+[584] (00001110) End of cycle [584] size is 2
+
+[585] (00000111) ready to be popped
+[585] (00000111) will be popped
+[585] (00010000) arrived at the push interface
+[585] (00010000) ready to be pushed
+[585] (00010000) will be pushed
+[585] (00001110) End of cycle [585] size is 2
+
+[586] (00000010) ready to be popped
+[586] (00000010) will be popped
+[586] (10001001) arrived at the push interface
+[586] (10001001) ready to be pushed
+[586] (10001001) will be pushed
+[586] (00001110) End of cycle [586] size is 2
+
+[587] (00010000) ready to be popped
+[587] (00010000) will be popped
+[587] (10000101) arrived at the push interface
+[587] (00001110) End of cycle [587] size is 1
+
+[588] (10001001) ready to be popped
+[588] (10001001) will be popped
+[588] (10000101) ready to be pushed
+[588] (10000101) will be pushed
+[588] (00001110) End of cycle [588] size is 1
+
+[589] (10000101) ready to be popped
+[589] (10000101) will be popped
+[589] (00001011) arrived at the push interface
+[589] (00001110) End of cycle [589] size is 0
+
+[590] (00001011) ready to be pushed
+[590] (00001011) will be pushed
+[590] (00001110) End of cycle [590] size is 1
+
+[591] (00001011) ready to be popped
+[591] (00001011) will be popped
+[591] (00000111) arrived at the push interface
+[591] (00000111) ready to be pushed
+[591] (00000111) will be pushed
+[591] (00001110) End of cycle [591] size is 1
+
+[592] (00000111) ready to be popped
+[592] (00000111) will be popped
+[592] (10001001) arrived at the push interface
+[592] (10001001) ready to be pushed
+[592] (10001001) will be pushed
+[592] (00001110) End of cycle [592] size is 1
+
+[593] (10001001) ready to be popped
+[593] (10001001) will be popped
+[593] (10000011) arrived at the push interface
+[593] (10000011) ready to be pushed
+[593] (10000011) will be pushed
+[593] (00001110) End of cycle [593] size is 1
+
+[594] (10000011) ready to be popped
+[594] (00000001) arrived at the push interface
+[594] (00000001) ready to be pushed
+[594] (00000001) will be pushed
+[594] (00001110) End of cycle [594] size is 2
+
+[595] (10000011) will be popped
+[595] (00001011) arrived at the push interface
+[595] (00001110) End of cycle [595] size is 1
+
+[596] (00000001) ready to be popped
+[596] (00000001) will be popped
+[596] (00001011) ready to be pushed
+[596] (00001011) will be pushed
+[596] (00001110) End of cycle [596] size is 1
+
+[597] (00001011) ready to be popped
+[597] (00001011) will be popped
+[597] (10000110) arrived at the push interface
+[597] (10000110) ready to be pushed
+[597] (10000110) will be pushed
+[597] (00001110) End of cycle [597] size is 1
+
+[598] (10000110) ready to be popped
+[598] (10000110) will be popped
+[598] (00000001) arrived at the push interface
+[598] (00000001) ready to be pushed
+[598] (00000001) will be pushed
+[598] (00001110) End of cycle [598] size is 1
+
+[599] (00000001) ready to be popped
+[599] (00001011) arrived at the push interface
+[599] (00001011) ready to be pushed
+[599] (00001011) will be pushed
+[599] (00001110) End of cycle [599] size is 2
+
+[600] (10001100) arrived at the push interface
+[600] (10001100) ready to be pushed
+[600] (10001100) will be pushed
+[600] (00001110) End of cycle [600] size is 3
+
+[601] (00000001) will be popped
+[601] (10001010) arrived at the push interface
+[601] (10001010) ready to be pushed
+[601] (10001010) will be pushed
+[601] (00001110) End of cycle [601] size is 3
+
+[602] (00001011) ready to be popped
+[602] (00001011) will be popped
+[602] (10001010) arrived at the push interface
+[602] (10001010) ready to be pushed
+[602] (10001010) will be pushed
+[602] (00001110) End of cycle [602] size is 3
+
+[603] (10001100) ready to be popped
+[603] (10001100) will be popped
+[603] (00001110) arrived at the push interface
+[603] (00001110) ready to be pushed
+[603] (00001110) will be pushed
+[603] (00001110) End of cycle [603] size is 3
+
+[604] (10001010) ready to be popped
+[604] (10001010) will be popped
+[604] (00000100) arrived at the push interface
+[604] (00000100) ready to be pushed
+[604] (00000100) will be pushed
+[604] (00001110) End of cycle [604] size is 3
+
+[605] (10001010) ready to be popped
+[605] (10001010) will be popped
+[605] (00000001) arrived at the push interface
+[605] (00001110) End of cycle [605] size is 2
+
+[606] (00001110) ready to be popped
+[606] (00000001) ready to be pushed
+[606] (00000001) will be pushed
+[606] (00001110) End of cycle [606] size is 3
+
+[607] (00001110) will be popped
+[607] (00000111) arrived at the push interface
+[607] (00000111) ready to be pushed
+[607] (00000111) will be pushed
+[607] (00001110) End of cycle [607] size is 3
+
+[608] (00000100) ready to be popped
+[608] (10000011) arrived at the push interface
+[608] (10000011) ready to be pushed
+[608] (10000011) will be pushed
+[608] (00001110) End of cycle [608] size is 4
+
+[609] (00000110) arrived at the push interface
+[609] (00000110) ready to be pushed
+[609] (00001110) End of cycle [609] size is 4
+
+[610] (00000100) will be popped
+[610] (00001110) End of cycle [610] size is 3
+
+[611] (00000001) ready to be popped
+[611] (00000001) will be popped
+[611] (00000110) will be pushed
+[611] (00001110) End of cycle [611] size is 3
+
+[612] (00000111) ready to be popped
+[612] (00000111) will be popped
+[612] (00010000) arrived at the push interface
+[612] (00010000) ready to be pushed
+[612] (00010000) will be pushed
+[612] (00001110) End of cycle [612] size is 3
+
+[613] (10000011) ready to be popped
+[613] (10000011) will be popped
+[613] (10000101) arrived at the push interface
+[613] (10000101) ready to be pushed
+[613] (10000101) will be pushed
+[613] (00001110) End of cycle [613] size is 3
+
+[614] (00000110) ready to be popped
+[614] (00000110) will be popped
+[614] (10001111) arrived at the push interface
+[614] (00001110) End of cycle [614] size is 2
+
+[615] (00010000) ready to be popped
+[615] (00010000) will be popped
+[615] (10001111) ready to be pushed
+[615] (10001111) will be pushed
+[615] (00001110) End of cycle [615] size is 2
+
+[616] (10000101) ready to be popped
+[616] (10000101) will be popped
+[616] (10001001) arrived at the push interface
+[616] (10001001) ready to be pushed
+[616] (10001001) will be pushed
+[616] (00001110) End of cycle [616] size is 2
+
+[617] (10001111) ready to be popped
+[617] (10001111) will be popped
+[617] (00000100) arrived at the push interface
+[617] (00000100) ready to be pushed
+[617] (00000100) will be pushed
+[617] (00001110) End of cycle [617] size is 2
+
+[618] (10001001) ready to be popped
+[618] (10001001) will be popped
+[618] (10000101) arrived at the push interface
+[618] (10000101) ready to be pushed
+[618] (10000101) will be pushed
+[618] (00001110) End of cycle [618] size is 2
+
+[619] (00000100) ready to be popped
+[619] (00000100) will be popped
+[619] (00000010) arrived at the push interface
+[619] (00001110) End of cycle [619] size is 1
+
+[620] (10000101) ready to be popped
+[620] (10000101) will be popped
+[620] (00000010) ready to be pushed
+[620] (00000010) will be pushed
+[620] (00001110) End of cycle [620] size is 1
+
+[621] (00000010) ready to be popped
+[621] (00000010) will be popped
+[621] (10001001) arrived at the push interface
+[621] (10001001) ready to be pushed
+[621] (10001001) will be pushed
+[621] (00001110) End of cycle [621] size is 1
+
+[622] (10001001) ready to be popped
+[622] (10000000) arrived at the push interface
+[622] (10000000) ready to be pushed
+[622] (10000000) will be pushed
+[622] (00001110) End of cycle [622] size is 2
+
+[623] (00010000) arrived at the push interface
+[623] (00010000) ready to be pushed
+[623] (00010000) will be pushed
+[623] (00001110) End of cycle [623] size is 3
+
+[624] (10001001) will be popped
+[624] (00000111) arrived at the push interface
+[624] (00000111) ready to be pushed
+[624] (00000111) will be pushed
+[624] (00001110) End of cycle [624] size is 3
+
+[625] (10000000) ready to be popped
+[625] (10000000) will be popped
+[625] (10000110) arrived at the push interface
+[625] (00001110) End of cycle [625] size is 2
+
+[626] (00010000) ready to be popped
+[626] (00010000) will be popped
+[626] (10000110) ready to be pushed
+[626] (10000110) will be pushed
+[626] (00001110) End of cycle [626] size is 2
+
+[627] (00000111) ready to be popped
+[627] (00000111) will be popped
+[627] (00000111) arrived at the push interface
+[627] (00000111) ready to be pushed
+[627] (00000111) will be pushed
+[627] (00001110) End of cycle [627] size is 2
+
+[628] (10000110) ready to be popped
+[628] (00000100) arrived at the push interface
+[628] (00001110) End of cycle [628] size is 2
+
+[629] (10000110) will be popped
+[629] (00000100) ready to be pushed
+[629] (00000100) will be pushed
+[629] (00001110) End of cycle [629] size is 2
+
+[630] (00000111) ready to be popped
+[630] (00000111) arrived at the push interface
+[630] (00001110) End of cycle [630] size is 2
+
+[631] (00000111) will be popped
+[631] (00001110) End of cycle [631] size is 1
+
+[632] (00000100) ready to be popped
+[632] (00000111) ready to be pushed
+[632] (00000111) will be pushed
+[632] (00001110) End of cycle [632] size is 2
+
+[633] (00000100) will be popped
+[633] (10000101) arrived at the push interface
+[633] (10000101) ready to be pushed
+[633] (10000101) will be pushed
+[633] (00001110) End of cycle [633] size is 2
+
+[634] (00000111) ready to be popped
+[634] (00000111) will be popped
+[634] (00000010) arrived at the push interface
+[634] (00000010) ready to be pushed
+[634] (00000010) will be pushed
+[634] (00001110) End of cycle [634] size is 2
+
+[635] (10000101) ready to be popped
+[635] (10000101) will be popped
+[635] (10001010) arrived at the push interface
+[635] (10001010) ready to be pushed
+[635] (10001010) will be pushed
+[635] (00001110) End of cycle [635] size is 2
+
+[636] (00000010) ready to be popped
+[636] (00000010) will be popped
+[636] (00001101) arrived at the push interface
+[636] (00001101) ready to be pushed
+[636] (00001101) will be pushed
+[636] (00001110) End of cycle [636] size is 2
+
+[637] (10001010) ready to be popped
+[637] (10001010) will be popped
+[637] (00000111) arrived at the push interface
+[637] (00000111) ready to be pushed
+[637] (00000111) will be pushed
+[637] (00001110) End of cycle [637] size is 2
+
+[638] (00001101) ready to be popped
+[638] (10001010) arrived at the push interface
+[638] (10001010) ready to be pushed
+[638] (10001010) will be pushed
+[638] (00001110) End of cycle [638] size is 3
+
+[639] (00001101) will be popped
+[639] (00001011) arrived at the push interface
+[639] (00001110) End of cycle [639] size is 2
+
+[640] (00000111) ready to be popped
+[640] (00000111) will be popped
+[640] (00001011) ready to be pushed
+[640] (00001011) will be pushed
+[640] (00001110) End of cycle [640] size is 2
+
+[641] (10001010) ready to be popped
+[641] (10001010) will be popped
+[641] (10001110) arrived at the push interface
+[641] (10001110) ready to be pushed
+[641] (10001110) will be pushed
+[641] (00001110) End of cycle [641] size is 2
+
+[642] (00001011) ready to be popped
+[642] (00001011) will be popped
+[642] (00000111) arrived at the push interface
+[642] (00000111) ready to be pushed
+[642] (00000111) will be pushed
+[642] (00001110) End of cycle [642] size is 2
+
+[643] (10001110) ready to be popped
+[643] (10001110) will be popped
+[643] (10001111) arrived at the push interface
+[643] (10001111) ready to be pushed
+[643] (10001111) will be pushed
+[643] (00001110) End of cycle [643] size is 2
+
+[644] (00000111) ready to be popped
+[644] (00000111) will be popped
+[644] (00000100) arrived at the push interface
+[644] (00000100) ready to be pushed
+[644] (00000100) will be pushed
+[644] (00001110) End of cycle [644] size is 2
+
+[645] (10001111) ready to be popped
+[645] (00000010) arrived at the push interface
+[645] (00000010) ready to be pushed
+[645] (00000010) will be pushed
+[645] (00001110) End of cycle [645] size is 3
+
+[646] (10001111) will be popped
+[646] (00001110) arrived at the push interface
+[646] (00001110) ready to be pushed
+[646] (00001110) will be pushed
+[646] (00001110) End of cycle [646] size is 3
+
+[647] (00000100) ready to be popped
+[647] (00000100) will be popped
+[647] (10000101) arrived at the push interface
+[647] (10000101) ready to be pushed
+[647] (10000101) will be pushed
+[647] (00001110) End of cycle [647] size is 3
+
+[648] (00000010) ready to be popped
+[648] (00001101) arrived at the push interface
+[648] (00001101) ready to be pushed
+[648] (00001101) will be pushed
+[648] (00001110) End of cycle [648] size is 4
+
+[649] (00000010) will be popped
+[649] (00001000) arrived at the push interface
+[649] (00001000) ready to be pushed
+[649] (00001110) End of cycle [649] size is 3
+
+[650] (00001110) ready to be popped
+[650] (00001110) will be popped
+[650] (00001000) will be pushed
+[650] (00001110) End of cycle [650] size is 3
+
+[651] (10000101) ready to be popped
+[651] (10000101) will be popped
+[651] (00001101) arrived at the push interface
+[651] (00001101) ready to be pushed
+[651] (00001101) will be pushed
+[651] (00001110) End of cycle [651] size is 3
+
+[652] (00001101) ready to be popped
+[652] (10000000) arrived at the push interface
+[652] (10000000) ready to be pushed
+[652] (10000000) will be pushed
+[652] (00001110) End of cycle [652] size is 4
+
+[653] (10001000) arrived at the push interface
+[653] (10001000) ready to be pushed
+[653] (00001110) End of cycle [653] size is 4
+
+[654] (00001110) End of cycle [654] size is 4
+
+[655] (00001101) will be popped
+[655] (00001110) End of cycle [655] size is 3
+
+[656] (00001000) ready to be popped
+[656] (10001000) will be pushed
+[656] (00001110) End of cycle [656] size is 4
+
+[657] (00001000) will be popped
+[657] (00000001) arrived at the push interface
+[657] (00000001) ready to be pushed
+[657] (00001110) End of cycle [657] size is 3
+
+[658] (00001101) ready to be popped
+[658] (00001101) will be popped
+[658] (00000001) will be pushed
+[658] (00001110) End of cycle [658] size is 3
+
+[659] (10000000) ready to be popped
+[659] (10000000) will be popped
+[659] (10000010) arrived at the push interface
+[659] (10000010) ready to be pushed
+[659] (10000010) will be pushed
+[659] (00001110) End of cycle [659] size is 3
+
+[660] (10001000) ready to be popped
+[660] (10001000) will be popped
+[660] (00000000) arrived at the push interface
+[660] (00000000) ready to be pushed
+[660] (00000000) will be pushed
+[660] (00001110) End of cycle [660] size is 3
+
+[661] (00000001) ready to be popped
+[661] (00000001) will be popped
+[661] (00010000) arrived at the push interface
+[661] (00010000) ready to be pushed
+[661] (00010000) will be pushed
+[661] (00001110) End of cycle [661] size is 3
+
+[662] (10000010) ready to be popped
+[662] (10000010) will be popped
+[662] (10000000) arrived at the push interface
+[662] (10000000) ready to be pushed
+[662] (10000000) will be pushed
+[662] (00001110) End of cycle [662] size is 3
+
+[663] (00000000) ready to be popped
+[663] (00000000) will be popped
+[663] (10001111) arrived at the push interface
+[663] (10001111) ready to be pushed
+[663] (10001111) will be pushed
+[663] (00001110) End of cycle [663] size is 3
+
+[664] (00010000) ready to be popped
+[664] (00010000) will be popped
+[664] (10000000) arrived at the push interface
+[664] (10000000) ready to be pushed
+[664] (10000000) will be pushed
+[664] (00001110) End of cycle [664] size is 3
+
+[665] (10000000) ready to be popped
+[665] (10000000) will be popped
+[665] (00000010) arrived at the push interface
+[665] (00000010) ready to be pushed
+[665] (00000010) will be pushed
+[665] (00001110) End of cycle [665] size is 3
+
+[666] (10001111) ready to be popped
+[666] (00000100) arrived at the push interface
+[666] (00000100) ready to be pushed
+[666] (00000100) will be pushed
+[666] (00001110) End of cycle [666] size is 4
+
+[667] (10000000) arrived at the push interface
+[667] (10000000) ready to be pushed
+[667] (00001110) End of cycle [667] size is 4
+
+[668] (10001111) will be popped
+[668] (00001110) End of cycle [668] size is 3
+
+[669] (10000000) ready to be popped
+[669] (10000000) will be popped
+[669] (10000000) will be pushed
+[669] (00001110) End of cycle [669] size is 3
+
+[670] (00000010) ready to be popped
+[670] (00000010) will be popped
+[670] (10000101) arrived at the push interface
+[670] (00001110) End of cycle [670] size is 2
+
+[671] (00000100) ready to be popped
+[671] (10000101) ready to be pushed
+[671] (10000101) will be pushed
+[671] (00001110) End of cycle [671] size is 3
+
+[672] (10000000) arrived at the push interface
+[672] (00001110) End of cycle [672] size is 3
+
+[673] (00000100) will be popped
+[673] (10000000) ready to be pushed
+[673] (10000000) will be pushed
+[673] (00001110) End of cycle [673] size is 3
+
+[674] (10000000) ready to be popped
+[674] (10000000) will be popped
+[674] (10001100) arrived at the push interface
+[674] (00001110) End of cycle [674] size is 2
+
+[675] (10000101) ready to be popped
+[675] (10000101) will be popped
+[675] (00001110) End of cycle [675] size is 1
+
+[676] (10000000) ready to be popped
+[676] (10000000) will be popped
+[676] (10001100) ready to be pushed
+[676] (10001100) will be pushed
+[676] (00001110) End of cycle [676] size is 1
+
+[677] (10001100) ready to be popped
+[677] (10001100) arrived at the push interface
+[677] (10001100) ready to be pushed
+[677] (10001100) will be pushed
+[677] (00001110) End of cycle [677] size is 2
+
+[678] (10001100) will be popped
+[678] (10000000) arrived at the push interface
+[678] (10000000) ready to be pushed
+[678] (10000000) will be pushed
+[678] (00001110) End of cycle [678] size is 2
+
+[679] (10001100) ready to be popped
+[679] (10001100) will be popped
+[679] (00001101) arrived at the push interface
+[679] (00001101) ready to be pushed
+[679] (00001101) will be pushed
+[679] (00001110) End of cycle [679] size is 2
+
+[680] (10000000) ready to be popped
+[680] (10000000) will be popped
+[680] (10001001) arrived at the push interface
+[680] (10001001) ready to be pushed
+[680] (10001001) will be pushed
+[680] (00001110) End of cycle [680] size is 2
+
+[681] (00001101) ready to be popped
+[681] (00001101) will be popped
+[681] (10001001) arrived at the push interface
+[681] (10001001) ready to be pushed
+[681] (10001001) will be pushed
+[681] (00001110) End of cycle [681] size is 2
+
+[682] (10001001) ready to be popped
+[682] (10001001) will be popped
+[682] (10000000) arrived at the push interface
+[682] (10000000) ready to be pushed
+[682] (10000000) will be pushed
+[682] (00001110) End of cycle [682] size is 2
+
+[683] (10001001) ready to be popped
+[683] (10001001) will be popped
+[683] (10010000) arrived at the push interface
+[683] (10010000) ready to be pushed
+[683] (10010000) will be pushed
+[683] (00001110) End of cycle [683] size is 2
+
+[684] (10000000) ready to be popped
+[684] (10000000) will be popped
+[684] (10001111) arrived at the push interface
+[684] (10001111) ready to be pushed
+[684] (10001111) will be pushed
+[684] (00001110) End of cycle [684] size is 2
+
+[685] (10010000) ready to be popped
+[685] (10010000) will be popped
+[685] (10000000) arrived at the push interface
+[685] (10000000) ready to be pushed
+[685] (10000000) will be pushed
+[685] (00001110) End of cycle [685] size is 2
+
+[686] (10001111) ready to be popped
+[686] (10001111) will be popped
+[686] (00001101) arrived at the push interface
+[686] (00001101) ready to be pushed
+[686] (00001101) will be pushed
+[686] (00001110) End of cycle [686] size is 2
+
+[687] (10000000) ready to be popped
+[687] (10000000) will be popped
+[687] (00001101) arrived at the push interface
+[687] (00001101) ready to be pushed
+[687] (00001101) will be pushed
+[687] (00001110) End of cycle [687] size is 2
+
+[688] (00001101) ready to be popped
+[688] (00001101) will be popped
+[688] (10001001) arrived at the push interface
+[688] (10001001) ready to be pushed
+[688] (10001001) will be pushed
+[688] (00001110) End of cycle [688] size is 2
+
+[689] (00001101) ready to be popped
+[689] (00001101) will be popped
+[689] (10000110) arrived at the push interface
+[689] (10000110) ready to be pushed
+[689] (10000110) will be pushed
+[689] (00001110) End of cycle [689] size is 2
+
+[690] (10001001) ready to be popped
+[690] (10001001) will be popped
+[690] (00000100) arrived at the push interface
+[690] (00000100) ready to be pushed
+[690] (00000100) will be pushed
+[690] (00001110) End of cycle [690] size is 2
+
+[691] (10000110) ready to be popped
+[691] (10000110) will be popped
+[691] (10001010) arrived at the push interface
+[691] (10001010) ready to be pushed
+[691] (10001010) will be pushed
+[691] (00001110) End of cycle [691] size is 2
+
+[692] (00000100) ready to be popped
+[692] (00000100) will be popped
+[692] (00001011) arrived at the push interface
+[692] (00001011) ready to be pushed
+[692] (00001011) will be pushed
+[692] (00001110) End of cycle [692] size is 2
+
+[693] (10001010) ready to be popped
+[693] (10001010) will be popped
+[693] (00001000) arrived at the push interface
+[693] (00001000) ready to be pushed
+[693] (00001000) will be pushed
+[693] (00001110) End of cycle [693] size is 2
+
+[694] (00001011) ready to be popped
+[694] (00001011) will be popped
+[694] (10000011) arrived at the push interface
+[694] (00001110) End of cycle [694] size is 1
+
+[695] (00001000) ready to be popped
+[695] (00001110) End of cycle [695] size is 1
+
+[696] (00001000) will be popped
+[696] (10000011) ready to be pushed
+[696] (10000011) will be pushed
+[696] (00001110) End of cycle [696] size is 1
+
+[697] (10000011) ready to be popped
+[697] (10000011) will be popped
+[697] (00000010) arrived at the push interface
+[697] (00000010) ready to be pushed
+[697] (00000010) will be pushed
+[697] (00001110) End of cycle [697] size is 1
+
+[698] (00000010) ready to be popped
+[698] (00000010) will be popped
+[698] (10001010) arrived at the push interface
+[698] (00001110) End of cycle [698] size is 0
+
+[699] (10001010) ready to be pushed
+[699] (10001010) will be pushed
+[699] (00001110) End of cycle [699] size is 1
+
+[700] (10001010) ready to be popped
+[700] (10001010) will be popped
+[700] (00000011) arrived at the push interface
+[700] (00000011) ready to be pushed
+[700] (00000011) will be pushed
+[700] (00001110) End of cycle [700] size is 1
+
+[701] (00000011) ready to be popped
+[701] (00000011) will be popped
+[701] (00000100) arrived at the push interface
+[701] (00001110) End of cycle [701] size is 0
+
+[702] (00001110) End of cycle [702] size is 0
+
+[703] (00000100) ready to be pushed
+[703] (00000100) will be pushed
+[703] (00001110) End of cycle [703] size is 1
+
+[704] (00000100) ready to be popped
+[704] (00000100) will be popped
+[704] (10000101) arrived at the push interface
+[704] (00001110) End of cycle [704] size is 0
+
+[705] (10000101) ready to be pushed
+[705] (10000101) will be pushed
+[705] (00001110) End of cycle [705] size is 1
+
+[706] (10000101) ready to be popped
+[706] (00001101) arrived at the push interface
+[706] (00001101) ready to be pushed
+[706] (00001101) will be pushed
+[706] (00001110) End of cycle [706] size is 2
+
+[707] (10000101) will be popped
+[707] (10000000) arrived at the push interface
+[707] (10000000) ready to be pushed
+[707] (10000000) will be pushed
+[707] (00001110) End of cycle [707] size is 2
+
+[708] (00001101) ready to be popped
+[708] (00001101) will be popped
+[708] (00000111) arrived at the push interface
+[708] (00000111) ready to be pushed
+[708] (00000111) will be pushed
+[708] (00001110) End of cycle [708] size is 2
+
+[709] (10000000) ready to be popped
+[709] (10000000) will be popped
+[709] (00001101) arrived at the push interface
+[709] (00001101) ready to be pushed
+[709] (00001101) will be pushed
+[709] (00001110) End of cycle [709] size is 2
+
+[710] (00000111) ready to be popped
+[710] (10001001) arrived at the push interface
+[710] (10001001) ready to be pushed
+[710] (10001001) will be pushed
+[710] (00001110) End of cycle [710] size is 3
+
+[711] (00000111) will be popped
+[711] (10000011) arrived at the push interface
+[711] (00001110) End of cycle [711] size is 2
+
+[712] (00001101) ready to be popped
+[712] (00001101) will be popped
+[712] (10000011) ready to be pushed
+[712] (10000011) will be pushed
+[712] (00001110) End of cycle [712] size is 2
+
+[713] (10001001) ready to be popped
+[713] (10001001) will be popped
+[713] (00001000) arrived at the push interface
+[713] (00001000) ready to be pushed
+[713] (00001000) will be pushed
+[713] (00001110) End of cycle [713] size is 2
+
+[714] (10000011) ready to be popped
+[714] (10000011) will be popped
+[714] (00001110) arrived at the push interface
+[714] (00001110) ready to be pushed
+[714] (00001110) will be pushed
+[714] (00001110) End of cycle [714] size is 2
+
+[715] (00001000) ready to be popped
+[715] (00001000) will be popped
+[715] (00000001) arrived at the push interface
+[715] (00001110) End of cycle [715] size is 1
+
+[716] (00001110) ready to be popped
+[716] (00000001) ready to be pushed
+[716] (00000001) will be pushed
+[716] (00001110) End of cycle [716] size is 2
+
+[717] (00001110) will be popped
+[717] (00000111) arrived at the push interface
+[717] (00001110) End of cycle [717] size is 1
+
+[718] (00000001) ready to be popped
+[718] (00000111) ready to be pushed
+[718] (00000111) will be pushed
+[718] (00001110) End of cycle [718] size is 2
+
+[719] (00001000) arrived at the push interface
+[719] (00001000) ready to be pushed
+[719] (00001000) will be pushed
+[719] (00001110) End of cycle [719] size is 3
+
+[720] (10001010) arrived at the push interface
+[720] (10001010) ready to be pushed
+[720] (10001010) will be pushed
+[720] (00001110) End of cycle [720] size is 4
+
+[721] (00000001) arrived at the push interface
+[721] (00000001) ready to be pushed
+[721] (00001110) End of cycle [721] size is 4
+
+[722] (00000001) will be popped
+[722] (00001110) End of cycle [722] size is 3
+
+[723] (00000111) ready to be popped
+[723] (00000111) will be popped
+[723] (00000001) will be pushed
+[723] (00001110) End of cycle [723] size is 3
+
+[724] (00001000) ready to be popped
+[724] (00001110) arrived at the push interface
+[724] (00001110) End of cycle [724] size is 3
+
+[725] (00001000) will be popped
+[725] (00001110) End of cycle [725] size is 2
+
+[726] (10001010) ready to be popped
+[726] (10001010) will be popped
+[726] (00001110) End of cycle [726] size is 1
+
+[727] (00000001) ready to be popped
+[727] (00000001) will be popped
+[727] (00001110) End of cycle [727] size is 0
+
+[728] (00001110) ready to be pushed
+[728] (00001110) will be pushed
+[728] (00001110) End of cycle [728] size is 1
+
+[729] (00001110) ready to be popped
+[729] (00001110) will be popped
+[729] (00001000) arrived at the push interface
+[729] (00001000) ready to be pushed
+[729] (00001000) will be pushed
+[729] (00001110) End of cycle [729] size is 1
+
+[730] (00001000) ready to be popped
+[730] (00001000) will be popped
+[730] (00001101) arrived at the push interface
+[730] (00001101) ready to be pushed
+[730] (00001101) will be pushed
+[730] (00001110) End of cycle [730] size is 1
+
+[731] (00001101) ready to be popped
+[731] (00001101) will be popped
+[731] (00000010) arrived at the push interface
+[731] (00000010) ready to be pushed
+[731] (00000010) will be pushed
+[731] (00001110) End of cycle [731] size is 1
+
+[732] (00000010) ready to be popped
+[732] (00000010) will be popped
+[732] (00001011) arrived at the push interface
+[732] (00001110) End of cycle [732] size is 0
+
+[733] (00001011) ready to be pushed
+[733] (00001011) will be pushed
+[733] (00001110) End of cycle [733] size is 1
+
+[734] (00001011) ready to be popped
+[734] (00001011) will be popped
+[734] (00001011) arrived at the push interface
+[734] (00001011) ready to be pushed
+[734] (00001011) will be pushed
+[734] (00001110) End of cycle [734] size is 1
+
+[735] (00001011) ready to be popped
+[735] (00001011) will be popped
+[735] (00001011) arrived at the push interface
+[735] (00001011) ready to be pushed
+[735] (00001011) will be pushed
+[735] (00001110) End of cycle [735] size is 1
+
+[736] (00001011) ready to be popped
+[736] (00001011) will be popped
+[736] (00000111) arrived at the push interface
+[736] (00000111) ready to be pushed
+[736] (00000111) will be pushed
+[736] (00001110) End of cycle [736] size is 1
+
+[737] (00000111) ready to be popped
+[737] (00000111) will be popped
+[737] (00000001) arrived at the push interface
+[737] (00001110) End of cycle [737] size is 0
+
+[738] (00000001) ready to be pushed
+[738] (00000001) will be pushed
+[738] (00001110) End of cycle [738] size is 1
+
+[739] (00000001) ready to be popped
+[739] (00000001) will be popped
+[739] (10001100) arrived at the push interface
+[739] (10001100) ready to be pushed
+[739] (10001100) will be pushed
+[739] (00001110) End of cycle [739] size is 1
+
+[740] (10001100) ready to be popped
+[740] (10001100) will be popped
+[740] (10001010) arrived at the push interface
+[740] (10001010) ready to be pushed
+[740] (10001010) will be pushed
+[740] (00001110) End of cycle [740] size is 1
+
+[741] (10001010) ready to be popped
+[741] (10001010) will be popped
+[741] (00000100) arrived at the push interface
+[741] (00000100) ready to be pushed
+[741] (00000100) will be pushed
+[741] (00001110) End of cycle [741] size is 1
+
+[742] (00000100) ready to be popped
+[742] (00000100) will be popped
+[742] (00010000) arrived at the push interface
+[742] (00010000) ready to be pushed
+[742] (00010000) will be pushed
+[742] (00001110) End of cycle [742] size is 1
+
+[743] (00010000) ready to be popped
+[743] (00010000) will be popped
+[743] (00001111) arrived at the push interface
+[743] (00001111) ready to be pushed
+[743] (00001111) will be pushed
+[743] (00001110) End of cycle [743] size is 1
+
+[744] (00001111) ready to be popped
+[744] (00001111) will be popped
+[744] (10001010) arrived at the push interface
+[744] (00001110) End of cycle [744] size is 0
+
+[745] (10001010) ready to be pushed
+[745] (10001010) will be pushed
+[745] (00001110) End of cycle [745] size is 1
+
+[746] (10001010) ready to be popped
+[746] (10001010) will be popped
+[746] (10000100) arrived at the push interface
+[746] (10000100) ready to be pushed
+[746] (10000100) will be pushed
+[746] (00001110) End of cycle [746] size is 1
+
+[747] (10000100) ready to be popped
+[747] (10000100) will be popped
+[747] (10001001) arrived at the push interface
+[747] (00001110) End of cycle [747] size is 0
+
+[748] (10001001) ready to be pushed
+[748] (10001001) will be pushed
+[748] (00001110) End of cycle [748] size is 1
+
+[749] (10001001) ready to be popped
+[749] (10001001) will be popped
+[749] (00000001) arrived at the push interface
+[749] (00000001) ready to be pushed
+[749] (00000001) will be pushed
+[749] (00001110) End of cycle [749] size is 1
+
+[750] (00000001) ready to be popped
+[750] (00000001) will be popped
+[750] (00010000) arrived at the push interface
+[750] (00001110) End of cycle [750] size is 0
+
+[751] (00010000) ready to be pushed
+[751] (00010000) will be pushed
+[751] (00001110) End of cycle [751] size is 1
+
+[752] (00010000) ready to be popped
+[752] (10001100) arrived at the push interface
+[752] (00001110) End of cycle [752] size is 1
+
+[753] (00001110) End of cycle [753] size is 1
+
+[754] (00010000) will be popped
+[754] (00001110) End of cycle [754] size is 0
+
+[755] (00001110) End of cycle [755] size is 0
+
+[756] (10001100) ready to be pushed
+[756] (10001100) will be pushed
+[756] (00001110) End of cycle [756] size is 1
+
+[757] (10001100) ready to be popped
+[757] (10001100) will be popped
+[757] (00000001) arrived at the push interface
+[757] (00001110) End of cycle [757] size is 0
+
+[758] (00000001) ready to be pushed
+[758] (00000001) will be pushed
+[758] (00001110) End of cycle [758] size is 1
+
+[759] (00000001) ready to be popped
+[759] (00000001) will be popped
+[759] (00000100) arrived at the push interface
+[759] (00000100) ready to be pushed
+[759] (00000100) will be pushed
+[759] (00001110) End of cycle [759] size is 1
+
+[760] (00000100) ready to be popped
+[760] (00000100) will be popped
+[760] (00000000) arrived at the push interface
+[760] (00000000) ready to be pushed
+[760] (00000000) will be pushed
+[760] (00001110) End of cycle [760] size is 1
+
+[761] (00000000) ready to be popped
+[761] (00000000) will be popped
+[761] (00001000) arrived at the push interface
+[761] (00001000) ready to be pushed
+[761] (00001000) will be pushed
+[761] (00001110) End of cycle [761] size is 1
+
+[762] (00001000) ready to be popped
+[762] (00001000) will be popped
+[762] (00000010) arrived at the push interface
+[762] (00000010) ready to be pushed
+[762] (00000010) will be pushed
+[762] (00001110) End of cycle [762] size is 1
+
+[763] (00000010) ready to be popped
+[763] (00000010) will be popped
+[763] (00010000) arrived at the push interface
+[763] (00001110) End of cycle [763] size is 0
+
+[764] (00010000) ready to be pushed
+[764] (00010000) will be pushed
+[764] (00001110) End of cycle [764] size is 1
+
+[765] (00010000) ready to be popped
+[765] (00001000) arrived at the push interface
+[765] (00001110) End of cycle [765] size is 1
+
+[766] (00010000) will be popped
+[766] (00001000) ready to be pushed
+[766] (00001000) will be pushed
+[766] (00001110) End of cycle [766] size is 1
+
+[767] (00001000) ready to be popped
+[767] (00001000) will be popped
+[767] (10000101) arrived at the push interface
+[767] (00001110) End of cycle [767] size is 0
+
+[768] (10000101) ready to be pushed
+[768] (10000101) will be pushed
+[768] (00001110) End of cycle [768] size is 1
+
+[769] (10000101) ready to be popped
+[769] (10000101) will be popped
+[769] (10000010) arrived at the push interface
+[769] (00001110) End of cycle [769] size is 0
+
+[770] (10000010) ready to be pushed
+[770] (10000010) will be pushed
+[770] (00001110) End of cycle [770] size is 1
+
+[771] (10000010) ready to be popped
+[771] (10000010) will be popped
+[771] (00010000) arrived at the push interface
+[771] (00010000) ready to be pushed
+[771] (00010000) will be pushed
+[771] (00001110) End of cycle [771] size is 1
+
+[772] (00010000) ready to be popped
+[772] (00010000) will be popped
+[772] (10001010) arrived at the push interface
+[772] (10001010) ready to be pushed
+[772] (10001010) will be pushed
+[772] (00001110) End of cycle [772] size is 1
+
+[773] (10001010) ready to be popped
+[773] (10001010) will be popped
+[773] (00001101) arrived at the push interface
+[773] (00001101) ready to be pushed
+[773] (00001101) will be pushed
+[773] (00001110) End of cycle [773] size is 1
+
+[774] (00001101) ready to be popped
+[774] (00001101) will be popped
+[774] (00010000) arrived at the push interface
+[774] (00010000) ready to be pushed
+[774] (00010000) will be pushed
+[774] (00001110) End of cycle [774] size is 1
+
+[775] (00010000) ready to be popped
+[775] (00010000) will be popped
+[775] (10001111) arrived at the push interface
+[775] (00001110) End of cycle [775] size is 0
+
+[776] (10001111) ready to be pushed
+[776] (10001111) will be pushed
+[776] (00001110) End of cycle [776] size is 1
+
+[777] (10001111) ready to be popped
+[777] (10001111) will be popped
+[777] (10000111) arrived at the push interface
+[777] (00001110) End of cycle [777] size is 0
+
+[778] (10000111) ready to be pushed
+[778] (10000111) will be pushed
+[778] (00001110) End of cycle [778] size is 1
+
+[779] (10000111) ready to be popped
+[779] (10000111) will be popped
+[779] (10000110) arrived at the push interface
+[779] (10000110) ready to be pushed
+[779] (10000110) will be pushed
+[779] (00001110) End of cycle [779] size is 1
+
+[780] (10000110) ready to be popped
+[780] (10000110) will be popped
+[780] (10000101) arrived at the push interface
+[780] (10000101) ready to be pushed
+[780] (10000101) will be pushed
+[780] (00001110) End of cycle [780] size is 1
+
+[781] (10000101) ready to be popped
+[781] (10000101) will be popped
+[781] (00000100) arrived at the push interface
+[781] (00000100) ready to be pushed
+[781] (00000100) will be pushed
+[781] (00001110) End of cycle [781] size is 1
+
+[782] (00000100) ready to be popped
+[782] (00000100) will be popped
+[782] (10000101) arrived at the push interface
+[782] (00001110) End of cycle [782] size is 0
+
+[783] (10000101) ready to be pushed
+[783] (10000101) will be pushed
+[783] (00001110) End of cycle [783] size is 1
+
+[784] (10000101) ready to be popped
+[784] (00000001) arrived at the push interface
+[784] (00000001) ready to be pushed
+[784] (00000001) will be pushed
+[784] (00001110) End of cycle [784] size is 2
+
+[785] (10000101) will be popped
+[785] (10001111) arrived at the push interface
+[785] (10001111) ready to be pushed
+[785] (10001111) will be pushed
+[785] (00001110) End of cycle [785] size is 2
+
+[786] (00000001) ready to be popped
+[786] (10010000) arrived at the push interface
+[786] (10010000) ready to be pushed
+[786] (10010000) will be pushed
+[786] (00001110) End of cycle [786] size is 3
+
+[787] (00000001) will be popped
+[787] (10001010) arrived at the push interface
+[787] (10001010) ready to be pushed
+[787] (10001010) will be pushed
+[787] (00001110) End of cycle [787] size is 3
+
+[788] (10001111) ready to be popped
+[788] (10001111) will be popped
+[788] (00001000) arrived at the push interface
+[788] (00001110) End of cycle [788] size is 2
+
+[789] (10010000) ready to be popped
+[789] (10010000) will be popped
+[789] (00001000) ready to be pushed
+[789] (00001000) will be pushed
+[789] (00001110) End of cycle [789] size is 2
+
+[790] (10001010) ready to be popped
+[790] (10001010) will be popped
+[790] (10001010) arrived at the push interface
+[790] (00001110) End of cycle [790] size is 1
+
+[791] (00001000) ready to be popped
+[791] (00001000) will be popped
+[791] (10001010) ready to be pushed
+[791] (10001010) will be pushed
+[791] (00001110) End of cycle [791] size is 1
+
+[792] (10001010) ready to be popped
+[792] (10001010) will be popped
+[792] (00000001) arrived at the push interface
+[792] (00000001) ready to be pushed
+[792] (00000001) will be pushed
+[792] (00001110) End of cycle [792] size is 1
+
+[793] (00000001) ready to be popped
+[793] (00000001) will be popped
+[793] (00000110) arrived at the push interface
+[793] (00000110) ready to be pushed
+[793] (00000110) will be pushed
+[793] (00001110) End of cycle [793] size is 1
+
+[794] (00000110) ready to be popped
+[794] (00000110) will be popped
+[794] (10001100) arrived at the push interface
+[794] (00001110) End of cycle [794] size is 0
+
+[795] (10001100) ready to be pushed
+[795] (10001100) will be pushed
+[795] (00001110) End of cycle [795] size is 1
+
+[796] (10001100) ready to be popped
+[796] (10001100) will be popped
+[796] (00000111) arrived at the push interface
+[796] (00000111) ready to be pushed
+[796] (00000111) will be pushed
+[796] (00001110) End of cycle [796] size is 1
+
+[797] (00000111) ready to be popped
+[797] (00000111) will be popped
+[797] (10001100) arrived at the push interface
+[797] (00001110) End of cycle [797] size is 0
+
+[798] (10001100) ready to be pushed
+[798] (10001100) will be pushed
+[798] (00001110) End of cycle [798] size is 1
+
+[799] (10001100) ready to be popped
+[799] (10001100) will be popped
+[799] (10001111) arrived at the push interface
+[799] (10001111) ready to be pushed
+[799] (10001111) will be pushed
+[799] (00001110) End of cycle [799] size is 1
+
+[800] (10001111) ready to be popped
+[800] (00001010) arrived at the push interface
+[800] (00001010) ready to be pushed
+[800] (00001010) will be pushed
+[800] (00001110) End of cycle [800] size is 2
+
+[801] (10001111) will be popped
+[801] (00000100) arrived at the push interface
+[801] (00000100) ready to be pushed
+[801] (00000100) will be pushed
+[801] (00001110) End of cycle [801] size is 2
+
+[802] (00001010) ready to be popped
+[802] (00001010) will be popped
+[802] (10000011) arrived at the push interface
+[802] (10000011) ready to be pushed
+[802] (10000011) will be pushed
+[802] (00001110) End of cycle [802] size is 2
+
+[803] (00000100) ready to be popped
+[803] (00000100) will be popped
+[803] (00001101) arrived at the push interface
+[803] (00001101) ready to be pushed
+[803] (00001101) will be pushed
+[803] (00001110) End of cycle [803] size is 2
+
+[804] (10000011) ready to be popped
+[804] (00000111) arrived at the push interface
+[804] (00000111) ready to be pushed
+[804] (00000111) will be pushed
+[804] (00001110) End of cycle [804] size is 3
+
+[805] (10000101) arrived at the push interface
+[805] (00001110) End of cycle [805] size is 3
+
+[806] (10000011) will be popped
+[806] (10000101) ready to be pushed
+[806] (10000101) will be pushed
+[806] (00001110) End of cycle [806] size is 3
+
+[807] (00001101) ready to be popped
+[807] (00001101) will be popped
+[807] (00000010) arrived at the push interface
+[807] (00001110) End of cycle [807] size is 2
+
+[808] (00000111) ready to be popped
+[808] (00000010) ready to be pushed
+[808] (00000010) will be pushed
+[808] (00001110) End of cycle [808] size is 3
+
+[809] (00000111) will be popped
+[809] (10000101) arrived at the push interface
+[809] (10000101) ready to be pushed
+[809] (10000101) will be pushed
+[809] (00001110) End of cycle [809] size is 3
+
+[810] (10000101) ready to be popped
+[810] (00000100) arrived at the push interface
+[810] (00000100) ready to be pushed
+[810] (00000100) will be pushed
+[810] (00001110) End of cycle [810] size is 4
+
+[811] (10000101) will be popped
+[811] (00001010) arrived at the push interface
+[811] (00001010) ready to be pushed
+[811] (00001110) End of cycle [811] size is 3
+
+[812] (00000010) ready to be popped
+[812] (00001010) will be pushed
+[812] (00001110) End of cycle [812] size is 4
+
+[813] (00000010) will be popped
+[813] (10000011) arrived at the push interface
+[813] (10000011) ready to be pushed
+[813] (00001110) End of cycle [813] size is 3
+
+[814] (10000101) ready to be popped
+[814] (10000011) will be pushed
+[814] (00001110) End of cycle [814] size is 4
+
+[815] (10001010) arrived at the push interface
+[815] (10001010) ready to be pushed
+[815] (00001110) End of cycle [815] size is 4
+
+[816] (10000101) will be popped
+[816] (00001110) End of cycle [816] size is 3
+
+[817] (00000100) ready to be popped
+[817] (00000100) will be popped
+[817] (10001010) will be pushed
+[817] (00001110) End of cycle [817] size is 3
+
+[818] (00001010) ready to be popped
+[818] (00001010) will be popped
+[818] (00001011) arrived at the push interface
+[818] (00001011) ready to be pushed
+[818] (00001011) will be pushed
+[818] (00001110) End of cycle [818] size is 3
+
+[819] (10000011) ready to be popped
+[819] (10000011) will be popped
+[819] (10001100) arrived at the push interface
+[819] (10001100) ready to be pushed
+[819] (10001100) will be pushed
+[819] (00001110) End of cycle [819] size is 3
+
+[820] (10001010) ready to be popped
+[820] (10001010) will be popped
+[820] (00001110) arrived at the push interface
+[820] (00001110) ready to be pushed
+[820] (00001110) will be pushed
+[820] (00001110) End of cycle [820] size is 3
+
+[821] (00001011) ready to be popped
+[821] (00001011) will be popped
+[821] (10001010) arrived at the push interface
+[821] (00001110) End of cycle [821] size is 2
+
+[822] (10001100) ready to be popped
+[822] (10001100) will be popped
+[822] (00001110) End of cycle [822] size is 1
+
+[823] (00001110) ready to be popped
+[823] (00001110) will be popped
+[823] (10001010) ready to be pushed
+[823] (10001010) will be pushed
+[823] (00001110) End of cycle [823] size is 1
+
+[824] (10001010) ready to be popped
+[824] (10001010) will be popped
+[824] (10000011) arrived at the push interface
+[824] (00001110) End of cycle [824] size is 0
+
+[825] (10000011) ready to be pushed
+[825] (10000011) will be pushed
+[825] (00001110) End of cycle [825] size is 1
+
+[826] (10000011) ready to be popped
+[826] (10000011) will be popped
+[826] (00001000) arrived at the push interface
+[826] (00001000) ready to be pushed
+[826] (00001000) will be pushed
+[826] (00001110) End of cycle [826] size is 1
+
+[827] (00001000) ready to be popped
+[827] (10001111) arrived at the push interface
+[827] (10001111) ready to be pushed
+[827] (10001111) will be pushed
+[827] (00001110) End of cycle [827] size is 2
+
+[828] (00001000) will be popped
+[828] (10001100) arrived at the push interface
+[828] (10001100) ready to be pushed
+[828] (10001100) will be pushed
+[828] (00001110) End of cycle [828] size is 2
+
+[829] (10001111) ready to be popped
+[829] (10001111) will be popped
+[829] (00010000) arrived at the push interface
+[829] (00010000) ready to be pushed
+[829] (00010000) will be pushed
+[829] (00001110) End of cycle [829] size is 2
+
+[830] (10001100) ready to be popped
+[830] (10001100) will be popped
+[830] (10001100) arrived at the push interface
+[830] (00001110) End of cycle [830] size is 1
+
+[831] (00010000) ready to be popped
+[831] (00010000) will be popped
+[831] (10001100) ready to be pushed
+[831] (10001100) will be pushed
+[831] (00001110) End of cycle [831] size is 1
+
+[832] (10001100) ready to be popped
+[832] (10001100) will be popped
+[832] (10001010) arrived at the push interface
+[832] (00001110) End of cycle [832] size is 0
+
+[833] (00001110) End of cycle [833] size is 0
+
+[834] (10001010) ready to be pushed
+[834] (10001010) will be pushed
+[834] (00001110) End of cycle [834] size is 1
+
+[835] (10001010) ready to be popped
+[835] (10001010) will be popped
+[835] (00001011) arrived at the push interface
+[835] (00001011) ready to be pushed
+[835] (00001011) will be pushed
+[835] (00001110) End of cycle [835] size is 1
+
+[836] (00001011) ready to be popped
+[836] (00001011) will be popped
+[836] (00001110) arrived at the push interface
+[836] (00001110) End of cycle [836] size is 0
+
+[837] (00001110) ready to be pushed
+[837] (00001110) will be pushed
+[837] (00001110) End of cycle [837] size is 1
+
+[838] (00001110) ready to be popped
+[838] (00001110) will be popped
+[838] (00001011) arrived at the push interface
+[838] (00001011) ready to be pushed
+[838] (00001011) will be pushed
+[838] (00001110) End of cycle [838] size is 1
+
+[839] (00001011) ready to be popped
+[839] (10001100) arrived at the push interface
+[839] (10001100) ready to be pushed
+[839] (10001100) will be pushed
+[839] (00001110) End of cycle [839] size is 2
+
+[840] (00001011) will be popped
+[840] (00010000) arrived at the push interface
+[840] (00010000) ready to be pushed
+[840] (00010000) will be pushed
+[840] (00001110) End of cycle [840] size is 2
+
+[841] (10001100) ready to be popped
+[841] (10001100) will be popped
+[841] (10001111) arrived at the push interface
+[841] (00001110) End of cycle [841] size is 1
+
+[842] (00010000) ready to be popped
+[842] (00010000) will be popped
+[842] (10001111) ready to be pushed
+[842] (10001111) will be pushed
+[842] (00001110) End of cycle [842] size is 1
+
+[843] (10001111) ready to be popped
+[843] (10001111) will be popped
+[843] (10001001) arrived at the push interface
+[843] (10001001) ready to be pushed
+[843] (10001001) will be pushed
+[843] (00001110) End of cycle [843] size is 1
+
+[844] (10001001) ready to be popped
+[844] (10001001) will be popped
+[844] (00000010) arrived at the push interface
+[844] (00001110) End of cycle [844] size is 0
+
+[845] (00000010) ready to be pushed
+[845] (00000010) will be pushed
+[845] (00001110) End of cycle [845] size is 1
+
+[846] (00000010) ready to be popped
+[846] (00000010) will be popped
+[846] (10001001) arrived at the push interface
+[846] (10001001) ready to be pushed
+[846] (10001001) will be pushed
+[846] (00001110) End of cycle [846] size is 1
+
+[847] (10001001) ready to be popped
+[847] (10001001) will be popped
+[847] (00001110) arrived at the push interface
+[847] (00001110) ready to be pushed
+[847] (00001110) will be pushed
+[847] (00001110) End of cycle [847] size is 1
+
+[848] (00001110) ready to be popped
+[848] (00001110) will be popped
+[848] (00000001) arrived at the push interface
+[848] (00000001) ready to be pushed
+[848] (00000001) will be pushed
+[848] (00001110) End of cycle [848] size is 1
+
+[849] (00000001) ready to be popped
+[849] (00010000) arrived at the push interface
+[849] (00010000) ready to be pushed
+[849] (00010000) will be pushed
+[849] (00001110) End of cycle [849] size is 2
+
+[850] (00000001) will be popped
+[850] (10000110) arrived at the push interface
+[850] (10000110) ready to be pushed
+[850] (10000110) will be pushed
+[850] (00001110) End of cycle [850] size is 2
+
+[851] (00010000) ready to be popped
+[851] (00001000) arrived at the push interface
+[851] (00001000) ready to be pushed
+[851] (00001000) will be pushed
+[851] (00001110) End of cycle [851] size is 3
+
+[852] (00010000) will be popped
+[852] (10000000) arrived at the push interface
+[852] (10000000) ready to be pushed
+[852] (10000000) will be pushed
+[852] (00001110) End of cycle [852] size is 3
+
+[853] (10000110) ready to be popped
+[853] (10000110) will be popped
+[853] (10000000) arrived at the push interface
+[853] (10000000) ready to be pushed
+[853] (10000000) will be pushed
+[853] (00001110) End of cycle [853] size is 3
+
+[854] (00001000) ready to be popped
+[854] (00001000) will be popped
+[854] (10000101) arrived at the push interface
+[854] (10000101) ready to be pushed
+[854] (10000101) will be pushed
+[854] (00001110) End of cycle [854] size is 3
+
+[855] (10000000) ready to be popped
+[855] (10000000) will be popped
+[855] (10001010) arrived at the push interface
+[855] (10001010) ready to be pushed
+[855] (10001010) will be pushed
+[855] (00001110) End of cycle [855] size is 3
+
+[856] (10000000) ready to be popped
+[856] (10000000) will be popped
+[856] (00000111) arrived at the push interface
+[856] (00000111) ready to be pushed
+[856] (00000111) will be pushed
+[856] (00001110) End of cycle [856] size is 3
+
+[857] (10000101) ready to be popped
+[857] (10000101) will be popped
+[857] (10001100) arrived at the push interface
+[857] (10001100) ready to be pushed
+[857] (10001100) will be pushed
+[857] (00001110) End of cycle [857] size is 3
+
+[858] (10001010) ready to be popped
+[858] (10001010) will be popped
+[858] (10000110) arrived at the push interface
+[858] (00001110) End of cycle [858] size is 2
+
+[859] (00000111) ready to be popped
+[859] (00000111) will be popped
+[859] (10000110) ready to be pushed
+[859] (10000110) will be pushed
+[859] (00001110) End of cycle [859] size is 2
+
+[860] (10001100) ready to be popped
+[860] (10001100) will be popped
+[860] (00000111) arrived at the push interface
+[860] (00000111) ready to be pushed
+[860] (00000111) will be pushed
+[860] (00001110) End of cycle [860] size is 2
+
+[861] (10000110) ready to be popped
+[861] (10000110) will be popped
+[861] (10000101) arrived at the push interface
+[861] (00001110) End of cycle [861] size is 1
+
+[862] (00000111) ready to be popped
+[862] (00000111) will be popped
+[862] (00001110) End of cycle [862] size is 0
+
+[863] (10000101) ready to be pushed
+[863] (10000101) will be pushed
+[863] (00001110) End of cycle [863] size is 1
+
+[864] (10000101) ready to be popped
+[864] (10000101) will be popped
+[864] (00001000) arrived at the push interface
+[864] (00001110) End of cycle [864] size is 0
+
+[865] (00001110) End of cycle [865] size is 0
+
+[866] (00001000) ready to be pushed
+[866] (00001000) will be pushed
+[866] (00001110) End of cycle [866] size is 1
+
+[867] (00001000) ready to be popped
+[867] (00001000) will be popped
+[867] (10000000) arrived at the push interface
+[867] (00001110) End of cycle [867] size is 0
+
+[868] (10000000) ready to be pushed
+[868] (10000000) will be pushed
+[868] (00001110) End of cycle [868] size is 1
+
+[869] (10000000) ready to be popped
+[869] (10001111) arrived at the push interface
+[869] (10001111) ready to be pushed
+[869] (10001111) will be pushed
+[869] (00001110) End of cycle [869] size is 2
+
+[870] (10000000) will be popped
+[870] (00010000) arrived at the push interface
+[870] (00001110) End of cycle [870] size is 1
+
+[871] (10001111) ready to be popped
+[871] (10001111) will be popped
+[871] (00010000) ready to be pushed
+[871] (00010000) will be pushed
+[871] (00001110) End of cycle [871] size is 1
+
+[872] (00010000) ready to be popped
+[872] (00010000) will be popped
+[872] (00000111) arrived at the push interface
+[872] (00000111) ready to be pushed
+[872] (00000111) will be pushed
+[872] (00001110) End of cycle [872] size is 1
+
+[873] (00000111) ready to be popped
+[873] (00000111) will be popped
+[873] (10001001) arrived at the push interface
+[873] (10001001) ready to be pushed
+[873] (10001001) will be pushed
+[873] (00001110) End of cycle [873] size is 1
+
+[874] (10001001) ready to be popped
+[874] (10001001) will be popped
+[874] (00001001) arrived at the push interface
+[874] (00001001) ready to be pushed
+[874] (00001001) will be pushed
+[874] (00001110) End of cycle [874] size is 1
+
+[875] (00001001) ready to be popped
+[875] (00001001) will be popped
+[875] (00000010) arrived at the push interface
+[875] (00000010) ready to be pushed
+[875] (00000010) will be pushed
+[875] (00001110) End of cycle [875] size is 1
+
+[876] (00000010) ready to be popped
+[876] (00000010) will be popped
+[876] (10001010) arrived at the push interface
+[876] (10001010) ready to be pushed
+[876] (10001010) will be pushed
+[876] (00001110) End of cycle [876] size is 1
+
+[877] (10001010) ready to be popped
+[877] (10001100) arrived at the push interface
+[877] (10001100) ready to be pushed
+[877] (10001100) will be pushed
+[877] (00001110) End of cycle [877] size is 2
+
+[878] (10001010) will be popped
+[878] (10000110) arrived at the push interface
+[878] (00001110) End of cycle [878] size is 1
+
+[879] (10001100) ready to be popped
+[879] (10001100) will be popped
+[879] (10000110) ready to be pushed
+[879] (10000110) will be pushed
+[879] (00001110) End of cycle [879] size is 1
+
+[880] (10000110) ready to be popped
+[880] (10000110) will be popped
+[880] (10000110) arrived at the push interface
+[880] (10000110) ready to be pushed
+[880] (10000110) will be pushed
+[880] (00001110) End of cycle [880] size is 1
+
+[881] (10000110) ready to be popped
+[881] (10000110) will be popped
+[881] (00000010) arrived at the push interface
+[881] (00001110) End of cycle [881] size is 0
+
+[882] (00000010) ready to be pushed
+[882] (00000010) will be pushed
+[882] (00001110) End of cycle [882] size is 1
+
+[883] (00000010) ready to be popped
+[883] (00000010) will be popped
+[883] (10000100) arrived at the push interface
+[883] (10000100) ready to be pushed
+[883] (10000100) will be pushed
+[883] (00001110) End of cycle [883] size is 1
+
+[884] (10000100) ready to be popped
+[884] (10000100) will be popped
+[884] (10000111) arrived at the push interface
+[884] (10000111) ready to be pushed
+[884] (10000111) will be pushed
+[884] (00001110) End of cycle [884] size is 1
+
+[885] (10000111) ready to be popped
+[885] (10000111) will be popped
+[885] (00000001) arrived at the push interface
+[885] (00001110) End of cycle [885] size is 0
+
+[886] (00001110) End of cycle [886] size is 0
+
+[887] (00000001) ready to be pushed
+[887] (00000001) will be pushed
+[887] (00001110) End of cycle [887] size is 1
+
+[888] (00000001) ready to be popped
+[888] (00000001) will be popped
+[888] (00000100) arrived at the push interface
+[888] (00000100) ready to be pushed
+[888] (00000100) will be pushed
+[888] (00001110) End of cycle [888] size is 1
+
+[889] (00000100) ready to be popped
+[889] (00000100) will be popped
+[889] (00001000) arrived at the push interface
+[889] (00001110) End of cycle [889] size is 0
+
+[890] (00001000) ready to be pushed
+[890] (00001000) will be pushed
+[890] (00001110) End of cycle [890] size is 1
+
+[891] (00001000) ready to be popped
+[891] (00000111) arrived at the push interface
+[891] (00000111) ready to be pushed
+[891] (00000111) will be pushed
+[891] (00001110) End of cycle [891] size is 2
+
+[892] (00001000) will be popped
+[892] (10000110) arrived at the push interface
+[892] (00001110) End of cycle [892] size is 1
+
+[893] (00000111) ready to be popped
+[893] (00000111) will be popped
+[893] (10000110) ready to be pushed
+[893] (10000110) will be pushed
+[893] (00001110) End of cycle [893] size is 1
+
+[894] (10000110) ready to be popped
+[894] (10000110) will be popped
+[894] (00000111) arrived at the push interface
+[894] (00000111) ready to be pushed
+[894] (00000111) will be pushed
+[894] (00001110) End of cycle [894] size is 1
+
+[895] (00000111) ready to be popped
+[895] (00000111) will be popped
+[895] (00000001) arrived at the push interface
+[895] (00001110) End of cycle [895] size is 0
+
+[896] (00001110) End of cycle [896] size is 0
+
+[897] (00000001) ready to be pushed
+[897] (00000001) will be pushed
+[897] (00001110) End of cycle [897] size is 1
+
+[898] (00000001) ready to be popped
+[898] (00000001) will be popped
+[898] (10000110) arrived at the push interface
+[898] (10000110) ready to be pushed
+[898] (10000110) will be pushed
+[898] (00001110) End of cycle [898] size is 1
+
+[899] (10000110) ready to be popped
+[899] (10000110) will be popped
+[899] (10000101) arrived at the push interface
+[899] (10000101) ready to be pushed
+[899] (10000101) will be pushed
+[899] (00001110) End of cycle [899] size is 1
+
+[900] (10000101) ready to be popped
+[900] (10000101) will be popped
+[900] (00000101) arrived at the push interface
+[900] (00001110) End of cycle [900] size is 0
+
+[901] (00000101) ready to be pushed
+[901] (00000101) will be pushed
+[901] (00001110) End of cycle [901] size is 1
+
+[902] (00000101) ready to be popped
+[902] (00000101) will be popped
+[902] (00001000) arrived at the push interface
+[902] (00001110) End of cycle [902] size is 0
+
+[903] (00001000) ready to be pushed
+[903] (00001000) will be pushed
+[903] (00001110) End of cycle [903] size is 1
+
+[904] (00001000) ready to be popped
+[904] (00001000) will be popped
+[904] (00000011) arrived at the push interface
+[904] (00000011) ready to be pushed
+[904] (00000011) will be pushed
+[904] (00001110) End of cycle [904] size is 1
+
+[905] (00000011) ready to be popped
+[905] (00000011) will be popped
+[905] (10000110) arrived at the push interface
+[905] (10000110) ready to be pushed
+[905] (10000110) will be pushed
+[905] (00001110) End of cycle [905] size is 1
+
+[906] (10000110) ready to be popped
+[906] (10000110) will be popped
+[906] (00000010) arrived at the push interface
+[906] (00000010) ready to be pushed
+[906] (00000010) will be pushed
+[906] (00001110) End of cycle [906] size is 1
+
+[907] (00000010) ready to be popped
+[907] (00000010) will be popped
+[907] (10000101) arrived at the push interface
+[907] (10000101) ready to be pushed
+[907] (10000101) will be pushed
+[907] (00001110) End of cycle [907] size is 1
+
+[908] (10000101) ready to be popped
+[908] (10000101) will be popped
+[908] (00010000) arrived at the push interface
+[908] (00010000) ready to be pushed
+[908] (00010000) will be pushed
+[908] (00001110) End of cycle [908] size is 1
+
+[909] (00010000) ready to be popped
+[909] (00010000) will be popped
+[909] (00000100) arrived at the push interface
+[909] (00001110) End of cycle [909] size is 0
+
+[910] (00001110) End of cycle [910] size is 0
+
+[911] (00000100) ready to be pushed
+[911] (00000100) will be pushed
+[911] (00001110) End of cycle [911] size is 1
+
+[912] (00000100) ready to be popped
+[912] (00000100) arrived at the push interface
+[912] (00000100) ready to be pushed
+[912] (00000100) will be pushed
+[912] (00001110) End of cycle [912] size is 2
+
+[913] (10001010) arrived at the push interface
+[913] (10001010) ready to be pushed
+[913] (10001010) will be pushed
+[913] (00001110) End of cycle [913] size is 3
+
+[914] (00000100) will be popped
+[914] (10000011) arrived at the push interface
+[914] (00001110) End of cycle [914] size is 2
+
+[915] (00000100) ready to be popped
+[915] (00000100) will be popped
+[915] (10000011) ready to be pushed
+[915] (10000011) will be pushed
+[915] (00001110) End of cycle [915] size is 2
+
+[916] (10001010) ready to be popped
+[916] (00000001) arrived at the push interface
+[916] (00000001) ready to be pushed
+[916] (00000001) will be pushed
+[916] (00001110) End of cycle [916] size is 3
+
+[917] (10001010) will be popped
+[917] (10001010) arrived at the push interface
+[917] (10001010) ready to be pushed
+[917] (10001010) will be pushed
+[917] (00001110) End of cycle [917] size is 3
+
+[918] (10000011) ready to be popped
+[918] (10000011) will be popped
+[918] (00001101) arrived at the push interface
+[918] (00001110) End of cycle [918] size is 2
+
+[919] (00000001) ready to be popped
+[919] (00000001) will be popped
+[919] (00001101) ready to be pushed
+[919] (00001101) will be pushed
+[919] (00001110) End of cycle [919] size is 2
+
+[920] (10001010) ready to be popped
+[920] (10001010) will be popped
+[920] (00000010) arrived at the push interface
+[920] (00001110) End of cycle [920] size is 1
+
+[921] (00001101) ready to be popped
+[921] (00001101) will be popped
+[921] (00000010) ready to be pushed
+[921] (00000010) will be pushed
+[921] (00001110) End of cycle [921] size is 1
+
+[922] (00000010) ready to be popped
+[922] (00000010) will be popped
+[922] (10000101) arrived at the push interface
+[922] (00001110) End of cycle [922] size is 0
+
+[923] (10000101) ready to be pushed
+[923] (10000101) will be pushed
+[923] (00001110) End of cycle [923] size is 1
+
+[924] (10000101) ready to be popped
+[924] (10000101) will be popped
+[924] (00010000) arrived at the push interface
+[924] (00010000) ready to be pushed
+[924] (00010000) will be pushed
+[924] (00001110) End of cycle [924] size is 1
+
+[925] (00010000) ready to be popped
+[925] (00000100) arrived at the push interface
+[925] (00000100) ready to be pushed
+[925] (00000100) will be pushed
+[925] (00001110) End of cycle [925] size is 2
+
+[926] (10001111) arrived at the push interface
+[926] (10001111) ready to be pushed
+[926] (10001111) will be pushed
+[926] (00001110) End of cycle [926] size is 3
+
+[927] (10001101) arrived at the push interface
+[927] (10001101) ready to be pushed
+[927] (10001101) will be pushed
+[927] (00001110) End of cycle [927] size is 4
+
+[928] (00010000) will be popped
+[928] (10001111) arrived at the push interface
+[928] (00001110) End of cycle [928] size is 3
+
+[929] (00000100) ready to be popped
+[929] (00000100) will be popped
+[929] (00001110) End of cycle [929] size is 2
+
+[930] (10001111) ready to be popped
+[930] (10001111) ready to be pushed
+[930] (10001111) will be pushed
+[930] (00001110) End of cycle [930] size is 3
+
+[931] (10001111) will be popped
+[931] (10001011) arrived at the push interface
+[931] (00001110) End of cycle [931] size is 2
+
+[932] (10001101) ready to be popped
+[932] (10001101) will be popped
+[932] (10001011) ready to be pushed
+[932] (10001011) will be pushed
+[932] (00001110) End of cycle [932] size is 2
+
+[933] (10001111) ready to be popped
+[933] (10001111) will be popped
+[933] (00001111) arrived at the push interface
+[933] (00001110) End of cycle [933] size is 1
+
+[934] (10001011) ready to be popped
+[934] (10001011) will be popped
+[934] (00001110) End of cycle [934] size is 0
+
+[935] (00001111) ready to be pushed
+[935] (00001111) will be pushed
+[935] (00001110) End of cycle [935] size is 1
+
+[936] (00001111) ready to be popped
+[936] (00001111) will be popped
+[936] (00001101) arrived at the push interface
+[936] (00001101) ready to be pushed
+[936] (00001101) will be pushed
+[936] (00001110) End of cycle [936] size is 1
+
+[937] (00001101) ready to be popped
+[937] (00001101) will be popped
+[937] (10000001) arrived at the push interface
+[937] (10000001) ready to be pushed
+[937] (10000001) will be pushed
+[937] (00001110) End of cycle [937] size is 1
+
+[938] (10000001) ready to be popped
+[938] (10000001) will be popped
+[938] (10000011) arrived at the push interface
+[938] (00001110) End of cycle [938] size is 0
+
+[939] (10000011) ready to be pushed
+[939] (10000011) will be pushed
+[939] (00001110) End of cycle [939] size is 1
+
+[940] (10000011) ready to be popped
+[940] (10000011) will be popped
+[940] (10000011) arrived at the push interface
+[940] (00001110) End of cycle [940] size is 0
+
+[941] (10000011) ready to be pushed
+[941] (10000011) will be pushed
+[941] (00001110) End of cycle [941] size is 1
+
+[942] (10000011) ready to be popped
+[942] (10000011) will be popped
+[942] (10000000) arrived at the push interface
+[942] (10000000) ready to be pushed
+[942] (10000000) will be pushed
+[942] (00001110) End of cycle [942] size is 1
+
+[943] (10000000) ready to be popped
+[943] (10000000) will be popped
+[943] (00001101) arrived at the push interface
+[943] (00001101) ready to be pushed
+[943] (00001101) will be pushed
+[943] (00001110) End of cycle [943] size is 1
+
+[944] (00001101) ready to be popped
+[944] (00001101) will be popped
+[944] (10001100) arrived at the push interface
+[944] (10001100) ready to be pushed
+[944] (10001100) will be pushed
+[944] (00001110) End of cycle [944] size is 1
+
+[945] (10001100) ready to be popped
+[945] (10001100) will be popped
+[945] (10000101) arrived at the push interface
+[945] (10000101) ready to be pushed
+[945] (10000101) will be pushed
+[945] (00001110) End of cycle [945] size is 1
+
+[946] (10000101) ready to be popped
+[946] (10000101) will be popped
+[946] (10000110) arrived at the push interface
+[946] (00001110) End of cycle [946] size is 0
+
+[947] (10000110) ready to be pushed
+[947] (10000110) will be pushed
+[947] (00001110) End of cycle [947] size is 1
+
+[948] (10000110) ready to be popped
+[948] (10000110) will be popped
+[948] (10001100) arrived at the push interface
+[948] (00001110) End of cycle [948] size is 0
+
+[949] (10001100) ready to be pushed
+[949] (10001100) will be pushed
+[949] (00001110) End of cycle [949] size is 1
+
+[950] (10001100) ready to be popped
+[950] (10001100) will be popped
+[950] (00001110) arrived at the push interface
+[950] (00001110) ready to be pushed
+[950] (00001110) will be pushed
+[950] (00001110) End of cycle [950] size is 1
+
+[951] (00001110) ready to be popped
+[951] (00001110) will be popped
+[951] (00010000) arrived at the push interface
+[951] (00010000) ready to be pushed
+[951] (00010000) will be pushed
+[951] (00001110) End of cycle [951] size is 1
+
+[952] (00010000) ready to be popped
+[952] (00010000) will be popped
+[952] (10001111) arrived at the push interface
+[952] (10001111) ready to be pushed
+[952] (10001111) will be pushed
+[952] (00001110) End of cycle [952] size is 1
+
+[953] (10001111) ready to be popped
+[953] (10001111) will be popped
+[953] (10001001) arrived at the push interface
+[953] (10001001) ready to be pushed
+[953] (10001001) will be pushed
+[953] (00001110) End of cycle [953] size is 1
+
+[954] (10001001) ready to be popped
+[954] (10001001) will be popped
+[954] (00000100) arrived at the push interface
+[954] (00000100) ready to be pushed
+[954] (00000100) will be pushed
+[954] (00001110) End of cycle [954] size is 1
+
+[955] (00000100) ready to be popped
+[955] (00000100) will be popped
+[955] (00001110) arrived at the push interface
+[955] (00001110) ready to be pushed
+[955] (00001110) will be pushed
+[955] (00001110) End of cycle [955] size is 1
+
+[956] (00001110) ready to be popped
+[956] (00001110) will be popped
+[956] (00000010) arrived at the push interface
+[956] (00001110) End of cycle [956] size is 0
+
+[957] (00000010) ready to be pushed
+[957] (00000010) will be pushed
+[957] (00001110) End of cycle [957] size is 1
+
+[958] (00000010) ready to be popped
+[958] (00000010) will be popped
+[958] (00010000) arrived at the push interface
+[958] (00010000) ready to be pushed
+[958] (00010000) will be pushed
+[958] (00001110) End of cycle [958] size is 1
+
+[959] (00010000) ready to be popped
+[959] (00010000) will be popped
+[959] (10000110) arrived at the push interface
+[959] (10000110) ready to be pushed
+[959] (10000110) will be pushed
+[959] (00001110) End of cycle [959] size is 1
+
+[960] (10000110) ready to be popped
+[960] (10000110) will be popped
+[960] (10001001) arrived at the push interface
+[960] (10001001) ready to be pushed
+[960] (10001001) will be pushed
+[960] (00001110) End of cycle [960] size is 1
+
+[961] (10001001) ready to be popped
+[961] (10001001) will be popped
+[961] (00000010) arrived at the push interface
+[961] (00001110) End of cycle [961] size is 0
+
+[962] (00000010) ready to be pushed
+[962] (00000010) will be pushed
+[962] (00001110) End of cycle [962] size is 1
+
+[963] (00000010) ready to be popped
+[963] (00000010) will be popped
+[963] (00000011) arrived at the push interface
+[963] (00000011) ready to be pushed
+[963] (00000011) will be pushed
+[963] (00001110) End of cycle [963] size is 1
+
+[964] (00000011) ready to be popped
+[964] (00000011) will be popped
+[964] (10000000) arrived at the push interface
+[964] (00001110) End of cycle [964] size is 0
+
+[965] (00001110) End of cycle [965] size is 0
+
+[966] (10000000) ready to be pushed
+[966] (10000000) will be pushed
+[966] (00001110) End of cycle [966] size is 1
+
+[967] (10000000) ready to be popped
+[967] (00001011) arrived at the push interface
+[967] (00001011) ready to be pushed
+[967] (00001011) will be pushed
+[967] (00001110) End of cycle [967] size is 2
+
+[968] (10000000) will be popped
+[968] (00000001) arrived at the push interface
+[968] (00000001) ready to be pushed
+[968] (00000001) will be pushed
+[968] (00001110) End of cycle [968] size is 2
+
+[969] (00001011) ready to be popped
+[969] (10001100) arrived at the push interface
+[969] (10001100) ready to be pushed
+[969] (10001100) will be pushed
+[969] (00001110) End of cycle [969] size is 3
+
+[970] (00001011) will be popped
+[970] (00001001) arrived at the push interface
+[970] (00001001) ready to be pushed
+[970] (00001001) will be pushed
+[970] (00001110) End of cycle [970] size is 3
+
+[971] (00000001) ready to be popped
+[971] (00000001) will be popped
+[971] (00001101) arrived at the push interface
+[971] (00001101) ready to be pushed
+[971] (00001101) will be pushed
+[971] (00001110) End of cycle [971] size is 3
+
+[972] (10001100) ready to be popped
+[972] (10001100) will be popped
+[972] (00001101) arrived at the push interface
+[972] (00001101) ready to be pushed
+[972] (00001101) will be pushed
+[972] (00001110) End of cycle [972] size is 3
+
+[973] (00001001) ready to be popped
+[973] (00001001) will be popped
+[973] (00000001) arrived at the push interface
+[973] (00001110) End of cycle [973] size is 2
+
+[974] (00001101) ready to be popped
+[974] (00001101) will be popped
+[974] (00000001) ready to be pushed
+[974] (00000001) will be pushed
+[974] (00001110) End of cycle [974] size is 2
+
+[975] (00001101) ready to be popped
+[975] (00001101) will be popped
+[975] (10001101) arrived at the push interface
+[975] (10001101) ready to be pushed
+[975] (10001101) will be pushed
+[975] (00001110) End of cycle [975] size is 2
+
+[976] (00000001) ready to be popped
+[976] (00000001) will be popped
+[976] (10001001) arrived at the push interface
+[976] (00001110) End of cycle [976] size is 1
+
+[977] (10001101) ready to be popped
+[977] (10001101) will be popped
+[977] (10001001) ready to be pushed
+[977] (10001001) will be pushed
+[977] (00001110) End of cycle [977] size is 1
+
+[978] (10001001) ready to be popped
+[978] (10001001) will be popped
+[978] (10000101) arrived at the push interface
+[978] (10000101) ready to be pushed
+[978] (10000101) will be pushed
+[978] (00001110) End of cycle [978] size is 1
+
+[979] (10000101) ready to be popped
+[979] (10000101) will be popped
+[979] (10001100) arrived at the push interface
+[979] (10001100) ready to be pushed
+[979] (10001100) will be pushed
+[979] (00001110) End of cycle [979] size is 1
+
+[980] (10001100) ready to be popped
+[980] (10001100) will be popped
+[980] (10000000) arrived at the push interface
+[980] (10000000) ready to be pushed
+[980] (10000000) will be pushed
+[980] (00001110) End of cycle [980] size is 1
+
+[981] (10000000) ready to be popped
+[981] (10000000) will be popped
+[981] (10001100) arrived at the push interface
+[981] (10001100) ready to be pushed
+[981] (10001100) will be pushed
+[981] (00001110) End of cycle [981] size is 1
+
+[982] (10001100) ready to be popped
+[982] (10001100) will be popped
+[982] (00000001) arrived at the push interface
+[982] (00000001) ready to be pushed
+[982] (00000001) will be pushed
+[982] (00001110) End of cycle [982] size is 1
+
+[983] (00000001) ready to be popped
+[983] (00000001) will be popped
+[983] (10001010) arrived at the push interface
+[983] (00001110) End of cycle [983] size is 0
+
+[984] (10001010) ready to be pushed
+[984] (10001010) will be pushed
+[984] (00001110) End of cycle [984] size is 1
+
+[985] (10001010) ready to be popped
+[985] (10001010) will be popped
+[985] (10001100) arrived at the push interface
+[985] (10001100) ready to be pushed
+[985] (10001100) will be pushed
+[985] (00001110) End of cycle [985] size is 1
+
+[986] (10001100) ready to be popped
+[986] (10001001) arrived at the push interface
+[986] (10001001) ready to be pushed
+[986] (10001001) will be pushed
+[986] (00001110) End of cycle [986] size is 2
+
+[987] (10001100) will be popped
+[987] (00000001) arrived at the push interface
+[987] (00001110) End of cycle [987] size is 1
+
+[988] (10001001) ready to be popped
+[988] (10001001) will be popped
+[988] (00000001) ready to be pushed
+[988] (00000001) will be pushed
+[988] (00001110) End of cycle [988] size is 1
+
+[989] (00000001) ready to be popped
+[989] (00000100) arrived at the push interface
+[989] (00000100) ready to be pushed
+[989] (00000100) will be pushed
+[989] (00001110) End of cycle [989] size is 2
+
+[990] (00000001) will be popped
+[990] (10000011) arrived at the push interface
+[990] (10000011) ready to be pushed
+[990] (10000011) will be pushed
+[990] (00001110) End of cycle [990] size is 2
+
+[991] (00000100) ready to be popped
+[991] (00000100) will be popped
+[991] (00000100) arrived at the push interface
+[991] (00000100) ready to be pushed
+[991] (00000100) will be pushed
+[991] (00001110) End of cycle [991] size is 2
+
+[992] (10000011) ready to be popped
+[992] (10000011) will be popped
+[992] (10000000) arrived at the push interface
+[992] (10000000) ready to be pushed
+[992] (10000000) will be pushed
+[992] (00001110) End of cycle [992] size is 2
+
+[993] (00000100) ready to be popped
+[993] (00000100) will be popped
+[993] (00001101) arrived at the push interface
+[993] (00001101) ready to be pushed
+[993] (00001101) will be pushed
+[993] (00001110) End of cycle [993] size is 2
+
+[994] (10000000) ready to be popped
+[994] (10000000) will be popped
+[994] (10001001) arrived at the push interface
+[994] (00001110) End of cycle [994] size is 1
+
+[995] (00001101) ready to be popped
+[995] (00001101) will be popped
+[995] (10001001) ready to be pushed
+[995] (10001001) will be pushed
+[995] (00001110) End of cycle [995] size is 1
+
+[996] (10001001) ready to be popped
+[996] (10001001) will be popped
+[996] (10001010) arrived at the push interface
+[996] (10001010) ready to be pushed
+[996] (10001010) will be pushed
+[996] (00001110) End of cycle [996] size is 1
+
+[997] (10001010) ready to be popped
+[997] (10001010) will be popped
+[997] (10001001) arrived at the push interface
+[997] (00001110) End of cycle [997] size is 0
+
+[998] (10001001) ready to be pushed
+[998] (10001001) will be pushed
+[998] (00001110) End of cycle [998] size is 1
+
+[999] (10001001) ready to be popped
+[999] (00001110) arrived at the push interface
+[999] (00001110) ready to be pushed
+[999] (00001110) will be pushed
+[999] (00001110) End of cycle [999] size is 2
+
