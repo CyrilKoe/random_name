@@ -1,0 +1,4 @@
+exercise/*/BUILD/
+exercise/*/pulp_open.sh
+pulp-riscv-gnu-toolchain
+pulp-sdk

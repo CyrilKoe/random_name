@@ -1,1 +1,0 @@
-/home/ckoenig/Documents/phd/interview/sw/pulp-sdk/configs/pulp-open.sh
