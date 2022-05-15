@@ -1,0 +1,1 @@
+__Please open hw/README.md and sw/exercise/README.md__
