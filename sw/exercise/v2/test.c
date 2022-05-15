@@ -43,7 +43,7 @@ void print_matrix(v4u *mat)
     }
 }
 
-void print_matrix_uchar(unsigned int *mat)
+void print_matrix_uint(unsigned int *mat)
 {
     for (int i = 0; i < M; i++)
     {
@@ -109,7 +109,7 @@ int main()
 
 #ifdef PRINT_MATRIX
     printf("\nThis is the Matrix C\n");
-    print_matrix_uchar(tempC);
+    print_matrix_uint(tempC);
     printf("\n");
 #endif
 

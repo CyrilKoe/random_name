@@ -127,9 +127,9 @@ int main()
 
 #ifdef PRINT_MATRIX
     printf("\n\nThis is the Matrix A\n");
-    print_matrix(A, M);
+    print_matrix(A);
     printf("\nThis is the Matrix B\n");
-    print_matrix(B, M);
+    print_matrix(B);
 #endif
 #ifndef STATS
     //initialize performance counters
@@ -165,7 +165,7 @@ int main()
 
 #ifdef PRINT_MATRIX
     printf("\nThis is the Matrix C\n");
-    print_matrix(tempC, M);
+    print_matrix_uint(tempC);
     printf("\n");
 #endif
 
