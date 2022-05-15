@@ -27,6 +27,9 @@ module sr_sw_beh_ram
             tmp_read_data <= words[read_addr];
     end
 
+    // Synchronous read
+    // assign read_data = tmp_read_data;
+    // Asynchronous read
     assign read_data = words[read_addr];
 
 endmodule

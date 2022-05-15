@@ -5,5 +5,6 @@
 ../rtl/top.sv
 
 ../tb/parity_checker_tb.sv
+../tb/sr_sw_beh_ram_tb.sv
 ../tb/fifo_tb.sv
 ../tb/top_tb.sv
